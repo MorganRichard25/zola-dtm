@@ -1,0 +1,763 @@
+Topic,Words,Frequency,Class
+0,"villa, eminence, buis amer, buis, vue admirable",6,Rome.
+1,"trône, figue, salle trône, garde suisse, patrimoine",22,Rome.
+2,"temple, tombeau, basilique, dôme, mont",33,Rome.
+3,"socialisme, catholicisme, dogme, démocratie, christianisme",26,Rome.
+4,"porte bronze, prêtre audience, dôme, vieillard regard, contrecoup",7,Rome.
+5,"mort amant, frénésie, impur nudité, effrayante, vivant beal",2,Rome.
+6,"secrétaire cardinal, cher fils, bois noir, affable, metton pièce",2,Rome.
+7,"jésuite, prélat, figue, pape pape, cher fils",30,Rome.
+8,"rue ombre, gare voiture, fronton, quartier neuf, villa",2,Rome.
+9,"poison, caudataire, panier figue, mort voisin, office panier",1,Rome.
+10,"idée cher, antéchrist, apostolique romain, condamnable, eminence",8,Rome.
+11,"cent million, spirituel temporel, missionnaire, dissident, conquête domination",2,Rome.
+12,"religion religion, respectueux dogme, panier figue, demanderesse, cher fils",5,Rome.
+13,"abandon soir, café cher, beauté incomparable, pièce dallée, moitié salle",1,Rome.
+14,"nom rapporteur, place peuple, beau place, bande ciel, oncle cardinal",3,Rome.
+15,"prélat, romain, jésuite, pontifical, eminence",26,Rome.
+16,"aristocratie, peuple aristocratie, marche royal, figue, carrosse",5,Rome.
+17,"étroit place, romain, palmier, poignard, barque",3,Rome.
+18,"industrie commerce, aristocratie peuple, peuple bourgeoisie, aristocratie, industrie",2,Rome.
+19,"jésuite, annulation, annulation mariage, candidat, cardinal candidat",5,Rome.
+20,"voûte caisson, paillasse, haut voûte, pape pape, caisson",2,Rome.
+21,"perlier, bel perlier, chêne vert, lac, annulation mariage",5,Rome.
+22,"cercueil, triple, craquement final, élévation tintaient, midi congé",1,Rome.
+23,"confesseur, franciscain, pied sommeil, brutal égalité, profit parole",1,Rome.
+24,"fragment colonne, villa, clé porte, bel cher, sarcophage",6,Rome.
+25,"papauté, lien charité, fresque, unité, jubilé",12,Rome.
+26,"armure, soir bel, félicitation, collier, parure",2,Rome.
+27,"figue, diamant noir, panier figue, salle trône, perruche",8,Rome.
+28,"villa, agio, émission, foncier, spéculateur",3,Rome.
+0,"piscine, seigneur malade, année prochain, prière matin, compartiment",13,Lourdes.
+1,"tombeau, brancardier, tombeau marbre, seigneur malade, dais",25,Lourdes.
+2,"chariot, rosaire, travée, nuée lumineux, complainte",12,Lourdes.
+3,"souffrance humain, fils malade, grain sable, lit voisin, religion nouveau",12,Lourdes.
+4,"immaculé conception, infirmerie, demi espagnol, jeudi mars, immaculé",7,Lourdes.
+5,"assomption, pèlerinage, cloison, journal billet, fer aide",1,Lourdes.
+6,"herse, certificat médecin, certificat, timbre poste, salle ménage",3,Lourdes.
+7,"hospitalier, chariot, marchand cierge, baignoire, hermoise",5,Lourdes.
+8,"révérend, sœur sac, train blanc, transport malade, train malade",3,Lourdes.
+9,"entrepreneur, côté fâcheux, franc conseil, envoi argent, ville franc",2,Lourdes.
+10,"frère cher, cher sœur, cher frère, illusion paradis, soir saint",13,Lourdes.
+11,"hospitalier, seigneur seigneur, miracle guérison, sangle, seigneur rendez",9,Lourdes.
+12,"guérie, lupus, cantique, piscine, guérie guérie",10,Lourdes.
+13,"rognon, tarte, abricot, côtelette purée, fruit pêche",4,Lourdes.
+15,"église paroissial, paroissial, nouveau église, froid pratique, ulcère",7,Lourdes.
+16,"brancardier, révérend, compartiment, valise, dame hospitalier",10,Lourdes.
+17,"chapelet, flot prêtre, triforium, miraculé, bannière",8,Lourdes.
+18,"malheureux malade, béquille, médecin malade, broc, bidon",1,Lourdes.
+19,"plaie apparent, certificat, guérison miracle, fourmillement, diagnostic",3,Lourdes.
+20,"train blanc, chef gare, brancardier, pèlerinage, dais",9,Lourdes.
+21,"ligament, voyage dernier, digne maison, seigneur digne, seigneur seigneur",4,Lourdes.
+22,"année prochain, souffle abbé, église endroit, long chasteté, mariage marchand",2,Lourdes.
+23,"cicatrice, nerveux mois, pauvre clé, clé, linge pied",3,Lourdes.
+24,"emballage, guérie guérie, bouteille boîte, lumière joie, plaie plaie",10,Lourdes.
+25,"tumeur, magnificat, piscine, souffle divin, miraculé",13,Lourdes.
+26,"portière wagon, mari sœur, classe chambre, abbé corps, faible misérable",1,Lourdes.
+27,"constatation, bureau constatation, cadenas, chariot, cercueil roulant",8,Lourdes.
+0,"pelisse, insurgé, membre commission, tas planche, bande insurgé",15,La fortune des Rougon.
+1,"borgne, pistolet, charron, pierre tombal, tombal",12,La fortune des Rougon.
+2,"insurgé, aire, proclamation, esplanade, ancien cimetière",12,La fortune des Rougon.
+3,"fortune temps, faux route, aspiration, clergé, diable nez",2,La fortune des Rougon.
+4,"insurrection, salon jaune, rougon, ville neuf, illettré",3,La fortune des Rougon.
+5,"tant, lèvre baiser, tocsin, baiser long, lamentation aigre",3,La fortune des Rougon.
+6,"receveur, républicain mairie, prix sang, lettre fils, place gros",7,La fortune des Rougon.
+7,"ressemblance physique, hôtel poste, compensation, rougon, fils aîné",3,La fortune des Rougon.
+8,"insurgé, contingent, commandant, salon jaune, fonctionnaire",15,La fortune des Rougon.
+9,"salon jaune, fameux salon, commandant, marchand huile, ancien marchand",8,La fortune des Rougon.
+10,"drapeau hampe, insurgé, premier maison, route route, hampe",2,La fortune des Rougon.
+11,"contingent, tocsin, insurgé, liège, gourdin",3,La fortune des Rougon.
+12,"balle oreille, puits, ossement, tombal, pierre tombal",7,La fortune des Rougon.
+13,"châtaigne, embellissement, respectable, bête somme, mobilier fané",2,La fortune des Rougon.
+14,"enclos, contrebandier, carabine, rougon, maison rougon",17,La fortune des Rougon.
+15,"commandant, insurgé, salon jaune, parti conservateur, clergé",10,La fortune des Rougon.
+16,"scieur, scieur long, aire, bohémien, lune hiver",5,La fortune des Rougon.
+17,"insurgé, garde national, tant, vue joli, calotte soie",3,La fortune des Rougon.
+18,"ennemi république, rougon, fort somme, tremblement regard, mère état",2,La fortune des Rougon.
+19,"députation, commission provisoire, provisoire, rouge coin, gendarme sang",1,La fortune des Rougon.
+20,"nombre incalculable, aire, rêva, garde national, tas planche",3,La fortune des Rougon.
+21,"salon jaune, rougon, république, soirée salon, ganache",10,La fortune des Rougon.
+23,"puits, maudit, carabine, maudire, large demi",2,La fortune des Rougon.
+24,"rat cave, fusil canon, conjuré, rat, courrier",3,La fortune des Rougon.
+25,"braconnier, diablesse, fardeau, fier force, déshérité simple",2,La fortune des Rougon.
+26,"capuchon, détail visage, tempe visage, torsade, inquiet mesure",1,La fortune des Rougon.
+27,"ville aplomb, ardent fortune, municipal ville, dernier situation, temps possession",1,La fortune des Rougon.
+0,"quenu, charcuterie, boudin, page calcul, maniotte",11,Le ventre de Paris.
+1,"groseille, prune, guigne, langouste, poisson",3,Le ventre de Paris.
+2,"poisson doux, poissonnerie, vitrail, bourriche, ramier",8,Le ventre de Paris.
+3,"boudin noir, grog, dinde, saucisse, mise côté",2,Le ventre de Paris.
+4,"charcuterie, charcutier, quenu, bel bel, étuve",13,Le ventre de Paris.
+6,"barbue, poissonnière, marchand beurre, poisson, poissonnière gros",6,Le ventre de Paris.
+7,"dahlia, camion, punch, théière, rue couvert",2,Le ventre de Paris.
+8,"plein grouillement, crabe, ventre plein, broc, grouillement",1,Le ventre de Paris.
+9,"volaille, marchand fruit, rôtisserie, alphabet, pavillon beurre",5,Le ventre de Paris.
+11,"pigeon, manne, resserre, carpe, turbot",4,Le ventre de Paris.
+12,"quenu, déportation, chair saucisse, maraîcher, flânerie",4,Le ventre de Paris.
+13,"boudin, charcutier, charcuterie, marmite, cousin histoire",16,Le ventre de Paris.
+14,"godiveau, quenu, raie, lard, rôtisserie",6,Le ventre de Paris.
+15,"charcuterie, boyau, grenadier, croquis, gorge énorme",8,Le ventre de Paris.
+16,"volaille, resserre, carotte, chou, navet",16,Le ventre de Paris.
+17,"mirabelle, guimpe, cabas, tranche gigot, casemate",3,Le ventre de Paris.
+18,"quenu, cornet, square, charcuterie, charcutier",9,Le ventre de Paris.
+19,"carnaval, navet, regard profondeur, menotte poignet, société étrange",2,Le ventre de Paris.
+20,"menton pomme, marchand volaille, discours trône, marmaille, fort barbe",2,Le ventre de Paris.
+21,"toque velours, franc joli, écossais, quenu, poissonnière",3,Le ventre de Paris.
+23,"fromage, carotte, maraîcher, armée balayeur, olivet",6,Le ventre de Paris.
+24,"gras gras, gras maigre, pile, maigre gras, marchand beurre",3,Le ventre de Paris.
+26,"frère porte, lointaine ressemblance, viande crue, éboulement continu, clarté cheveu",1,Le ventre de Paris.
+27,"robe bleu, dénonciation, chapitre, question balbutia, écriture balbutia",2,Le ventre de Paris.
+0,"candélabre, foyer face, relevé entrée, vitre serre, double portière",9,La curee.
+1,"inceste, calèche, bracelet, aigrette, peau ours",12,La curee.
+2,"lac, calèche, taillis, socle, fumoir",16,La curee.
+3,"parenté, existence rigide, tactique génie, verve méridional, journal société",1,La curee.
+4,"nymphe, maillot, loupe, tertre, nymphe écho",12,La curee.
+5,"expropriation, courtier, affaire doux, tailleur franc, besoin beal",2,La curee.
+6,"expropriation, lac, agent expropriation, duc, aigrette",8,La curee.
+7,"prodigieux prodigieux, emprunt, attitude mot, bande table, mot risquer",2,La curee.
+8,"nougat, point noir, dressoir, vol perdrix, vide dressoir",1,La curee.
+9,"lar, registre, soir rendez, danseur, agent expropriation",3,La curee.
+12,"point noir, dame taille, verveine, trou feuillage, sourire question",1,La curee.
+14,"rue pépinière, pépinière, indemnité, commission indemnité, immeuble rue",7,La curee.
+15,"nymphe, entaille, réseau, estrade, poème",7,La curee.
+16,"entresol, immeuble, déblai, déblai remblai, bail locataire",5,La curee.
+17,"front nuque, demi mot, soie rouge, indemnité, courtier",4,La curee.
+18,"capuchon, point rouge, blouse satin, salon soirée, gros croix",10,La curee.
+21,"dame blond, sénateur, éloge mari, scrutin, œillet",5,La curee.
+23,"bracelet, gaze, râle, discret odeur, front barre",3,La curee.
+24,"mercredi, souper, école classique, odeur poussière, plaisir vif",3,La curee.
+26,"milliard, salon bouton, cornet piston, piston, ratatinée",5,La curee.
+27,"dame cavalier, peigne, cavalier, danseur, situation tolérable",3,La curee.
+28,"terrain bordure, entrepreneur, concessionnaire, bénéfice net, indemnité",4,La curee.
+0,"octroi, lit maman, linge lit, refrain, maillon",27,L assommoir.
+1,"crevaison, blanchisseur chambre, fleur pissenlit, pissenlit, interne",7,L assommoir.
+2,"mal cheveu, soûlard, gros chaleur, frisson étouffement, doré lumière",2,L assommoir.
+4,"fleuriste, maquereau, boulon, chapelier, pois lard",25,L assommoir.
+5,"courage fenêtre, lit gorge, faim ruisseau, sacrer musique, tatouille",1,L assommoir.
+6,"coquille, seau chaud, baquet, travail mur, rue maison",5,L assommoir.
+8,"figure joie, interminable campagne, haut foudre, noce porte, ruisseau grossir",1,L assommoir.
+9,"zingueur, litre, assommoir, chapelier, sergent ville",53,L assommoir.
+10,"de vie, eau, eau de, vie, rat",2,L assommoir.
+11,"forge, copeau, croque, vif pomme, vrai rue",9,L assommoir.
+12,"pan pan, laveuse, boulon, interne, chahut",12,L assommoir.
+13,"oie, blanquette, croupion, épinée, potage",17,L assommoir.
+14,"chapelier, zingueur, bordée, perse, rouleau",4,L assommoir.
+15,"scierie mécanique, œuf neige, scierie, arbre mort, saladier",3,L assommoir.
+16,"zingueur, soif soif, marchand vin, litre, coudoyée",9,L assommoir.
+17,"rivet, sucre orge, orge, enclume, corbillard",3,L assommoir.
+18,"zingueur, anisette, seau, paquet linge, linge sale",12,L assommoir.
+20,"coupeau, sabot, forban, neige fin, vin tasse",9,L assommoir.
+21,"zingueur, forge, chameau, chapelier, vendredi",5,L assommoir.
+23,"nichon, morceau glace, ver, porte bonsoir, fort fort",9,L assommoir.
+24,"concierge trottoir, chapiteau, établi, zingueur, bobo",2,L assommoir.
+25,"boulon, rivet, courroie, boulon rivet, enclume",1,L assommoir.
+26,"fromage blanc, amidon, camisole, fraise, paire manche",8,L assommoir.
+27,"bail, fessée, chapelier, figure tordre, terme franc",1,L assommoir.
+28,"mois lit, livret, face blond, entier course, convalescent peine",1,L assommoir.
+0,"ambulance, drapeau blanc, maréchal, major, carriole",11,La debacle.
+1,"obu, prussien, drap blanc, membre commune, ruelle maison",11,La debacle.
+2,"algérie, plateau algérie, division, premier corps, rive gauche",7,La debacle.
+3,"drapeau blanc, blanc citadelle, canon canon, citadelle, linge blanc",2,La debacle.
+4,"surface, cadavre humain, lit cadavre, intimité délicieux, geste confus",2,La debacle.
+5,"sœur larme, docteur cabriolet, brassard, brouette, carriole",4,La debacle.
+6,"capitaine verre, prussien, brouette, raisonnable geste, rêver travail",2,La debacle.
+7,"maréchal, empereur ferme, pliant, chef armée, baquet",7,La debacle.
+8,"prussien, batterie, régiment, obu, septième",76,La debacle.
+9,"escouade, caporal, lieutenant, régiment, oie",16,La debacle.
+10,"large nez, sang frère, mari officier, nez carré, barbe cheveu",6,La debacle.
+11,"hattoy, maréchal, prussien, champ bataille, chassepot",11,La debacle.
+12,"infirmier, prussien, major, obu, lieutenant",16,La debacle.
+13,"prussien, eylau, escouade, blanc verre, soupe escouade",7,La debacle.
+14,"lâche lâche, septième corps, corps armée, septième, prussien",5,La debacle.
+15,"espace bout, fabricant drap, silvine, fabricant, fabrique",3,La debacle.
+16,"victoire plan, certitude victoire, raclée, septième corps, septième",2,La debacle.
+17,"retraite matin, violent plan, instant hâte, route officier, cheval général",1,La debacle.
+18,"prussien, nécessaire sang, route champ, sous lieutenant, malchance",7,La debacle.
+20,"pointeur, obu, batterie, prussien, caisson",7,La debacle.
+21,"rive, armée allemand, rive droite, cent canon, rive gauche",2,La debacle.
+22,"répondit, menton train, compagnie volée, nom soldat, colonel lieutenant",1,La debacle.
+23,"voiturier, cent canon, sale bougre, silvine, gros dame",6,La debacle.
+24,"régiment, armée retraite, bruit cheval, pharmacien, ivre fatigue",6,La debacle.
+25,"canon crosse, folie subite, violent larme, prisonnier arme, colonel pied",1,La debacle.
+27,"trou cœur, prussien bête, passivité, connaissance bête, gentil mort",2,La debacle.
+0,"éternel mécontentement, lourd bourdonnant, écran toile, pinceau, divan pose",13,L oeuvre.
+1,"paravent, salon honneur, tourlaqu, rue tourlaqu, complémentaire",16,L oeuvre.
+2,"cèpe, soir pain, draperie, formule, palpitation",4,L oeuvre.
+3,"œuvre nom, haut prix, école plein, côté maison, tourlaqu",5,L oeuvre.
+4,"arbre bleu, violoncelle, sculpteur, tabac, palette",18,L oeuvre.
+5,"veston velours, phase, copie, écrivain, métier branle",5,L oeuvre.
+6,"cher maître, hanche gauche, station voiture, mahoudeau, herboristerie",8,L oeuvre.
+7,"trac, entier allée, entier serrer, gare journée, peintre plein",2,L oeuvre.
+8,"artiste riche, peintre maître, imbécile moment, simple veston, paysan vrai",1,L oeuvre.
+9,"succès succès, pauvre gros, amateur, table thé, desserrer dent",13,L oeuvre.
+10,"homard, gros lot, rattrapa, face marchand, querelle misérable",4,L oeuvre.
+11,"ébauche, immortalité, plein fin, dragueuse, vote",11,L oeuvre.
+12,"membre muscle, garde concierge, genou morceau, vide maire, époux sacramentel",1,L oeuvre.
+13,"bouillabaisse, rôtie, article article, bouquin, couleur complémentaire",9,L oeuvre.
+14,"rive, péniche, bariolé, flèche, rive droite",2,L oeuvre.
+15,"ébauche, école plein, jury, corbillard, amateur",14,L oeuvre.
+16,"bacchante, bac, omelette saucisse, châssis, moulage",8,L oeuvre.
+17,"cimaise, tableau superbe, géométrie, coussin, nappe vin",4,L oeuvre.
+18,"botte carotte, réalisme, carotte, bout nez, crétin",2,L oeuvre.
+20,"touffu noir, affaire rondement, franc construction, fonte cri, bruit soucoupe",3,L oeuvre.
+21,"immense souffle, mur modèle, tableau mur, perspective, bouquin",4,L oeuvre.
+22,"haut atelier, corbillard, cœur renouveau, cousin âgé, misère bouche",3,L oeuvre.
+23,"jury, dépouillement, refus jury, hôtel face, botte rose",6,L oeuvre.
+24,"fin toile, câlinerie, chevalet, cochonnerie, tour silencieux",2,L oeuvre.
+25,"canot, pommier, vierge bouche, herbe île, verdure désert",1,L oeuvre.
+27,"chapeau feutre, lilas, feutre, paravent, espace vaste",3,L oeuvre.
+28,"rancune mot, mort esprit, phrase exclamation, situation cher, boutique mahoudeau",1,L oeuvre.
+0,"modèle écriture, tampon, capucin, adjoint, clérical",14,Verite.
+1,"passion vérité, pratique religieux, premier mariage, superstition, conscience vérité",10,Verite.
+2,"municipal membre, statue saint, réactionnaire, conseil municipal, somme considérable",2,Verite.
+3,"enseignement, primaire, laïque, simoniste, clérical",37,Verite.
+4,"simoniste, anti simoniste, anti, école instituteur, primaire",12,Verite.
+5,"petite fille, communion, petite, vérité raison, pratique religieux",13,Verite.
+6,"sale juif, catéchisme, catéchisme communion, juif sale, papeterie",10,Verite.
+7,"modèle paraphe, école communal, ignorantin, paraphe, face école",5,Verite.
+8,"mort juif, sans, passage furieux, conduite moment, clair cloche",1,Verite.
+9,"querelle propos, excellent ouvrier, beaumontai, frère doctrine, cent habitant",5,Verite.
+10,"heureux avenir, cahier, clérical, physique moral, tendresse épouse",5,Verite.
+11,"misérable école, furieux protestation, souci misérable, complet satisfaction, esprit question",1,Verite.
+12,"obscurcir, règne, attitude nerveux, ruine amour, côté chéri",3,Verite.
+13,"distribution prix, meilleur élève, assistance, foule frémissant, frère accusation",2,Verite.
+14,"primaire, enseignement, royaliste, école laïque, baron",14,Verite.
+15,"modèle écriture, simoniste, huis, procureur, anti",20,Verite.
+16,"brevet, lithographe, prix école, charme clair, riche sorte",1,Verite.
+17,"juif juif, solidarité justice, futur vérité, catéchisme, geste mot",6,Verite.
+18,"beauté volupté, mère raison, initial, vent soir, idée doute",8,Verite.
+19,"modèle écriture, paraphe, cachet, jury, version",23,Verite.
+20,"perquisition, mort mort, beaumontai, billet gare, cause commerce",1,Verite.
+21,"scriptum paraphe, post scriptum, scriptum, post, paraphe",9,Verite.
+23,"adresse nourrice, orgueil orgueil, poison, amour gloire, ouvrage broderie",5,Verite.
+24,"judas, élection prochain, affaire administratif, instituteur primaire, désastreux affaire",5,Verite.
+25,"pierre pierre, nom école, gamin bouquet, robe neuf, petit enfant",3,Verite.
+27,"confession, tendresse ardent, saint image, délice paradis, soir arrestation",11,Verite.
+28,"obligation, obligation hypothécaire, hypothécaire, souscripteur, prospectus",1,Verite.
+0,"cuvelage, flacon, salade russe, flacon flacon, vilebrequin",12,Germinal.
+1,"goyot, vert route, route tournant, échelon, soir chandelle",11,Germinal.
+2,"criblage, fourneau four, gros long, beffroi, gros cheval",5,Germinal.
+3,"coron, popularité, chope, affiche, cabaretier",11,Germinal.
+4,"pierronne, quille, cul, logeur, jeu quille",7,Germinal.
+5,"partie partie, garde moi, faute faute, grisou, briquet",4,Germinal.
+6,"franc amende, amende, cribleuse, trémie, dernier grève",8,Germinal.
+7,"centime berline, berline, délégué, mineur, prix berline",5,Germinal.
+8,"porion, grève, mineur, gréviste, forêt cri",9,Germinal.
+9,"grève, mineur, cloutier, chope, estaminet",26,Germinal.
+10,"long muet, mine éducation, bloc houille, chaleur frisson, dissipa",1,Germinal.
+11,"puits, porion, cuvelage, berline, mineur",35,Germinal.
+12,"galerie roulage, berline, aérage, rivelaine, roulage",13,Germinal.
+13,"fromage cochon, galoche, jatte, coron, brioche",10,Germinal.
+14,"enchère, faille, houille, pétrin, marchandage",6,Germinal.
+15,"mineur, délégué, boisage, berline, grève",13,Germinal.
+16,"denier, chope, pain pain, mineur, cafetière",8,Germinal.
+17,"jardin dame, poireau, légume soupe, éponge table, propre doute",1,Germinal.
+18,"internationale, machineur, houille, souricière, tartine",9,Germinal.
+20,"lapine, haveur, mineur, porion, crosse",12,Germinal.
+21,"appointement franc, souffrance guérison, continuelle image, champ éternel, froid souffrance",1,Germinal.
+23,"idée pain, porte jardin, voiture cheval, hangar auberge, sale haleine",4,Germinal.
+24,"coron, canal, terri, camarade affaire, coude rire",7,Germinal.
+25,"genièvre, coron, misère coron, parole conseiller, pitié affreux",2,Germinal.
+26,"sens histoire, étranger colère, affaire étranger, clair abondant, sort travailleur",1,Germinal.
+27,"logeur, coron, terri, nom nom, porion",4,Germinal.
+0,"piqueur bottine, piqueur, escalier service, bottine, intérêt intérêt",34,Pot-bouille.
+1,"sujet pièce, gigot chou, fin soirée, chou fleur, boyau",4,Pot-bouille.
+2,"gaz étage, tapis rouge, porte appartement, porte acajou, appartement rue",1,Pot-bouille.
+4,"bonne, campardon, peignoir, migraine, décence",39,Pot-bouille.
+5,"gros gras, mot profond, orgue, agrément, chœur",4,Pot-bouille.
+6,"gifle, beau poste, duel indispensable, clef grenier, numéro numéro",15,Pot-bouille.
+7,"mot pointe, moindre attention, écriture balbutia, ventre cheval, église porche",2,Pot-bouille.
+8,"barre appui, salon dame, poignard, bonté fils, invité salon",1,Pot-bouille.
+9,"oncle franc, franc oncle, assurance, ami maîtresse, honnête honnête",11,Pot-bouille.
+10,"quartier histoire, franc retraite, temps garde, frémissant honte, mot cour",4,Pot-bouille.
+11,"mur jambe, franc meuble, faux col, fenêtre image, artiste abomination",2,Pot-bouille.
+12,"fesse, gâche, ventre douleur, colique, sale bête",9,Pot-bouille.
+13,"pruneau, nourriture toilette, fiche fiche, savate, table assiette",5,Pot-bouille.
+14,"voleur voleur, franc hypothèque, chambre maître, contrat, loyer",5,Pot-bouille.
+15,"tasse thé, sacristie marié, couloir cuisine, maison façade, chœur",9,Pot-bouille.
+16,"soir déjeuner, violon, soierie, triste charmant, glace portière",3,Pot-bouille.
+17,"ténor, ordre magasin, facture, dette dette, plume oreille",10,Pot-bouille.
+18,"campardon, maigre anguleux, ménage cher, pardon joie, pièce morne",5,Pot-bouille.
+20,"gueule travers, assurance, romanesque, chameau, dégel",4,Pot-bouille.
+21,"temps dot, besoin frère, frère pauvre, mari heureux, assurance",8,Pot-bouille.
+23,"lama, ventre ventre, cause saint, moine, porte autrefoi",16,Pot-bouille.
+24,"bénédiction poignard, revolver poche, bruit violent, chaise cabinet, violent querelle",6,Pot-bouille.
+26,"regard gorge, instant chambre, peur médecin, délicat mari, mari dégoût",2,Pot-bouille.
+27,"tact, ténor, encrier, sacrement, syllabe",7,Pot-bouille.
+28,"indien, possession lent, architecte cher, instrument doigt, rue transition",1,Pot-bouille.
+0,"soudure, nourrisson, infanticide, meneur, avortement infanticide",14,Fecondite.
+1,"maternité, constance, conjugal, chirurgien, couloir salon",29,Fecondite.
+2,"cent hectare, flot lait, pauvre malheureux, lampe électrique, journée matin",6,Fecondite.
+3,"moulin, fraude, sel, lande, civilisation",14,Fecondite.
+4,"clinique, biberon, meneur, poupon, petiot",20,Fecondite.
+5,"constance, misère humain, nécessaire naissance, employé médiocre, frisson instinctif",5,Fecondite.
+6,"natalité, charron, fils unique, gros poisson, égoïste jouissance",9,Fecondite.
+7,"chantage, fils mort, lande, lande enclave, enclave",8,Fecondite.
+9,"demi million, clinique, organe sain, castration, maman tour",5,Fecondite.
+10,"meneur, petiot, adresse adresse, nourrisson, batteuse",15,Fecondite.
+11,"rigole, sorte rêve, trappe, mouchoir cou, poupon",6,Fecondite.
+12,"bagne, assassin assassin, syncope, dame tante, rictus",4,Fecondite.
+13,"écrevisse, grossesse inattendu, cher ami, hypothèse, maître hôtel",5,Fecondite.
+14,"allaitement, moulin, arrière grand, famille nombreux, bête malade",12,Fecondite.
+15,"fraude, sage sage, forme tour, nichée, araignée",6,Fecondite.
+16,"force puissance, semence, germe, infécondité, domaine entier",3,Fecondite.
+17,"rosier blanc, jolie ouvrier, rose blanc, arrière garde, royal couple",11,Fecondite.
+18,"meneur, corneille, lait lait, déchet, faute faute",7,Fecondite.
+19,"occlusion, stérilité, médication, constance, probable",3,Fecondite.
+20,"maman malade, coupé, enclave, quartier cohue, surprise fâcheux",3,Fecondite.
+21,"moulin, pays couteau, dernier portrait, règlement compte, lettre tendre",13,Fecondite.
+22,"divin désir, fraudeur, cheveu fou, désir amour, vert côte",3,Fecondite.
+23,"vous chasse, ancien rendez, joie force, lignée, hectare",5,Fecondite.
+24,"fournisseur armée, train quart, vous chasse, ancien rendez, campagne dimanche",18,Fecondite.
+25,"subsistance, santé joie, conquérant, famille domaine, fertilité",18,Fecondite.
+26,"flandrin, fort accent, gai insouciant, mousquetaire moustache, aventure confidence",2,Fecondite.
+27,"cabriole, trappe, comptable, remboursable, sœur visite",13,Fecondite.
+28,"soie jaune, œuvre œuvre, passion créature, premier août, travail récent",2,Fecondite.
+0,"brodeur, évêché, bobine, collatéral, gros cloche",7,Le reve.
+1,"monseigneur, brodeur, mitre, brodeuse, évêché",22,Le reve.
+2,"monseigneur, encensoir, fils monseigneur, voussure, tympan",8,Le reve.
+3,"bourreau, bouillant, cachot, souffrance saint, cest",1,Le reve.
+4,"échafaud, vitrail, blouse gris, itinéraire, monseigneur",4,Le reve.
+5,"mal mal, heureux amour, relief, immense plein, fièvre bel",3,Le reve.
+9,"officieux, tutelle officieux, adoption, tutelle, tuteur",1,Le reve.
+10,"monseigneur, cher âme, arbre pierre, mur château, jardin soin",4,Le reve.
+11,"hostie, surnaturel, faible part, vitrail chapelle, pesant paire",2,Le reve.
+12,"flocon ouate, quidquid, cornet papier, papier blanc, blanc monseigneur",3,Le reve.
+14,"beau riche, vélin, riche roi, beau dieu, brodeur",4,Le reve.
+21,"monseigneur, nué, évêché, solive, dais moment",4,Le reve.
+22,"verrier, parton, vitrail, entour, cher seigneur",6,Le reve.
+23,"saule ombre, demoiselle état, vif simple, hasard course, sœur tendre",1,Le reve.
+25,"monseigneur, dyable, chapelle roman, lion, mitre",7,Le reve.
+26,"chape, chasuble, donjon, ensuble, poignée fleur",3,Le reve.
+27,"camisole, rituel, aspersoir, monseigneur, saint huile",2,Le reve.
+0,"deberl, docteur deberl, clématite, odeur verveine, chambre malade",37,Une page d amour.
+1,"deberl, poupée, manutention, poche robe, maman maman",25,Une page d amour.
+2,"soldat soldat, cerceau, hachure, poupée, rive",12,Une page d amour.
+4,"deberl, shako, rose gras, pianiste, bande bleu",19,Une page d amour.
+5,"mouillette, deberl, mois août, orme, long quai",4,Une page d amour.
+6,"paire soulier, ange paradis, chambre rose, chagrine, gentil geste",4,Une page d amour.
+9,"table libre, pétard, quadrille, cou menton, épaisse tranche",2,Une page d amour.
+10,"épouser, docteur deberl, geste large, vert décor, coin tournant",3,Une page d amour.
+12,"sangsue, deberl, instant instant, burnous, larme docteur",8,Une page d amour.
+13,"casserole, rideau cotonnade, mouillette, vinaigre, thym",4,Une page d amour.
+16,"gigot, filet sole, merlan, réverbère, paire soulier",3,Une page d amour.
+17,"réalisme, deberl, cimetière vide, dame fils, valet dame",12,Une page d amour.
+18,"poêle salle, potion, shako, souffre, râteau",5,Une page d amour.
+20,"deberl, prêtre chaire, monocle, crème, symétrie",4,Une page d amour.
+21,"compte mois, bal bal, quotidien ménage, habitude face, course conversation",2,Une page d amour.
+22,"paume, paupière clos, ombre pâleur, blanc lenteur, laiteux fumée",3,Une page d amour.
+23,"pied neige, reflet rose, mince rire, réaction nerveux, chambre contraire",3,Une page d amour.
+24,"corbillard, deberl, char, touffe, fenêtre exclamation",4,Une page d amour.
+26,"robe brodée, natte, épingle, long épingle, camelote",5,Une page d amour.
+27,"deberl, docteur deberl, savai, voiture chambre, quadrille",7,Une page d amour.
+0,"électrode, cent kilogramme, minerai, batterie four, intérêt personnel",7,Travail.
+1,"haut fourneau, four électrique, coulée, cesse accru, récréation",18,Travail.
+2,"lainage loque, câble, allée orme, travail repos, machine soufflant",7,Travail.
+3,"salariat, collectiviste, évolution, capital travail, pacte",41,Travail.
+4,"usine usine, clé, délicieux enfance, maison convalescence, réconciliation",2,Travail.
+5,"résignera, race empire, décombre fumant, justice paix, espoir avenir",7,Travail.
+6,"argent milliard, rouge flamme, automobile, bleuse, mont bleuse",6,Travail.
+7,"fonte, force électrique, fonte minerai, bâton besace, électrique fonte",3,Travail.
+8,"cheminée tour, machine outil, flamme vide, tour canon, courre",4,Travail.
+9,"clé, empoisonneur mort, voleur empoisonneur, mort voleur, empoisonneur",9,Travail.
+10,"travail œuvre, ami ami, abîme association, maison convalescence, amie sœur",8,Travail.
+11,"creuset, fusion, cingleur, marteau cingleur, puddleur",11,Travail.
+12,"fauve peau, garce garce, gros nouveau, harde, fureur sombre",5,Travail.
+13,"pillage, truite, mauvais esprit, table aimable, profond fidèle",2,Travail.
+14,"rail, laminoir, salariat, atelier apprentissage, apprentissage",9,Travail.
+15,"haut fourneau, collectivisme, da, grand livre, petit da",7,Travail.
+16,"quincaillier, faux serpe, tranchet, demande crédit, soupçonneux",4,Travail.
+17,"père peine, gai bel, baise, enfant, petit enfant",4,Travail.
+18,"jumelle, vrai mari, camarade grève, pot cassé, communiste",6,Travail.
+19,"potier, poing cri, riverain, travail force, foire",4,Travail.
+20,"pain étalage, blond ébouriffé, gros gendarme, papa papa, boue noir",4,Travail.
+21,"haut fourneau, maître fondeur, fondeur, courant plaine, caractère exécrable",9,Travail.
+22,"dernier regard, intelligence génie, long fauteuil, ville prospère, rire demi",1,Travail.
+24,"préfet maire, sous préfet, ouvrier actif, cordonnerie, volonté courage",5,Travail.
+25,"créateur, mont, électricité, table table, harmonie",16,Travail.
+26,"envieux, levier, supérieur lutte, frère tout, travail indifférent",1,Travail.
+27,"petit fils, abîme association, chambre vieillard, descendance, poche pièce",8,Travail.
+0,"folie don, maître maître, cadeau tiroir, cierge table, jaune jambe",11,Le docteur Pascal.
+1,"hérédité, choc moral, manuscrit, brassière, bord terrasse",18,Le docteur Pascal.
+2,"bastide, macquart, chambre docteur, aire, coloration",7,Le docteur Pascal.
+3,"manuscrit, feu feu, frisson lourd, menaçant silence, plafond ombre",2,Le docteur Pascal.
+4,"rente notaire, faim larme, blanc blonde, piqûre, fleur fleur",8,Le docteur Pascal.
+5,"mistral, maître maître, cadeau corps, plaisir maître, église heureux",9,Le docteur Pascal.
+6,"noir platane, mourir, soignerai, faim côté, papier papier",8,Le docteur Pascal.
+9,"étoile laiteux, perle étoile, phrase lettre, franc bijou, revendeur",2,Le docteur Pascal.
+10,"piqûre, travail sensation, thérapeutique, lézarde, hypothèse",5,Le docteur Pascal.
+11,"vrille, feu feu, chambre candélabre, manuscrit, cas héréditaire",4,Le docteur Pascal.
+12,"sang noir, brave cœur, pendule aiguille, dernier enthousiasme, aorte",1,Le docteur Pascal.
+13,"moindre sujet, rond franc, inquiétude cœur, surprise ordinaire, tremblement inquiétude",2,Le docteur Pascal.
+14,"hérédité, innéité, animalité, représentation, caractère physique",6,Le docteur Pascal.
+15,"clef armoire, professeur retraiter, ironie douloureux, travail sueur, peau chagrin",1,Le docteur Pascal.
+16,"goûter bonheur, chambre plat, feu servant, mort brave, aveugle docteur",1,Le docteur Pascal.
+17,"généalogique, arbre généalogique, phtisique, fauteuil muet, pied luisant",4,Le docteur Pascal.
+18,"élevé peine, religieux espoir, froid lenteur, dangereux raison, cher famille",3,Le docteur Pascal.
+19,"hérédité, liqueur, substance nerveux, ressemblance physique, grasse",5,Le docteur Pascal.
+21,"barbe blanc, blanc barbe, roi seigneur, crise angine, pèlerine amour",10,Le docteur Pascal.
+22,"histoire révolte, analyse plaie, infinie charité, lumière œuvre, orage terrible",2,Le docteur Pascal.
+23,"chambre pointe, manuscrit, chaise dossier, mort cerveau, blanc poli",12,Le docteur Pascal.
+24,"graine, antagonisme sourd, docteur soirée, force question, train branle",1,Le docteur Pascal.
+25,"roulement foudre, pastel, accident douloureux, but inconnu, balustrade terrasse",4,Le docteur Pascal.
+26,"ataxie, honnête argent, émotion curieux, bourrelier, licou",1,Le docteur Pascal.
+27,"sclérose, macquart, fou fou, macquart macquart, hypodermique",7,Le docteur Pascal.
+28,"pastel, chimérique, antique meuble, ombre assoupi, vigoureux appétit",1,Le docteur Pascal.
+0,"plage, épi, falaise, angine, cabriolet",46,La joie de vivre.
+1,"torchon, hoquet, taquiner, pareil hurlement, sommeil peur",26,La joie de vivre.
+3,"brusque terrible, détail trousseau, indignation furieux, pli front, abbé conversation",3,La joie de vivre.
+4,"cuillerée potion, cuillerée, potion, gruau, mendier",7,La joie de vivre.
+5,"épi, subvention, charpentier, baiser frère, conseil général",6,La joie de vivre.
+6,"bromure, algue, méthode froid, potassium, composé",2,La joie de vivre.
+7,"boule papier, sage tour, parole brave, bel cousin, épaule calme",3,La joie de vivre.
+8,"pieu, galet, médiocre confiance, face marée, vent fort",1,La joie de vivre.
+9,"estacade, cuche, galet, pêcheur, algue",7,La joie de vivre.
+10,"cuisine ragoût, accouchée, ragoût, exemple soir, embarras soleil",3,La joie de vivre.
+11,"étage fenêtre, fils pays, galop vague, haine furieux, prochain action",4,La joie de vivre.
+12,"friction, front sueur, mari chaise, engorger, introduction",8,La joie de vivre.
+13,"foie gras, terrine, biscuit, flot fumée, nudité rose",4,La joie de vivre.
+14,"projet avenir, vida cœur, franc succès, cousin amie, humeur sombre",8,La joie de vivre.
+15,"appareil, question content, appareil énorme, gentil blonde, administration ordre",1,La joie de vivre.
+17,"minouche, frais voyage, gros bord, difficile intérêt, argent bord",1,La joie de vivre.
+18,"boulette, paire drap, minouche, épi, chatte",7,La joie de vivre.
+20,"friction, chambre autorité, mal grâce, linge drap, nécessaire capable",1,La joie de vivre.
+21,"matin oncle, secret secret, position superbe, algue, appareil",8,La joie de vivre.
+22,"véronique, jointure, œuvre épaule, vêtu robe, temps méfiant",2,La joie de vivre.
+23,"pauvre chien, escrime, regard gorge, jupon chemise, meuble place",5,La joie de vivre.
+24,"docteur compte, édredon, chaud grognement, gêne honte, mission curateur",1,La joie de vivre.
+25,"médecine, pareil désespoir, ami domestique, astre minute, perte catastrophe",2,La joie de vivre.
+26,"côté roche, errant ras, paupière léger, robe couleur, convenable côté",2,La joie de vivre.
+27,"conseil famille, timbale, curateur, digital, chanteau",6,La joie de vivre.
+0,"porte monnaie, jambe gauche, bureau feuille, hôtel escalier, empereur instant",15,Son Excellence Eugene Rougon.
+1,"cure dent, cure, kiosque, cordelière, profond bête",3,Son Excellence Eugene Rougon.
+2,"philharmonique, société philharmonique, prince impérial, excellence, vive",8,Son Excellence Eugene Rougon.
+3,"amendement, tribune, orateur, paragraphe adresse, paragraphe",3,Son Excellence Eugene Rougon.
+4,"chevalier, clorinde, projet loi, présentation projet, légation",20,Son Excellence Eugene Rougon.
+5,"créature esprit, reine riche, fort passion, silencieux mépris, véritable chagrin",1,Son Excellence Eugene Rougon.
+6,"concession, président tribunal, portefeuille, tourniquet, tribunal commerce",20,Son Excellence Eugene Rougon.
+7,"brigadier, projet loi, président procureur, commissaire central, aubergiste",21,Son Excellence Eugene Rougon.
+8,"tribune, orateur, parlement, sincérité élection, loi sûreté",6,Son Excellence Eugene Rougon.
+9,"tourniquet, bock, collier, consommateur, commandeur",12,Son Excellence Eugene Rougon.
+11,"empire libéral, buvette, noir landau, réconciliation parti, chapeau claque",1,Son Excellence Eugene Rougon.
+12,"cravache, chapelet, boulet pied, chatouilleux, sabot cheval",6,Son Excellence Eugene Rougon.
+13,"américain, cristallerie, plat porcelaine, foi républicain, dîner odeur",2,Son Excellence Eugene Rougon.
+14,"roman affaire, ménage premier, mois écart, humilité simple, obèse",2,Son Excellence Eugene Rougon.
+15,"ordre ordre, rapporteur, excellence, orateur, liberté liberté",11,Son Excellence Eugene Rougon.
+16,"café côté, sergent ville, ingénieur chef, commercial, moniteur",4,Son Excellence Eugene Rougon.
+17,"bout pont, académicien, dernier élection, rigole, face portière",5,Son Excellence Eugene Rougon.
+19,"brouhaha salle, soie vert, procès verbal, verbal, congé doute",1,Son Excellence Eugene Rougon.
+20,"palet, chef bureau, chevalier, chambellan, verre sucrer",11,Son Excellence Eugene Rougon.
+21,"ministère ami, solide fort, rancunier, toilette chambre, boudoir",6,Son Excellence Eugene Rougon.
+22,"quai quai, maison quai, double haie, place face, cap",1,Son Excellence Eugene Rougon.
+23,"mot léger, cigarette, diable domestique, pétition, brigadier",10,Son Excellence Eugene Rougon.
+24,"conserve, guitare, cabinet toilette, velours noir, ballon",5,Son Excellence Eugene Rougon.
+25,"délibération, rapporteur, tribune, projet loi, loi intérêt",1,Son Excellence Eugene Rougon.
+26,"dame empereur, culotte court, méfier vou, méfier, sénateur",5,Son Excellence Eugene Rougon.
+27,"veillée bonhomme, collègue, meute, proviseur, institution impérial",9,Son Excellence Eugene Rougon.
+28,"surprise léger, cour face, mise pauvre, foule dernier, inquiet brusque",2,Son Excellence Eugene Rougon.
+0,"trompe, tant, cantonnement, sonnerie, marraine",8,La bete humaine.
+1,"express, coupé, compartiment, frise, conducteur",18,La bete humaine.
+2,"voisin couloir, midi fenêtre, jeudi samedi, soir jeudi, sous chef",3,La bete humaine.
+3,"manette, cylindre, chauffeur, accident faute, ménage dispute",1,La bete humaine.
+4,"chauffeur, sous chef, cavale, baiser profond, mangeon",8,La bete humaine.
+5,"embrass, chéri peur, embrasse embrass, tunnel, embrasse",10,La bete humaine.
+6,"secrétaire général, cher juge, président cour, visite matin, face lourd",3,La bete humaine.
+7,"question président, atténuant, circonstance atténuant, procureur impérial, assesseur",1,La bete humaine.
+8,"vitesse, tunnel, conducteur, droit bête, marche entier",5,La bete humaine.
+9,"cherche, sous chef, halle couvert, dépôt, buraliste",6,La bete humaine.
+11,"tunnel, ballast, aiguilleur, sain sauf, flore",10,La bete humaine.
+12,"poing couteau, tranchée, flocon, train wagon, flot rouge",7,La bete humaine.
+13,"cantine, toit haut, vitrage toit, réveille, express",4,La bete humaine.
+15,"secrétaire général, rapport bel, legs, piste, cabinet juge",5,La bete humaine.
+16,"chef exploitation, compartiment vide, garde barrière, sous chef, soupape",5,La bete humaine.
+17,"chauffeur mécanicien, sous chef, arrestation, triste affaire, interrogatoire",4,La bete humaine.
+18,"bague, coup ci, ci, nom garce, coup",7,La bete humaine.
+19,"interrogatoire, secrétaire général, accusé, version, carrier",9,La bete humaine.
+20,"express, manomètre, conducteur, cendrier, conducteur chef",11,La bete humaine.
+21,"carrier, gant mouchoir, dernier vivant, rue hôtel, donation",6,La bete humaine.
+22,"tunnel, tunnel train, tunnel minute, cochon cochon, grondement roue",3,La bete humaine.
+23,"chef gare, tunnel, sous chef, changement marche, tringle",13,La bete humaine.
+24,"impatience raison, arrivée voiture, égard ancien, enfance peur, sût",1,La bete humaine.
+26,"bête sauvage, flore, dame anglais, fardier, anglais",2,La bete humaine.
+27,"coupé, vitesse kilomètre, service gare, commissaire surveillance, vitesse",4,La bete humaine.
+0,"rideau lueur, pays côté, soleil volet, nuage noir, inconnue",11,La faute de l abbe Mouret.
+1,"séminaire, cellule, lis, parterre, courbe mou",21,La faute de l abbe Mouret.
+2,"calice, cerise, hostie, patène, parterre",17,La faute de l abbe Mouret.
+4,"étole, argent doré, chasuble, messe curé, purificatoire",3,La faute de l abbe Mouret.
+5,"arbre ciel, buisson, jupe broder, parfum haleine, rosier",16,La faute de l abbe Mouret.
+6,"route abbé, motte, vêpres, crin, mûrier",5,La faute de l abbe Mouret.
+7,"gaillard souple, net prêtre, mort vou, brique cuite, tranquille couteau",2,La faute de l abbe Mouret.
+9,"olivier, branche olivier, prêtre oncle, argent abbé, buisson",6,La faute de l abbe Mouret.
+10,"cher frère, vitre papier, chapon, trou fourmi, bréviaire",9,La faute de l abbe Mouret.
+11,"cercueil, paillette, corde confessionnal, allée gros, tilleul",6,La faute de l abbe Mouret.
+12,"moineau, clochette, calice, ocre, burette",14,La faute de l abbe Mouret.
+13,"ver, poule poule, croûte, coq, riz",4,La faute de l abbe Mouret.
+14,"croix argent, pinceau, bouquin, chandelier, maître autel",3,La faute de l abbe Mouret.
+15,"fauvette, cyprès, motte, douceur vou, ombre champ",3,La faute de l abbe Mouret.
+16,"bête jupe, chambre peur, faune, souris, coq",3,La faute de l abbe Mouret.
+17,"falbala, colline, paix heureux, séminaire année, herbe rude",3,La faute de l abbe Mouret.
+18,"cabriolet, plantain, coquelicot, catéchisme, arbre arbre",13,La faute de l abbe Mouret.
+20,"prêtre docteur, gaillard joli, tranquille réponse, tante oncle, science soutane",1,La faute de l abbe Mouret.
+21,"parterre, bruit bottine, rocaille, grotte, ortie",3,La faute de l abbe Mouret.
+22,"clairière, tuile église, jardin heureux, trou arbre, rosier",7,La faute de l abbe Mouret.
+23,"prune, peigne, burette, génuflexion, manuterge",5,La faute de l abbe Mouret.
+24,"grand messe, motte, bas ronflement, veu cochon, adoration gloire",2,La faute de l abbe Mouret.
+25,"rosier, lèvre rose, bord voile, rose bois, rire fin",5,La faute de l abbe Mouret.
+26,"œillet, héliotrope, parterre, pavot, plafond bleu",4,La faute de l abbe Mouret.
+27,"sceau, parterre, cirque immense, front pensée, inquiet désolée",4,La faute de l abbe Mouret.
+28,"chambre usage, dame roi, inquiet abbé, carte paquet, besoin trou",1,La faute de l abbe Mouret.
+0,"bouquetière, compte tutelle, maître portefaix, geôlier, barque",12,1867 Les mysteres de Marseille.
+1,"pièce franc, tripot, franc pièce, maison côte, tapis vert",8,1867 Les mysteres de Marseille.
+2,"thym, veu besoin, nouveau geôle, triste voyage, abri misère",2,1867 Les mysteres de Marseille.
+3,"manifestation, tripot, délégué, fripon, cercle tripot",3,1867 Les mysteres de Marseille.
+4,"procureur roi, lorette, manant, prêtre noble, usurier",4,1867 Les mysteres de Marseille.
+5,"sursis, humiliation, grave reproche, passion position, position désir",1,1867 Les mysteres de Marseille.
+6,"usurier, barricade, armateur, coquin, scélérat",30,1867 Les mysteres de Marseille.
+7,"procuration, immeuble, armateur, hypothèque, austère",22,1867 Les mysteres de Marseille.
+8,"barricade, garde national, insurgé, baïonnette, insurrection",18,1867 Les mysteres de Marseille.
+9,"joueur carte, jeu carte, maître portefaix, ponte, portefaix",1,1867 Les mysteres de Marseille.
+10,"bouquetière, exposition public, exposition, geôlier, mademoiselle",11,1867 Les mysteres de Marseille.
+11,"tendresse lit, gai couple, paisible fort, long colline, quête voiture",1,1867 Les mysteres de Marseille.
+12,"poteau, plate forme, devanture boutique, hospice, condamné",7,1867 Les mysteres de Marseille.
+13,"bastidon, bastidon quartier, fugitif, obstacle gendarme, colline espérance",1,1867 Les mysteres de Marseille.
+14,"créancier, faillite maison, idée républicain, bail, luxe plaisir",7,1867 Les mysteres de Marseille.
+15,"cheveu rouge, club, franc besoin, diligence, garde national",9,1867 Les mysteres de Marseille.
+16,"table jeu, table drap, amour chagrin, noir tacher, salle sourire",1,1867 Les mysteres de Marseille.
+17,"lorette, joie heureux, usurier, gouvernante, prêtre triste",3,1867 Les mysteres de Marseille.
+18,"petit neveu, portefaix, neveu année, entier voiture, sévérité haut",3,1867 Les mysteres de Marseille.
+19,"bastidon, intimidation, hypothèque, réquisitoire procureur, déposition",5,1867 Les mysteres de Marseille.
+20,"rat cave, chaise poste, rat, maître portefaix, portefaix",3,1867 Les mysteres de Marseille.
+21,"geôlier, portefaix, bouquetière, épidémie, opinion opinion",10,1867 Les mysteres de Marseille.
+23,"bouquetière, caban, idée soudain, fenêtre palier, palier étage",7,1867 Les mysteres de Marseille.
+24,"savonnerie, mer ciel, manufacturier, bouquetière, portefaix",8,1867 Les mysteres de Marseille.
+25,"fugitif, profond chant, chant amour, délicat amour, droit ménage",1,1867 Les mysteres de Marseille.
+26,"bruit aventure, bas demoiselle, service force, amertume parole, frère demoiselle",1,1867 Les mysteres de Marseille.
+27,"armateur, évasion, compte oncle, énergie étude, actif maison",3,1867 Les mysteres de Marseille.
+28,"suicidé, sang doigt, club, éclaboussure, pièce flot",2,1867 Les mysteres de Marseille.
+0,"propre brin, gaieté force, lumière bougie, chapeau franc, rue domicile",2,1865 La confession de Claude.
+1,"fange, rose rire, satiété, grabat, soie bleu",3,1865 La confession de Claude.
+2,"rosée, soleil ombre, peuplier, clarté blanc, malsain",2,1865 La confession de Claude.
+4,"fard, frère peur, miroir, estime, santé lèvre",2,1865 La confession de Claude.
+5,"lueur bleu, mansarde, lèvre pâle, apaisement, pâquerette",13,1865 La confession de Claude.
+10,"courant cœur, source profond, marche sang, pleur rire, parole souvenir",2,1865 La confession de Claude.
+11,"doux lointaine, caillou trou, mois charme, chaise chevalet, chasse existence",1,1865 La confession de Claude.
+12,"jaloux jaloux, plein vent, fard, pâquerette, songe",4,1865 La confession de Claude.
+13,"pied banc, stupeur profond, regard groupe, volupté dégoût, heureux misère",1,1865 La confession de Claude.
+21,"dernier amant, séparer, pâquerette, toux, malade paresseux",1,1865 La confession de Claude.
+22,"songe, infâme, mansarde, paix suprême, fange",32,1865 La confession de Claude.
+26,"culotte court, mensonge vérité, éclat gaieté, viande froid, guéridon",2,1865 La confession de Claude.
+0,"fléau, borderie, chambre conjugal, fermier, grêlon",21,La terre.
+1,"écuelle, cuillère, contrariant, seigle, rue juif",5,La terre.
+2,"haricot pois, haricot, pois, sommeil plomb, betterave",3,La terre.
+3,"impôt, laboureur, égalité, liberté égalité, paysan paysan",10,La terre.
+4,"marteau fer, vigne, raisin, minute silence, vendange",4,La terre.
+5,"vache vache, vache, faneur, men, foin",5,La terre.
+6,"hotte, gueulebée, panier hotte, chandell, vrai peine",7,La terre.
+7,"cruche, gage, marraine, conscrit, candidat",5,La terre.
+8,"atout, jar, atout atout, taxe, porcher",3,La terre.
+9,"berger, garde champêtre, litre, baquet, champêtre",42,La terre.
+10,"fourchée, verre sou, mur immobile, soûlerie matin, porte biais",2,La terre.
+11,"bergerie, semoir, vache, litière, gerbe",17,La terre.
+12,"veau, vache, vétérinaire, étable, borderie",17,La terre.
+13,"cosse, meuglant, taureau, châtaigne, vacherie",6,La terre.
+14,"lot, fagot, lopin, démission bien, tricot",11,La terre.
+15,"charrue, soc, veau oignon, paysan mort, mancheron",6,La terre.
+16,"vache, cotentine, omelette, ancien beau, trombone",5,La terre.
+17,"café café, déshonor fouet, travail larme, poussée sang, affaire lèvre",3,La terre.
+18,"porcher, luzerne, trimestre, papier timbrer, saladier",9,La terre.
+19,"sale trouille, are, vigne, trouille, hectare",1,La terre.
+20,"borderie, garde champêtre, lièvre, lot, marraine",16,La terre.
+21,"setier, franc hectare, hectare demi, hectare, labour",4,La terre.
+22,"trappe, malheur malheur, pied colère, canaille raison, vague pied",1,La terre.
+23,"magot, salop, étable, page écriture, sœur maison",10,La terre.
+24,"huissier gendarme, pauvre sœur, veillée, faim hiver, meuble carreau",3,La terre.
+25,"tambour, curé pauvre, question maire, porte pente, chapeau superbe",3,La terre.
+26,"pistole, vache, possibilité, noir joli, prix sorte",1,La terre.
+27,"confiserie, pauvre chéri, dur jeunesse, culotté, bouteille bière",2,La terre.
+0,"attentat, robinet, lycée, moteur, bicyclette",13,Paris.
+1,"men, détresse néant, vaste atelier, loyal, bicyclette",16,Paris.
+2,"bicyclette, pilier, basilique, prêtre blanc, énorme terrifiant",10,Paris.
+3,"évangile, catholicisme, apôtre, socialiste, bombe",19,Paris.
+4,"critique, cabinet horreur, bandeau, billet loterie, satin jaune",6,Paris.
+5,"armée ville, frère tour, dessein, tâche amour, engin guerre",11,Paris.
+6,"baron, asile travail, gendre place, embarras sœur, futur gendre",11,Paris.
+7,"tribune, baron, interpellation, grave affaire, délation",18,Paris.
+8,"souffrance bête, clair situation, extraordinaire flot, arrestation misérable, remise tonneau",1,Paris.
+9,"admission, crise ministériel, anarchiste, ministériel, exemple sort",3,Paris.
+10,"idée prêtre, désespéré moment, pauvre vrai, mariage fin, charité impuissant",8,Paris.
+11,"cuve, vérité commun, porte cheveu, peuple scandale, escalier cri",7,Paris.
+12,"bicyclette, route forêt, naissance élevé, bombe café, sourd long",3,Paris.
+13,"radis, envie point, abbé pardon, cours cuisine, malheureux rire",1,Paris.
+14,"poignet cassé, réunion public, république, chimie, universitaire",5,Paris.
+15,"baron, liste, bombe, vote, communisme",19,Paris.
+16,"guillotine, cordon garde, aumônier, gâteau sec, salon argent",7,Paris.
+17,"cher collègue, marié famille, lunch, salon argent, salon rouge",5,Paris.
+18,"retraite point, dernier rendez, raison faveur, façade bel, raison retraite",1,Paris.
+19,"jury, dynamite, arrestation, délibération, poudre dynamite",6,Paris.
+20,"mondésir, chimie, baron, liste, fenêtre abbé",8,Paris.
+21,"ministère ministère, famille groupe, commission enquête, solidaire, espérer doute",3,Paris.
+22,"amour amour, amour cœur, émoi, désespéré clair, effrayant minute",2,Paris.
+23,"agent garde, cri léger, taillis épais, bicyclette, battue",3,Paris.
+24,"culotte, misère digne, digne intérêt, scène scène, aimable princesse",8,Paris.
+25,"moteur, heureux heureux, burin, graveur, vrai jeunesse",7,Paris.
+26,"lilas, pauvre maman, prunier, mot gaillard, laboratoire chimiste",2,Paris.
+27,"personne écart, droit jambe, effort impuissant, entier énorme, pauvre secours",1,Paris.
+28,"professorat, explosif, bombe, dynamite, premier question",2,Paris.
+0,"trouche, prêtre fenêtre, séminaire, surprenant, curé éloge",19,La conquete de Plassans.
+1,"cuisinière jardin, vicaire, diocèse, bruit porte, société long",3,La conquete de Plassans.
+2,"buis, cafetière, arbre fruitier, haut bouteille, salle armoire",1,La conquete de Plassans.
+4,"trouche, tanneur, bois rustique, année misère, livre cerise",11,La conquete de Plassans.
+6,"trouche, sous préfecture, impasse, nappe autel, tonnelle",14,La conquete de Plassans.
+7,"vicaire, salon vert, diocèse, sous préfecture, tonnelle",31,La conquete de Plassans.
+8,"candidat, sarment, côté sous, porte fils, flamme chambre",3,La conquete de Plassans.
+9,"vin vin, rougon, sirop, orgue cérémonie, jupe froid",4,La conquete de Plassans.
+10,"cure, trouche, girouette, reposoir, perplexité",6,La conquete de Plassans.
+12,"mal volonté, secours chambre, cheveu mèche, prêtre croisé, lutte mal",1,La conquete de Plassans.
+13,"servante fils, assiette pain, dîner plat, dîner point, cuisinière moment",1,La conquete de Plassans.
+14,"table ouvrage, rideau rouge, maison heureux, fenêtre étage, accoutumé terrasse",2,La conquete de Plassans.
+15,"sous préfecture, impasse, candidature, trouche, raquette",7,La conquete de Plassans.
+17,"sous préfecture, comité, bande sous, raquette, bréviaire",22,La conquete de Plassans.
+18,"trouche, égratignait, cabanon, rempart, porte maison",7,La conquete de Plassans.
+19,"vicaire, oreille exclamation, bel dévot, tapis léger, désir place",1,La conquete de Plassans.
+20,"vin chaud, pompier, rue drôle, part feu, rappel",4,La conquete de Plassans.
+21,"oratoire, oratoire œuvre, gros rhume, sous préfet, sous préfecture",6,La conquete de Plassans.
+23,"trouche, limace, cordonnier, porte trouche, coffre",10,La conquete de Plassans.
+24,"préfet gros, église bout, partie cercle, droit porte, douillette",5,La conquete de Plassans.
+26,"poupée, tabouret, poirier, sous préfecture, douairière",4,La conquete de Plassans.
+27,"mère invitation, invitation, belle mère, regard aigle, singulier face",3,La conquete de Plassans.
+0,"morsure, peau chair, passage escalier, gloria, fenêtre toit",8,1867 Therese Raquin.
+1,"nouveau époux, jeudi soir, dénouement sinistre, soir passage, sang nerf",16,1867 Therese Raquin.
+2,"noyé, bout épaule, chaise bas, soir noce, vitrage",2,1867 Therese Raquin.
+4,"tante mari, domino, mercerie, commerce mercerie, porte magasin",5,1867 Therese Raquin.
+5,"innocent innocent, spectre, revien, men, mauvais rêve",5,1867 Therese Raquin.
+6,"foi occasion, drôle muet, pareil liaison, point occasion, humide triste",1,1867 Therese Raquin.
+7,"pie, roulier, noir ardent, réflexion silence, parti voyage",1,1867 Therese Raquin.
+9,"luxure, profond vice, inutile paresse, idée parole, avance point",1,1867 Therese Raquin.
+10,"pensée miséricorde, comédie remords, paralytique, monologue, impotente",3,1867 Therese Raquin.
+11,"vitrine, barque, genou impotente, morsure cou, morsure",3,1867 Therese Raquin.
+12,"canotier, barque, cicatrice, tête, nerf crise",12,1867 Therese Raquin.
+13,"nuptial, instant porte, plaisanterie paysan, vin repas, balbutièrent",2,1867 Therese Raquin.
+14,"faux col, marchand toile, atelier franc, bénéfice commerce, commerce mercerie",4,1867 Therese Raquin.
+15,"chien chat, impotent, fusain, barbe blanc, toile artiste",2,1867 Therese Raquin.
+16,"couverture chaud, canot, chat tigré, tigré, senteur cloître",3,1867 Therese Raquin.
+17,"mercier, comédie dénouement, malheureux contraire, tranquille soirée, regard atroce",1,1867 Therese Raquin.
+18,"camarade collège, mauvais chance, histoire caractéristique, pensée amant, appétit glouton",2,1867 Therese Raquin.
+21,"impotente, paralytique, domino, visage sinistre, volonté implacable",7,1867 Therese Raquin.
+22,"passage sorte, rouge souffrance, boutique entier, passion prudence, comptoir peur",1,1867 Therese Raquin.
+27,"immobile impénétrable, poison crime, passage conscience, parole indifférence, sorte vapeur",1,1867 Therese Raquin.
+0,"praline, sonnerie, coeur, champagne, chic",25,Nana.
+1,"coeur, bruit savate, surprit, pinceau, rue coin",9,Nana.
+2,"rouge gorge, oriflamme, cheveu mouiller, noeud, chiffonnière",6,Nana.
+4,"coeur, peignoir, anglais, chic, cabinet toilette",25,Nana.
+5,"cent ligne, fièvre jambe, acte réplique, escalier chancelant, ligne lettre",2,Nana.
+6,"pesage, jockey, salle pesage, bouche nez, lit jambe",3,Nana.
+7,"bookmaker, soir comtesse, comte moment, invitation, avant scène",7,Nana.
+9,"champagne, mufe, coeur, franc comte, boulanger",21,Nana.
+10,"honte vivant, ambition fortune, commun conseil, comte phrase, dur fort",3,Nana.
+12,"chambellan, gifle, ciel beal, conscience malheur, peine allongé",3,Nana.
+13,"souper, honte famille, mouchoir mouchoir, grog, truffe",6,Nana.
+14,"trait sang, cocu, ciel humble, humble triomphe, signe porte",2,Nana.
+15,"pont bois, valse, fêlure, journaliste, chef bureau",4,Nana.
+16,"ouvreus, avant scène, bordel, bookmaker, bravo",16,Nana.
+17,"altesse, coeur, psyché, exposition dame, bézigue",13,Nana.
+18,"coeur, souper, toquade, merde, matin franc",25,Nana.
+20,"altesse, choeur, répétition, champagne, coulisse",18,Nana.
+21,"champ course, parieur, journaliste, chronique, liberté entier",9,Nana.
+22,"reine puissant, comblée, oreille lendemain, gris bout, genou reine",1,Nana.
+23,"fraise, queue escalier, succès veille, moeurs, ombre doute",7,Nana.
+24,"cré nom, cré, machiniste, figurant, tante bébé",8,Nana.
+26,"chevreuil, soupe chou, laque, maître hôtel, colère appétit",5,Nana.
+27,"rôle duchesse, duchesse, valse, éther, bobo",5,Nana.
+28,"échalote, bookmaker, chaud verre, explication cri, bande torche",2,Nana.
+0,"ballon rouge, façonnier, cent pièce, ballon, escalier pont",5,Au Bonheur des dames.
+1,"accoucheur, inspection, patron mariage, comptoir confection, maison question",7,Au Bonheur des dames.
+2,"hall, soierie, bonheur dame, mercerie, réclame",9,Au Bonheur des dames.
+3,"nombre rayon, folie vue, veau rôtir, rayon nombre, vrai fier",1,Au Bonheur des dames.
+4,"bonheur dame, confection, lingère, lingerie, salon oriental",38,Au Bonheur des dames.
+5,"machine superbe, accord volonté, boutique larme, famille simple, complet table",2,Au Bonheur des dames.
+6,"baron, argent chair, rein solide, dame cher, bonheur dame",8,Au Bonheur des dames.
+7,"pâle amant, pied plaie, exécution besoin, cher amant, véritable forêt",1,Au Bonheur des dames.
+8,"supposition abominable, part rayon, mort châle, continuelle catastrophe, allure dame",1,Au Bonheur des dames.
+9,"monture, éventail, bonheur dame, artichaut, soie fantaisie",16,Au Bonheur des dames.
+10,"lent agonie, lingère, corbillard, bonnetier rue, déjeuner course",5,Au Bonheur des dames.
+11,"sous sol, ballot, chef rayon, glissoire, bonheur dame",10,Au Bonheur des dames.
+12,"mise vente, spécimen, soubassement, défalcation, mosaïque faïence",3,Au Bonheur des dames.
+13,"omelette, lingère, éventail, supplément, pièce amour",2,Au Bonheur des dames.
+14,"drapier, cravate franc, sorte ancien, tremblement gorge, demoiselle honneur",3,Au Bonheur des dames.
+15,"démolisseur, hall, caissier, demie demie, vendeur rayon",8,Au Bonheur des dames.
+16,"hall, casier, bonheur dame, ganterie, confection",17,Au Bonheur des dames.
+17,"corset, trousseau, bonheur dame, sacoche, auxiliaire",11,Au Bonheur des dames.
+18,"hypothéquée, avenir désespéré, sorte continuel, paradoxal, salon regard",2,Au Bonheur des dames.
+20,"confection, bureau inspecteur, histoire lettre, cocotte, mari couteau",8,Au Bonheur des dames.
+21,"visage doux, flatterie, illusion dernier, riche silence, bottine léger",3,Au Bonheur des dames.
+22,"doigt genou, lieu affaire, élan cri, jambe tremblement, balbutiant mot",1,Au Bonheur des dames.
+23,"cravate, fort fort, nœud cravate, épingle, renvoi",12,Au Bonheur des dames.
+24,"yole, caboulot, cheviotte, dame instant, drapier",9,Au Bonheur des dames.
+26,"lingerie, paquet voiture, entresol, bonheur dame, échantillonnage",7,Au Bonheur des dames.
+27,"dite genou, rassortiment, silence porte, stock, rude rayon",4,Au Bonheur des dames.
+28,"commerce nouveauté, comptoir client, nouveauté, fonctionnement, caisse central",5,Au Bonheur des dames.
+0,"cent million, canaille voleur, créance, œuvre travail, rédacteur",2,L argent.
+1,"œuvre travail, société action, immense domaine, compagnie chemin, achat",5,L argent.
+2,"calcaire, guichet, mine argent, tracé, local",2,L argent.
+3,"collectivisme, production, noir fourmilière, état social, calembour",6,L argent.
+4,"tartine, confiture, long heureux, capital million, syndicat",19,L argent.
+6,"obligation, couvert prêt, argent mal, content dernier, société couvert",11,L argent.
+7,"chef cuisine, cher haut, solliciteur, cabinet bureau, mot gentil",6,L argent.
+8,"travée, comptant, haussier, fondé, raffermir",2,L argent.
+9,"assemblée, syndicataire, ligne journal, assemblée général, actionnaire",7,L argent.
+10,"cours franc, billet banque, acompte, gaillard sou, bonheur général",5,L argent.
+11,"soir fortune, invincible espoir, camélia, ferment, aquarelle",3,L argent.
+12,"coffret, halein, oreille bracelet, vaniteux sec, papa peur",2,L argent.
+14,"couronnement édifice, couronnement, affaire superbe, ère, favorable affaire",4,L argent.
+15,"cote, remisier, duché, liquidation, spéculation",12,L argent.
+16,"loterie bienfaisance, comptant, taverne, bienfaisance, cabinet agent",4,L argent.
+17,"paillasse, pareil tas, tapis tenture, maison crédit, guichet",6,L argent.
+18,"rue figure, honte mois, gentil cadeau, huissier huissier, partag",2,L argent.
+19,"porte palier, sac cuir, prévenu, désir nouveau, cuir vilain",2,L argent.
+20,"débiteur, écurie remise, arbitrage, chaussée étage, coulisse",8,L argent.
+21,"cours cent, œuvre travail, hausse, aquarelle, fourmi humain",8,L argent.
+23,"liaison idée, reflet rouge, sang goutte, coupon, dortoir",3,L argent.
+24,"péristyle, remisier, temps vendeur, fortune époque, gros liquidation",2,L argent.
+25,"cent action, émission nouveau, prime, émission, salle commis",4,L argent.
+26,"long chemise, cochon cochon, rouler, digne triste, voiture droit",3,L argent.
+27,"droite arbre, rubis, russe, frère lutte, ininterrompu voiture",1,L argent.
+28,"hausse, bilan, actionnaire, baisse, émission",26,L argent.
+0,"pigeonnier, cheveu roux, lueur bougie, auberge chambre, pigeonnier brique",12,1868 Madeleine Ferat.
+1,"noiraud, fanatique, protestant, bible, implacable",41,1868 Madeleine Ferat.
+2,"peignoir, bosquet, impur, tronc arbre, protestant",4,1868 Madeleine Ferat.
+3,"tesson, tas papier, flacon, filet sang, honneur tas",1,1868 Madeleine Ferat.
+4,"noiraud, exquise politesse, chambre bleu, poussin, adolescent",5,1868 Madeleine Ferat.
+5,"malheureux malheureux, lâche malheureux, estime, heureux félicité, figure doux",13,1868 Madeleine Ferat.
+6,"douceur point, éternel cantiqu, médecin avocat, esprit brusquerie, solitude vert",1,1868 Madeleine Ferat.
+7,"testament, loi loi, adoptif, ancien amant, juge paix",4,1868 Madeleine Ferat.
+10,"protestant, démon, crochet, fanatique, causerie amour",3,1868 Madeleine Ferat.
+11,"noiraud, haie aubépine, mauvais rêve, pacha, bible",3,1868 Madeleine Ferat.
+12,"atroce regard, nerveux gaieté, mesure talon, ville camarade, premier face",3,1868 Madeleine Ferat.
+13,"galette, altéré, physionomie lèvre, atroce geste, souffrance atroce",1,1868 Madeleine Ferat.
+14,"ancien marchand, marchand bestial, marchand habit, maison bourgeois, désir ardent",5,1868 Madeleine Ferat.
+15,"noiraud, comte notaire, ardent fanatique, fanatique, gentilhomme",2,1868 Madeleine Ferat.
+16,"secousse nerveux, niaiserie, chagrin sensation, canapé lèvre, passion pareil",1,1868 Madeleine Ferat.
+18,"tai fou, noiraud, charron, envie vue, volonté regard",4,1868 Madeleine Ferat.
+21,"laboratoire, manuscrit, fiole, appareil, cave feu",7,1868 Madeleine Ferat.
+22,"bohémien, poitrine étreinte, large fleuve, rêve part, paysage",4,1868 Madeleine Ferat.
+23,"flacon, coupure, absinthe, boisson, mémoire souvenir",2,1868 Madeleine Ferat.
+24,"trou haie, bel saison, rousseur, heureux coin, mat",2,1868 Madeleine Ferat.
+27,"bosquet, pomme galette, couvert nappe, violent poitrine, visage trait",5,1868 Madeleine Ferat.
+28,"pensionnat, élevé famille, poupée mal, géant champ, amie excellent",1,1868 Madeleine Ferat.
+0,"gaucherie, poète, ami lettre, peuple liberté, phrase vide",7,1866 Le voeu d une morte.
+1,"salon bleu, vœu mort, moqueur, impasse, cordialité",15,1866 Le voeu d une morte.
+2,"haut arbre, fraîcheur pénétrant, préau, guide, barque",3,1866 Le voeu d une morte.
+4,"course marche, dame jeunesse, adorable terrible, puissance nièce, fou garde",1,1866 Le voeu d une morte.
+5,"bienfait pauvre, vague extase, écoute ami, genou tapis, soupire",1,1866 Le voeu d une morte.
+6,"visiteur, canot, transparent silence, cher esprit, rideau feuille",2,1866 Le voeu d une morte.
+10,"libéral, lit mort, haut haut, lettre tristesse, déclaration rire",6,1866 Le voeu d une morte.
+12,"poitrine pardon, vide orgueil, fou désespoir, côté lutte, atroce frisson",1,1866 Le voeu d une morte.
+15,"cri demi, circonstance rencontre, œuvre agonie, besoin reconnaissance, désespoir suprême",1,1866 Le voeu d une morte.
+16,"impasse, fruitière, matin liberté, fenêtre couvent, couvent jardin",1,1866 Le voeu d une morte.
+17,"dictionnaire, auteur, gothique, tombeau, cœur éveillé",3,1866 Le voeu d une morte.
+18,"papier larme, chaud rapide, parti violence, sérénité fier, rire plaisant",2,1866 Le voeu d une morte.
+21,"limpidité profond, lieu douleur, heureux équilibre, mort rêve, mort testament",3,1866 Le voeu d une morte.
+22,"ciel mourant, fillette bel, calme ami, moyen parole, mauvais mari",3,1866 Le voeu d une morte.
+23,"copier, porte cocher, haut cour, plein pauvre, pluie chapeau",1,1866 Le voeu d une morte.
+24,"vue maîtresse, matinée doux, sai mari, mort rêverie, allée sablé",1,1866 Le voeu d une morte.
+25,"froid soirée, peine entrevue, célèbre cœur, soirée haut, foule mois",1,1866 Le voeu d une morte.
+27,"dévouement tendresse, grille hôtel, mission mission, parole haut, imperceptible",8,1866 Le voeu d une morte.
