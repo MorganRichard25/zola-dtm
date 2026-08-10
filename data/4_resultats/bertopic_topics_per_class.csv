@@ -1,846 +1,677 @@
 Topic,Words,Frequency,Class
-0,"courtier, capuchon, domino, bossu, frison",14,La curee.
-1,"serre, inceste, calèche, bracelet, aigrette",12,La curee.
-2,"calèche, taillis, socle, boudeur, harnais",14,La curee.
-3,"parussent, parenté, lampiste, fouine, législatif",1,La curee.
-4,"compère, massacrant, entrepositaire, baron, péremptoire",2,La curee.
-5,"expropriation, duc, aigrette, rouerie, pincette",7,La curee.
-6,"indemnité, immeuble, pépinière, butte, sénateur",13,La curee.
-8,"serre, verveine, valse, écharpe, primeur",1,La curee.
-9,"mercredi, souper, tête, kiosque, huître",6,La curee.
-10,"nougat, dressoir, reconduirai, pistache, soupeur",1,La curee.
-11,"lar, registre, danseur, dressoir, entreteneur",3,La curee.
-13,"loupe, milliard, tertre, album, nymphe",11,La curee.
-14,"excroissance, bracelet, gaze, maillot, noël",1,La curee.
-15,"entaille, réseau, nymphe, maillot, valse",4,La curee.
-16,"recors, consterner, largesse, toque, plisser",1,La curee.
-17,"indemnité, bouffonnerie, méditatif, eunuque, collégien",4,La curee.
-18,"piqueur, gland, provençal, capiton, équipage",2,La curee.
-19,"ciselure, relevé, carafe, réchaud, désintéressement",5,La curee.
-21,"broché, boudoir, collation, capitonner, candélabre",1,La curee.
-22,"entresol, déblai, immeuble, butte, entaille",3,La curee.
-24,"scrutin, électeur, despotiquement, finît, circonscription",2,La curee.
-26,"impertinence, lunette, pupitre, grondeur, roussir",2,La curee.
-27,"peigne, cavalier, dentell, valseur, irisé",3,La curee.
-28,"fumoir, tourelle, cénacle, chambrière, divan",5,La curee.
-29,"expropriation, aboi, fourre, lar, escompte",3,La curee.
-30,"nymphe, estrade, emprunt, verdissaient, butte",2,La curee.
-0,"algue, bromure, épi, minouche, morphine",19,La joie de vivre.
-1,"véronique, avortait, subrogé, organe, soude",20,La joie de vivre.
-2,"jointure, coucheron, gestation, variation, génisse",3,La joie de vivre.
-3,"causon, thèse, juvénile, maussaderie, revêche",2,La joie de vivre.
-4,"détermination, carriole, accouchement, ferraille, somnolent",1,La joie de vivre.
-6,"pêcheur, plage, avarice, vida, accordaille",9,La joie de vivre.
-7,"accouchée, traction, ulcération, ragoût, cavité",3,La joie de vivre.
-8,"friction, introduction, contraction, opérateur, poumon",6,La joie de vivre.
-9,"algue, timbale, digital, ordonnance, teinture",8,La joie de vivre.
-11,"estacade, potassium, vésicatoire, enduite, ulcération",4,La joie de vivre.
-12,"terrine, biscuit, mitron, ronronnant, tournebroche",4,La joie de vivre.
-13,"approchât, trompa, enfonce, tophus, cuillerée",2,La joie de vivre.
-14,"galet, pieu, dessoûlé, caban, angélus",2,La joie de vivre.
-15,"anatomique, appareil, préparateur, inavouée, devis",1,La joie de vivre.
-16,"cuche, épi, galet, arnica, falaise",13,La joie de vivre.
-17,"mansuétude, débattrait, boule, flageolet, connaître",3,La joie de vivre.
-18,"friction, tabatière, édredon, dilatation, ayez",3,La joie de vivre.
-21,"angine, minouche, bougeoir, médecine, plage",29,La joie de vivre.
-23,"médecine, symphonie, charpentier, rime, sapristi",3,La joie de vivre.
-24,"sujétion, iode, pourpré, réinstallation, soulevât",4,La joie de vivre.
-25,"escrime, épi, bourrasque, plage, abcès",15,La joie de vivre.
-26,"sandale, varech, tourne, plais, cach",2,La joie de vivre.
-27,"curateur, émancipation, timbale, reddition, chanteau",6,La joie de vivre.
-30,"flotte, retournée, rugissement, galet, grade",1,La joie de vivre.
-31,"enrouait, aurai, lision, menotte, pêne",1,La joie de vivre.
-0,"sursis, hypocrisie, châtiment, portefaix, humiliation",6,1867 Les mysteres de Marseille.
-1,"gouvernante, filouterie, acceptât, bouquetière, portefaix",6,1867 Les mysteres de Marseille.
-2,"thym, endurci, logette, percer, inexpérience",2,1867 Les mysteres de Marseille.
-3,"tripot, fripon, cotisation, conservateur, négociant",3,1867 Les mysteres de Marseille.
-4,"procuration, barricade, armateur, portefaix, immeuble",24,1867 Les mysteres de Marseille.
-5,"usurier, armateur, coquin, barricade, emprunt",27,1867 Les mysteres de Marseille.
-6,"créancier, savonnerie, manufacturier, portefaix, manant",10,1867 Les mysteres de Marseille.
-7,"bouquetière, exposition, geôlier, mademoiselle, contemplatif",11,1867 Les mysteres de Marseille.
-8,"poteau, bouquetière, cholérique, pilori, hospice",9,1867 Les mysteres de Marseille.
-9,"geôlier, édenté, chevaleresque, pilori, supplémentaire",3,1867 Les mysteres de Marseille.
-10,"barricade, insurgé, manifestation, baïonnette, insurrection",23,1867 Les mysteres de Marseille.
-11,"suicidé, ponte, portefaix, filouterie, éclaboussure",2,1867 Les mysteres de Marseille.
-12,"bastidon, fugitif, gendarmerie, charger, boiteux",1,1867 Les mysteres de Marseille.
-13,"traite, misèr, type, diminutif, supposer",2,1867 Les mysteres de Marseille.
-14,"chamois, manant, aubergiste, territoire, rocher",1,1867 Les mysteres de Marseille.
-15,"club, hypothèque, blétry, représentant, faussaire",8,1867 Les mysteres de Marseille.
-16,"insolvable, usurier, arriéré, créancier, troublée",1,1867 Les mysteres de Marseille.
-17,"gouvernante, exagérer, menacée, enchanteur, rassurât",3,1867 Les mysteres de Marseille.
-18,"rat, barrique, portefaix, arrosoir, pouffait",3,1867 Les mysteres de Marseille.
-19,"usurier, épidémie, fléau, lorette, serviable",5,1867 Les mysteres de Marseille.
-20,"intimidation, bastidon, déposition, séducteur, réquisitoire",3,1867 Les mysteres de Marseille.
-21,"bouquetière, mésalliance, accouchée, gouvernante, chiourme",5,1867 Les mysteres de Marseille.
-24,"geôlier, bouquetière, jardinier, fugitif, portefaix",11,1867 Les mysteres de Marseille.
-25,"tripot, agioteur, commercial, négoce, port",2,1867 Les mysteres de Marseille.
-27,"geôlier, scellé, désolant, ému, avènement",2,1867 Les mysteres de Marseille.
-28,"emmèneron, fugitif, éraillé, marbré, méger",2,1867 Les mysteres de Marseille.
-30,"serrurier, mathéu, portefaix, rapt, condamné",7,1867 Les mysteres de Marseille.
-31,"tripot, injuria, boutonné, brevet, étouffée",2,1867 Les mysteres de Marseille.
-0,"fraude, syncope, constance, moulin, maternité",13,Fecondite.
-1,"luxueux, maternité, constance, nombreux, pullulant",27,Fecondite.
-2,"semence, fraudaient, fraude, abstention, infécond",5,Fecondite.
-3,"fraude, fécondité, moulin, sel, laboureur",16,Fecondite.
-4,"lande, chantage, enclave, syncope, pitchpin",5,Fecondite.
-5,"charron, natalité, injuste, comptable, exploiteur",8,Fecondite.
-6,"allaitement, bicyclette, moulin, dot, ramure",18,Fecondite.
-7,"meneur, petiot, batteuse, nourrisson, nichée",15,Fecondite.
-8,"bagne, détraqué, rictus, pince, inconsolable",6,Fecondite.
-9,"comptable, richement, baisant, infanticide, constance",9,Fecondite.
-11,"castration, chlorotique, démoralisant, châtreur, honoraire",3,Fecondite.
-12,"écrevisse, hypothèse, bécasse, intempestif, farci",5,Fecondite.
-13,"meneur, poupon, maillot, corneille, clinique",21,Fecondite.
-14,"rigole, trappe, poupon, chaînette, nourricier",5,Fecondite.
-15,"fraude, nichée, réfléchir, araignée, semonce",5,Fecondite.
-16,"biberon, nourrisseuse, petiot, meneur, plaisanton",5,Fecondite.
-17,"break, meunier, jolie, courbe, enclave",15,Fecondite.
-18,"pullulant, enclave, bicycliste, apercevoir, simuler",5,Fecondite.
-19,"pierraille, hectare, clinique, étain, soudaineté",5,Fecondite.
-20,"occlusion, stérilité, médication, constance, destructif",4,Fecondite.
-21,"meneur, nourrisson, nourri, regardiez, grinçant",3,Fecondite.
-22,"pensionnat, dévisageaient, risée, tortue, velouté",2,Fecondite.
-23,"fécondité, subsistance, pâturage, fertilité, fécond",17,Fecondite.
-24,"déterminé, homard, fraude, rêv, colle",11,Fecondite.
-25,"bouge, encadrée, succombait, graillon, rus",4,Fecondite.
-26,"flandrin, équarrir, empanaché, amy, mousquetaire",2,Fecondite.
-27,"cabriole, remboursable, balance, fécondait, tétée",12,Fecondite.
-29,"veuf, moissonneuse, mécompte, inaccessible, hectare",1,Fecondite.
-30,"plombier, soudure, reliure, étain, chardon",6,Fecondite.
-31,"fécondité, pense, inlassable, vivifiant, graine",3,Fecondite.
-32,"fraudeur, examinât, érotique, occlusion, inassouvie",3,Fecondite.
-0,"marsoullier, catéchisme, petite, fille, châtier",22,Verite.
-1,"servage, juré, superstition, sensualité, avouon",8,Verite.
-2,"réactionnaire, accommodant, ascétisme, protégeât, commémoration",2,Verite.
-3,"primaire, laïque, enseignement, simoniste, congréganiste",36,Verite.
-4,"emblème, tracasser, congréganiste, communal, titulaire",8,Verite.
-5,"catéchisme, papeterie, révision, beaumontai, bongard",10,Verite.
-6,"primaire, enseignement, obligation, papeterie, municipal",21,Verite.
-7,"mentalité, enseignant, cahier, primaire, gratuit",6,Verite.
-8,"obscurcir, règne, réhabilité, applaudisseur, casseur",5,Verite.
-9,"capucin, clérical, utilisable, crucifix, avancement",7,Verite.
-11,"beaumontai, absurdité, crédulité, lision, sauvant",5,Verite.
-12,"angoissant, hantise, assistance, guilleret, magnanime",3,Verite.
-13,"simoniste, catéchisme, certificat, anti, titulaire",9,Verite.
-14,"prît, tempétueux, désertant, administré, agissement",1,Verite.
-15,"huis, simoniste, anti, déposition, juridiction",7,Verite.
-16,"capucin, blasphématoire, admissible, colloque, diminué",2,Verite.
-17,"antisémitisme, catéchisme, civique, changé, distributeur",5,Verite.
-18,"prédi, antipatriotique, cassation, courba, interloqué",2,Verite.
-19,"judas, recrutement, exonération, frasque, assainissement",5,Verite.
-20,"paraphe, cachet, version, juré, expert",21,Verite.
-21,"rapt, poison, clérical, ardu, déférent",7,Verite.
-22,"brevet, déjeunon, lithographe, patache, élémentaire",2,Verite.
-23,"immondice, enfant, réactionnaire, exécrée, achèveraient",4,Verite.
-24,"scriptum, post, paraphe, juré, absent",10,Verite.
-25,"annuel, forçat, réhabilité, sonnât, indiquât",3,Verite.
-27,"exécration, crucifix, pénitence, souffrît, auditoir",8,Verite.
-29,"paraphe, cachet, ballottage, confessionnel, lisible",1,Verite.
-30,"tampon, adjoint, beaumontai, perquisition, paraphe",7,Verite.
-0,"étalon, ciré, hypothéquée, paradoxal, enfonce",4,Au Bonheur des dames.
-1,"accoucheur, spécimen, inspection, défalcation, nouveauté",10,Au Bonheur des dames.
-2,"hall, soierie, tulle, ganterie, réclame",5,Au Bonheur des dames.
-4,"soufflât, gantier, flagrant, délit, bourré",1,Au Bonheur des dames.
-5,"baron, drapier, tremblerai, insolence, acrotère",6,Au Bonheur des dames.
-6,"drapier, caboulot, démolisseur, nouveauté, rouennerie",11,Au Bonheur des dames.
-7,"feindre, épousai, languir, fourreur, lingère",5,Au Bonheur des dames.
-8,"soubassement, mosaïque, éclaboussaient, cuit, acrotère",3,Au Bonheur des dames.
-9,"façonnier, ballon, éventail, catalogue, enrouer",4,Au Bonheur des dames.
-10,"ail, tirade, poseur, précaire, nourrir",1,Au Bonheur des dames.
-11,"monture, artichaut, éventail, confectionneur, réfectoire",17,Au Bonheur des dames.
-12,"lingère, omelette, supplément, nitouche, confectionneur",1,Au Bonheur des dames.
-13,"confection, lingerie, lingère, matelassé, commis",9,Au Bonheur des dames.
-14,"glissoire, ballot, tôle, déballage, noceur",7,Au Bonheur des dames.
-15,"sauce, guichet, piquant, bassine, fourchette",4,Au Bonheur des dames.
-16,"toque, confection, canif, assortiment, échantillonnage",14,Au Bonheur des dames.
-17,"corset, trousseau, sacoche, auxiliaire, déshabillé",16,Au Bonheur des dames.
-18,"lainage, lanière, brancard, tain, confection",7,Au Bonheur des dames.
-19,"baron, confection, hall, vitrine, oriental",13,Au Bonheur des dames.
-21,"semonce, complaisante, vestibul, dérobée, prévenant",2,Au Bonheur des dames.
-22,"bonneterie, commis, hall, confection, ganterie",14,Au Bonheur des dames.
-24,"récompenserai, roué, néfaste, antipathie, déguisé",2,Au Bonheur des dames.
-25,"bimbelotier, augustin, fourreur, fruitier, prétexter",3,Au Bonheur des dames.
-26,"lingerie, échantillonnage, retouche, entresol, débutante",7,Au Bonheur des dames.
-27,"rassortiment, stock, teinturerie, reparut, défendez",6,Au Bonheur des dames.
-28,"lacet, foulard, casier, ballon, hall",11,Au Bonheur des dames.
-29,"classement, nouveauté, fonctionnement, caissier, superficie",6,Au Bonheur des dames.
-30,"prunair, cachemire, serge, drapier, cheviotte",9,Au Bonheur des dames.
-0,"agrément, campardon, calorifère, sommier, cocotte",12,Pot-bouille.
-1,"gigot, décoration, judicieux, jura, anse",3,Pot-bouille.
-4,"clown, asthmatique, sonate, bénir, timbre",3,Pot-bouille.
-5,"gifle, assommant, blaguer, souffrirai, brodeus",14,Pot-bouille.
-6,"indien, contrat, loyer, licitation, enchère",8,Pot-bouille.
-7,"soûlarde, caca, descendue, panné, jésuitique",3,Pot-bouille.
-8,"lama, colique, gâche, fesse, enrhumé",15,Pot-bouille.
-9,"caleçon, groseille, sirop, piqueur, crin",20,Pot-bouille.
-11,"relevé, assurance, écrevisse, cocu, décence",10,Pot-bouille.
-12,"évier, dépeignée, résignaient, prétendant, infériorité",4,Pot-bouille.
-13,"pruneau, francs, flûte, orfèvrerie, riz",17,Pot-bouille.
-14,"poignard, droguiste, appui, componction, bénir",2,Pot-bouille.
-15,"statistique, frison, amen, attentive, rideal",6,Pot-bouille.
-16,"bagou, cor, gale, chut, tirelire",8,Pot-bouille.
-17,"ténor, relevât, dodue, cie, dansé",7,Pot-bouille.
-18,"assurance, feuill, solo, mention, bonde",3,Pot-bouille.
-19,"ténor, piqueur, campardon, bonne, caverneux",28,Pot-bouille.
-20,"feuill, échangé, suant, rogue, lubie",1,Pot-bouille.
-21,"larbin, tué, allumage, eugénie, charbonnier",3,Pot-bouille.
-22,"poncif, soierie, mors, monton, étourdissaient",2,Pot-bouille.
-24,"dot, infortune, assurance, tremblante, négociateur",7,Pot-bouille.
-25,"firent, coupole, rococo, madère, indignement",5,Pot-bouille.
-26,"adossa, méfie, servit, renfermé, considéra",4,Pot-bouille.
-27,"tact, statistique, sacrement, babiole, syllabe",6,Pot-bouille.
-28,"violon, chanterelle, retournée, compatissant, dépoli",2,Pot-bouille.
-30,"facture, conférence, assurance, menuisier, espaçaient",13,Pot-bouille.
-31,"boyau, mouillé, diarrhée, colique, inquiète",1,Pot-bouille.
-0,"futaie, mésange, buisson, moiteur, mangeron",28,La faute de l abbe Mouret.
-1,"tentation, parterre, lis, chasteté, ave",23,La faute de l abbe Mouret.
-2,"parterre, clairière, cerise, lichen, verger",17,La faute de l abbe Mouret.
-4,"terram, matérialiste, profundi, trinqu, repentir",3,La faute de l abbe Mouret.
-5,"motte, vêpres, racontât, aubergine, crin",4,La faute de l abbe Mouret.
-6,"bouleau, agacement, paroissien, louable, prédécesseur",2,La faute de l abbe Mouret.
-7,"silex, chapon, bréviaire, antéchrist, écuelle",11,La faute de l abbe Mouret.
-8,"moineau, clochette, ocre, burette, calice",14,La faute de l abbe Mouret.
-9,"peigne, inconnue, pinceau, chandelier, repeignit",4,La faute de l abbe Mouret.
-11,"crevasser, craqua, buisson, suant, poudreux",3,La faute de l abbe Mouret.
-12,"ver, coq, châtain, ogival, sensiblerie",3,La faute de l abbe Mouret.
-13,"pêcher, annale, lapin, ponte, chèvre",1,La faute de l abbe Mouret.
-14,"plumeau, paillette, tripoli, semestre, dirigeant",2,La faute de l abbe Mouret.
-15,"prune, prunier, jujubier, gourmandant, arbousier",2,La faute de l abbe Mouret.
-16,"pissenlit, olivier, étole, purificatoire, chasuble",5,La faute de l abbe Mouret.
-17,"tuile, falbala, plantain, colline, rameau",5,La faute de l abbe Mouret.
-18,"burette, génuflexion, manuterge, corporal, épître",5,La faute de l abbe Mouret.
-21,"groin, bêlement, gargouille, dinde, corne",2,La faute de l abbe Mouret.
-22,"peler, gloussement, reproduction, lavande, branlant",1,La faute de l abbe Mouret.
-23,"rosier, platane, cellule, initiation, tonsure",8,La faute de l abbe Mouret.
-24,"rocaille, parterre, grotte, suave, ortie",3,La faute de l abbe Mouret.
-25,"cercueil, aspersoir, souterrain, bouquin, ego",5,La faute de l abbe Mouret.
-26,"œillet, pavot, tubéreux, héliotrope, quarantaine",4,La faute de l abbe Mouret.
-27,"sceau, parterre, damnable, saltimbanque, entrevoir",3,La faute de l abbe Mouret.
-28,"calice, patène, hostie, burette, index",4,La faute de l abbe Mouret.
-30,"rocher, trempe, cercueil, gronder, curer",4,La faute de l abbe Mouret.
-31,"rameau, chauffa, respirant, soulageant, allégé",3,La faute de l abbe Mouret.
-32,"clairière, mena, attendrie, broussaille, peluche",2,La faute de l abbe Mouret.
-0,"noiraud, estime, infâme, ineffaçable, galette",16,1868 Madeleine Ferat.
-1,"noiraud, bible, fanatique, protestant, union",40,1868 Madeleine Ferat.
-2,"peignoir, teinte, bosquet, cuisant, blondissait",5,1868 Madeleine Ferat.
-3,"tesson, flacon, toxique, chimiste, caillot",1,1868 Madeleine Ferat.
-4,"testament, adoptif, sensiblerie, supplierai, croirai",3,1868 Madeleine Ferat.
-5,"piédestal, cantiqu, espéra, étudiant, congédia",1,1868 Madeleine Ferat.
-6,"noiraud, surnom, bestial, constructeur, flagrant",6,1868 Madeleine Ferat.
-7,"protestant, démon, accablement, sinistre, frissonnèrent",6,1868 Madeleine Ferat.
-8,"permet, dose, tesson, fétide, exhalaison",1,1868 Madeleine Ferat.
-9,"pigeonnier, crevasse, photographique, criblé, fascinant",7,1868 Madeleine Ferat.
-10,"rousseur, mat, redressaient, épiderme, masculin",1,1868 Madeleine Ferat.
-11,"flacon, coupure, toxique, consen, catin",1,1868 Madeleine Ferat.
-12,"galette, niaiserie, avoue, altéré, attendrissaient",2,1868 Madeleine Ferat.
-13,"noiraud, fanatique, adolescent, incompris, onguent",2,1868 Madeleine Ferat.
-14,"bible, confiserie, verset, inquisiteur, inexorable",1,1868 Madeleine Ferat.
-15,"gentilhomme, corvéable, coi, meurtri, possédé",2,1868 Madeleine Ferat.
-19,"poussin, noiraud, gravure, bêlement, crevasser",4,1868 Madeleine Ferat.
-21,"terrifier, indisposé, promena, scintillement, minutie",2,1868 Madeleine Ferat.
-23,"féconder, bruni, fût, vigueur, flexible",1,1868 Madeleine Ferat.
-24,"laboratoire, manuscrit, fiole, mielleux, appareil",6,1868 Madeleine Ferat.
-25,"pustule, pacha, sérail, noiraud, aubépine",2,1868 Madeleine Ferat.
-27,"bosquet, auberge, pauvresse, intonation, causât",5,1868 Madeleine Ferat.
-28,"attiédie, modiste, cuve, bijoutier, épanoui",1,1868 Madeleine Ferat.
-29,"pensionnat, bambine, délicieuse, quiétude, chancela",1,1868 Madeleine Ferat.
-30,"absinthe, boisson, tartan, poissard, nu",1,1868 Madeleine Ferat.
-31,"graisseu, souillerait, batte, assoupir, naufragé",3,1868 Madeleine Ferat.
-32,"bohémien, paysage, traque, supplierai, dortoir",3,1868 Madeleine Ferat.
-0,"briquet, suffisance, houille, deneulin, tartine",9,Germinal.
-1,"gréviste, goyot, échelon, coron, sorbier",10,Germinal.
-2,"criblage, beffroi, culbuteur, terri, goudronner",6,Germinal.
-3,"coron, popularité, grève, cabaretier, affiche",13,Germinal.
-4,"boisage, délégué, berline, mineur, donnion",4,Germinal.
-5,"internationale, machineur, amende, cribleuse, trémie",10,Germinal.
-6,"enchère, divisionnaire, salaire, faille, machineur",7,Germinal.
-7,"dissipa, rêvassant, aurion, affinement, avortait",1,Germinal.
-8,"rivelaine, gourde, tartine, sentinelle, dégel",12,Germinal.
-9,"éboulement, éboulée, blanchisseus, rampant, délégué",2,Germinal.
-10,"porion, brûlé, mineur, grisou, cantine",5,Germinal.
-11,"estaminet, mineur, porion, terri, berline",21,Germinal.
-12,"coron, galoche, jatte, brioche, cuillerée",12,Germinal.
-13,"pierronne, cul, logeur, fouton, fanfreluche",2,Germinal.
-14,"porion, cuvelage, berline, accrochage, mineur",33,Germinal.
-15,"mineur, boisage, grève, berline, centime",13,Germinal.
-16,"machineur, poireau, coron, touss, affabilité",6,Germinal.
-17,"embarcadère, regrettable, oracle, grève, inaccessible",1,Germinal.
-18,"cloutier, chope, lapine, mineur, pinson",18,Germinal.
-19,"régisseur, ânonnant, alarmée, retraversa, firent",3,Germinal.
-21,"chocolat, mamelle, brioche, essaie, chambardement",4,Germinal.
-22,"denier, faisan, relais, région, dividende",5,Germinal.
-23,"genièvre, délégué, coron, échanger, galeux",3,Germinal.
-24,"exil, passionna, appointement, chalet, monotonie",1,Germinal.
-25,"berline, roulage, dégel, schiste, porion",10,Germinal.
-26,"laitue, greffe, romaine, anémique, poitrail",1,Germinal.
-27,"marqueur, chambrée, porion, devenu, invalide",3,Germinal.
-28,"piston, logeur, chope, assourdissement, vessie",2,Germinal.
-30,"cuvelage, vilebrequin, niveau, équerre, morue",6,Germinal.
-31,"flacon, briquet, cafetière, gourde, cassonade",2,Germinal.
-0,"égratignait, cabanon, millerolle, coupage, poussion",5,La conquete de Plassans.
-1,"vicaire, simagrée, craignai, diocèse, curer",3,La conquete de Plassans.
-4,"vicaire, diocèse, tonnelle, légitimiste, candidat",37,La conquete de Plassans.
-5,"moutarde, bague, poire, taquinerie, trouche",6,La conquete de Plassans.
-6,"billard, local, aplatissaient, prêtraille, désœuvré",4,La conquete de Plassans.
-7,"trouche, reposoir, confessionnal, brutaliserait, crucifiement",8,La conquete de Plassans.
-8,"oratoire, écorchure, surprenai, enrouler, ricana",3,La conquete de Plassans.
-9,"trouche, clovisse, soigneraient, catalepsie, plissement",8,La conquete de Plassans.
-10,"candidat, flammèche, suffi, ballottage, moutonnante",2,La conquete de Plassans.
-11,"sirop, rougon, cagot, minime, aliéné",5,La conquete de Plassans.
-12,"souffler, farci, rongée, pleurante, humaine",3,La conquete de Plassans.
-13,"impasse, raquette, éther, billard, kirsch",6,La conquete de Plassans.
-14,"sarment, effarait, remonta, charrié, fascine",1,La conquete de Plassans.
-15,"électeur, vicaire, moniteur, trouche, empois",8,La conquete de Plassans.
-16,"trouche, burette, patronnesse, buis, emportât",6,La conquete de Plassans.
-17,"comité, trouche, raquette, bréviaire, tonnelle",22,La conquete de Plassans.
-18,"pompier, rappel, trouche, crac, tulette",5,La conquete de Plassans.
-19,"trich, hâblerie, tortura, épouvanta, émouvant",5,La conquete de Plassans.
-21,"trouche, coffre, chienne, séminaire, ramass",5,La conquete de Plassans.
-24,"levain, comité, consen, jarre, querelleux",2,La conquete de Plassans.
-25,"limace, cordonnier, buis, infiltration, tonnell",6,La conquete de Plassans.
-26,"poirier, tabouret, dira, amorti, aiguillée",3,La conquete de Plassans.
-27,"surplis, pratiquât, précipitation, moulure, ogive",2,La conquete de Plassans.
-30,"mûrier, grossit, trouche, fruitier, impasse",9,La conquete de Plassans.
-31,"inconcevable, affolement, rentier, baisse, persistance",1,La conquete de Plassans.
-0,"marieron, chevronné, relief, hortensia, conseille",4,Le reve.
-1,"monseigneur, brodeur, mitre, évêché, brodeuse",24,Le reve.
-2,"monseigneur, voussure, tympan, dragon, armoirie",7,Le reve.
-3,"bourreau, bouillant, cest, succomb, suavité",1,Le reve.
-6,"vélin, tanneur, matricule, préséance, tribut",2,Le reve.
-7,"monseigneur, revenir, réchaufferai, courtine, espérai",4,Le reve.
-8,"quidquid, ouate, cornet, flocon, livret",4,Le reve.
-9,"bondissant, pondérer, chuchotante, moussu, églantier",1,Le reve.
-11,"officieux, adoption, tutelle, églantine, celluy",1,Le reve.
-13,"nué, broderie, gronder, blessa, monseigneur",3,Le reve.
-14,"martyr, macule, lain, desséché, puceau",2,Le reve.
-16,"échafaud, itinéraire, tourelle, vitrail, brodeur",2,Le reve.
-19,"monseigneur, inefficace, tendress, battît, blêmie",1,Le reve.
-23,"orgue, cérémoniaire, thuriféraire, acolyte, anneau",7,Le reve.
-24,"bobine, diligent, latte, solive, brodeur",3,Le reve.
-25,"vanne, bruyère, zénith, rinçage, caillouteux",1,Le reve.
-26,"chape, chasuble, ensuble, donjon, cramoisi",3,Le reve.
-27,"rituel, aspersoir, monseigneur, lavabi, invocation",2,Le reve.
-28,"armoirie, encensoir, monseigneur, broderie, chapelain",3,Le reve.
-30,"collatéral, stalle, braisillait, pluvial, antienne",1,Le reve.
-31,"boutant, évêché, canton, batiste, contrefort",5,Le reve.
-32,"verrier, coloré, vaporeux, piédestal, harmonieux",1,Le reve.
-0,"zingueur, anisette, poulette, louchon, abattis",12,L assommoir.
-1,"crevaison, pissenlit, crâner, interne, dragée",6,L assommoir.
-2,"soûlard, gaupe, enjamber, dépenaillé, remontant",1,L assommoir.
-4,"giletière, crépi, moulure, gargote, bavure",1,L assommoir.
-5,"baquet, lavoir, zingueur, laveuse, fouton",4,L assommoir.
-6,"chapelier, zingueur, bordée, soûlerie, cuvée",4,L assommoir.
-7,"eau, vie, rat, gorgée, interne",2,L assommoir.
-8,"chahut, laveuse, boulon, interne, lavoir",13,L assommoir.
-9,"filière, maillon, chaîniste, baquet, maille",15,L assommoir.
-10,"saladier, nique, roussin, coïncidence, cocasse",1,L assommoir.
-11,"alambic, zingueur, vitriol, assommoir, interne",18,L assommoir.
-12,"oie, blanquette, potage, croupion, épinée",22,L assommoir.
-13,"fleuriste, scierie, vicieux, mâtine, morveux",10,L assommoir.
-14,"copeau, forge, assommoir, boulon, oignon",9,L assommoir.
-15,"riquiqui, couplet, souris, balança, caverneux",2,L assommoir.
-16,"chapelier, zingueur, patronne, forgeron, coupeau",51,L assommoir.
-17,"coquille, rôtissoire, blanquette, mérinos, oie",1,L assommoir.
-18,"coupeau, rivet, battoir, enclume, forban",13,L assommoir.
-19,"boulon, enclume, orge, millimètre, forge",7,L assommoir.
-21,"imprimé, coupeau, embêtât, zébrure, emplâtrer",9,L assommoir.
-22,"coudoyée, bousin, visière, gargote, zingueur",6,L assommoir.
-23,"boulon, courroie, rivet, bavure, enclume",1,L assommoir.
-24,"chameau, zingueur, pâtée, balayure, avenant",4,L assommoir.
-25,"risette, béquille, momie, quenotte, pituite",3,L assommoir.
-26,"cinquièm, camisole, louchon, bouillonné, deux",5,L assommoir.
-27,"fessée, bail, chapelier, ragot, machination",1,L assommoir.
-28,"fraise, saladier, papillon, margoulette, volcan",2,L assommoir.
-30,"établi, chapiteau, producteur, frelon, soigneraient",4,L assommoir.
-31,"octroi, piqu, manquait, tamponna, assassiné",1,L assommoir.
-0,"assassinat, spectre, souvien, purifiât, guériraient",8,1867 Therese Raquin.
-1,"nerf, assassinat, causa, sinistre, organisme",17,1867 Therese Raquin.
-2,"noyé, vitrine, vitrage, cartonnier, bouffie",3,1867 Therese Raquin.
-4,"pie, roulier, souciât, cahotait, traiteur",2,1867 Therese Raquin.
-5,"pinceau, durable, fatigant, gauchement, rousse",1,1867 Therese Raquin.
-6,"bégayer, agrandi, caveau, indigène, mercier",2,1867 Therese Raquin.
-7,"mercier, monologue, paralytique, impotente, plaintif",4,1867 Therese Raquin.
-8,"canotier, barque, cicatrice, grattement, tête",11,1867 Therese Raquin.
-9,"gloria, mercerie, morsure, parente, digérant",4,1867 Therese Raquin.
-12,"domino, nuptial, mercier, balbutièrent, réception",3,1867 Therese Raquin.
-13,"engageant, défection, doucereux, moisi, banalité",1,1867 Therese Raquin.
-14,"île, barque, canot, bras, cingla",1,1867 Therese Raquin.
-15,"radotage, impotent, fusain, ang, coiffé",3,1867 Therese Raquin.
-19,"absinthe, flâner, infidélité, espionnage, estaminet",1,1867 Therese Raquin.
-21,"impotente, paralytique, troubleront, domino, monte",3,1867 Therese Raquin.
-22,"canot, tigré, rameur, amarre, crépie",2,1867 Therese Raquin.
-24,"impotente, paralytique, assommât, tête, chenil",4,1867 Therese Raquin.
-25,"morsure, impotente, engourdissement, indécision, miaulement",5,1867 Therese Raquin.
-28,"soulevât, rouillé, putréfaction, picotement, tannée",1,1867 Therese Raquin.
-29,"luxure, humiliaient, commissariat, gloutonnerie, assouvissement",1,1867 Therese Raquin.
-30,"emphatique, tordu, carafe, flacon, sucrer",1,1867 Therese Raquin.
-31,"morsure, écaillaient, cuisson, pénétrait, crispation",2,1867 Therese Raquin.
-0,"créance, rédacteur, oserai, rebuta, capitaliste",3,L argent.
-1,"banque, naufrage, retardant, émietté, chancell",3,L argent.
-2,"calcaire, guichet, tracé, porphyre, carrossable",2,L argent.
-3,"collectivisme, production, calembour, annuité, concurrence",6,L argent.
-4,"liquidation, syndicat, liquidateur, remisier, giboulée",7,L argent.
-5,"obligation, infirmerie, baissier, baisse, prime",11,L argent.
-6,"spéculation, duché, émission, épure, tentant",7,L argent.
-7,"banque, traînerai, acompte, intégralité, enjamber",6,L argent.
-8,"coffret, halein, attendrissaient, cloaqu, narquois",3,L argent.
-9,"interprétation, triplerait, grisant, lambris, dispensateur",1,L argent.
-11,"syndicataire, assemblée, statut, actionnaire, bâche",8,L argent.
-12,"éditeur, diatribe, financier, hors, perplexité",1,L argent.
-13,"paillasse, impayé, courtage, prime, report",10,L argent.
-14,"comptant, travée, fondé, coteur, camélia",4,L argent.
-15,"cote, remisier, administrateur, actionnaire, rubis",8,L argent.
-16,"infirmerie, restrictif, nivellement, prélèvement, acquit",5,L argent.
-17,"asphyxiant, désorganisateur, bouffie, ripaill, retentissante",3,L argent.
-18,"débiteur, arbitrage, insolvable, lingot, créance",6,L argent.
-19,"tartine, corsaire, confiture, religieuse, paternité",10,L argent.
-20,"hausse, prévenu, remisier, licencieux, caution",3,L argent.
-21,"partag, gâtât, précocité, méchain, ambré",1,L argent.
-22,"taverne, comptant, bienfaisance, pâtisserie, banque",4,L argent.
-23,"prime, émission, trafiquant, créance, report",6,L argent.
-24,"aquarelle, domanial, amusé, épure, séjour",5,L argent.
-25,"coupon, recouvrement, trimestriel, violée, resta",3,L argent.
-26,"éclairaient, blessa, remontée, anormal, bouc",1,L argent.
-27,"hausse, ascensionnel, gênon, fléchir, baissier",2,L argent.
-28,"urbanité, vantail, rouler, châssis, réclamation",1,L argent.
-29,"hausse, bilan, actionnaire, baisse, émission",24,L argent.
-30,"inspiration, divination, excusable, cravaté, abjection",1,L argent.
-0,"cacher, gothique, soupire, outrageux, bienfait",5,1866 Le voeu d une morte.
-1,"cordialité, gaucherie, vœu, affectueux, contemplation",11,1866 Le voeu d une morte.
-2,"île, préau, martin, barque, gronderait",2,1866 Le voeu d une morte.
-3,"périlleux, réparateur, azur, aveuglant, abnégation",1,1866 Le voeu d une morte.
-5,"canot, multiplication, moraliste, île, mêlât",2,1866 Le voeu d une morte.
-6,"encyclopédique, hère, ingrat, livraison, dictionnaire",1,1866 Le voeu d une morte.
-7,"libéral, ôtât, imaginai, souffrit, grisette",7,1866 Le voeu d une morte.
-8,"frivolité, épouvantail, intrus, précepteur, jockey",1,1866 Le voeu d une morte.
-9,"protéger, humanitairerie, phrygien, abstrait, écout",3,1866 Le voeu d une morte.
-10,"argot, adorateur, platitude, gaucherie, comédien",1,1866 Le voeu d une morte.
-13,"moqueur, prétendant, remercie, subalterne, épouseur",2,1866 Le voeu d une morte.
-15,"ingrat, renommée, employer, accomplissement, gaucherie",2,1866 Le voeu d une morte.
-17,"dictionnaire, encyclopédie, grandit, monomanie, auteur",2,1866 Le voeu d une morte.
-18,"sablé, chiffonnée, tenait, irrégulier, cynique",1,1866 Le voeu d une morte.
-22,"encyclopédique, impasse, fruitière, chiourme, éditeur",1,1866 Le voeu d une morte.
-23,"aveuglant, fécondité, fécond, auguste, fresque",1,1866 Le voeu d une morte.
-24,"dissentiment, tête, déranger, dignement, expansif",4,1866 Le voeu d une morte.
-25,"attristèrent, mûrissant, équipée, bilieux, procédure",2,1866 Le voeu d une morte.
-26,"copier, mathématicien, calèche, condescendance, députation",1,1866 Le voeu d une morte.
-27,"imperceptible, absorption, méprit, rentrât, pétulant",7,1866 Le voeu d une morte.
-28,"guide, babil, gland, oser, adouci",1,1866 Le voeu d une morte.
-31,"poète, lycée, mathématicien, orphelin, contemplatif",2,1866 Le voeu d une morte.
-0,"tunnel, ci, express, coup, bague",20,La bete humaine.
-1,"tunnel, compartiment, frise, barrière, express",17,La bete humaine.
-2,"fureté, reparlaient, frise, guettant, flânant",3,La bete humaine.
-3,"manette, mécanicien, cylindre, sablière, graissage",1,La bete humaine.
-4,"atténuant, arrestation, assesseur, impartialité, donataire",2,La bete humaine.
-5,"dissipation, tuilerie, aille, salubrité, suspens",3,La bete humaine.
-6,"legs, piste, citation, chauffeur, tant",3,La bete humaine.
-7,"intimidation, rus, tue, dénégation, février",2,La bete humaine.
-8,"fanal, tunnel, conducteur, tranchée, mécanicien",10,La bete humaine.
-9,"tant, fardier, sût, souillée, bégayant",4,La bete humaine.
-10,"mécanicien, chauffeur, manomètre, niveau, résistance",3,La bete humaine.
-11,"cherche, chauffeur, dépôt, mécanicien, prunelle",6,La bete humaine.
-12,"cantine, enlacement, sauterie, coupler, mécanicien",3,La bete humaine.
-13,"mangeon, tâtant, saignerait, pâli, torturante",3,La bete humaine.
-14,"ballast, aiguilleur, tunnel, flore, essieu",10,La bete humaine.
-15,"courrier, dépôt, express, congédiait, installât",2,La bete humaine.
-16,"lavement, buraliste, enfiévra, transbordement, lava",3,La bete humaine.
-17,"marraine, déraillement, rouennais, congédiait, parler",2,La bete humaine.
-18,"cendrier, conducteur, manomètre, purgeur, tunnel",10,La bete humaine.
-19,"mécanicien, chauffeur, montage, repentir, sel",3,La bete humaine.
-20,"carrier, interrogatoire, version, prévenu, accusé",10,La bete humaine.
-22,"soupape, mécanicien, compartiment, bielle, surveillant",5,La bete humaine.
-23,"tunnel, graissage, misard, ajusteur, coudoyer",1,La bete humaine.
-24,"mars, tamponnement, ponctualité, conjecture, azalée",3,La bete humaine.
-25,"fardier, flore, cantonnement, express, tranchée",12,La bete humaine.
-26,"flore, fardier, dérangé, anglais, carrier",2,La bete humaine.
-27,"vitesse, magistrature, vacillement, affirmatif, validation",5,La bete humaine.
-30,"vendredi, médaillon, express, bride, tunnel",4,La bete humaine.
-31,"aime, imaginai, grelotta, étreignirent, grattement",2,La bete humaine.
-0,"résignera, empoisonneur, étireur, communiste, insulte",14,Travail.
-1,"indissoluble, coulée, ringard, coopératif, récréation",17,Travail.
-2,"câble, bluet, escarpé, soufflant, cadenas",7,Travail.
-3,"salariat, pacte, collectiviste, individuel, citoyen",40,Travail.
-4,"fonte, besace, minerai, problème, promontoire",4,Travail.
-5,"automobile, recrue, bleuse, cordonnerie, errant",8,Travail.
-6,"laminoir, rail, lingot, apprentissage, arracheur",12,Travail.
-7,"salarié, ensemence, inéluctable, consol, vœu",7,Travail.
-8,"harde, garce, ruée, frénésie, orgeat",5,Travail.
-9,"électrode, minerai, kilogramme, fondeur, gueulard",3,Travail.
-10,"courre, coopératif, courroucé, fill, iii",3,Travail.
-11,"empoisonneur, môme, bateau, pillage, boulangerie",9,Travail.
-12,"esclavage, laminoir, flûté, farandole, électricité",2,Travail.
-13,"rendrai, tâtonnante, conciliant, meurtrir, dénuement",1,Travail.
-14,"creuset, fusion, cingleur, puddleur, kilogramme",10,Travail.
-15,"rixe, da, paterne, épicerie, collectivisme",6,Travail.
-16,"endiamantée, radoucir, monte, bisaïeul, josine",2,Travail.
-17,"baise, enfant, cordonnerie, travaille, bi",4,Travail.
-18,"treillage, bateau, gésine, estuaire, escarpement",3,Travail.
-19,"cordonnerie, défectueux, latent, busqué, métallurgique",2,Travail.
-20,"potier, poterie, réfractaire, foire, atome",3,Travail.
-21,"jumelle, mignonne, cristalline, écharde, radoucir",1,Travail.
-22,"quincaillier, tranchet, soupçonneux, nanet, sardine",4,Travail.
-23,"mont, capitaliste, électricité, harmonie, bleuse",18,Travail.
-24,"crèche, réconciliation, fiançaille, profitable, apprentissage",8,Travail.
-25,"laiterie, scrupul, barbillon, adaptation, perdant",3,Travail.
-26,"envieux, couture, levier, ascétisme, illogisme",1,Travail.
-27,"descendance, ration, procédé, paternité, chevaline",6,Travail.
-28,"bourg, haineux, rapace, bouchère, acclamation",1,Travail.
-30,"damnable, musculaire, fautif, usurpation, épuisant",1,Travail.
-31,"démolisseuse, reprend, forgeaient, poignante, exagérer",3,Travail.
-0,"aiguisaient, affiliation, archang, nativité, assomption",2,Lourdes.
-1,"tombeau, voyant, guérie, élu, valable",20,Lourdes.
-2,"chariot, travée, complainte, rosaire, bannière",10,Lourdes.
-3,"brancardier, dais, paralysie, autosuggestion, tuberculeux",13,Lourdes.
-4,"hospitalier, chariot, sécheront, hermoise, baignoire",6,Lourdes.
-6,"ulcère, circonstancié, varice, neuvaine, suppuration",1,Lourdes.
-7,"pèlerin, cantique, chaire, chariot, indistinct",16,Lourdes.
-8,"lupus, guérie, ulcère, miraculé, constatation",6,Lourdes.
-9,"pèlerin, chapelet, immaculé, excursion, compartiment",8,Lourdes.
-10,"révérend, assomption, pèlerin, store, pèr",3,Lourdes.
-11,"entrepreneur, paroisse, fabrique, envoi, héritier",2,Lourdes.
-12,"emballage, tarte, abricot, surprenant, guérie",4,Lourdes.
-13,"infirmerie, cloître, compresse, inoubliable, nobi",5,Lourdes.
-14,"hospitalier, sangle, locomobile, pèlerin, mandement",9,Lourdes.
-15,"paroissial, purée, véridique, rognon, pic",5,Lourdes.
-16,"chenal, traversa, encontre, malséant, directrice",3,Lourdes.
-17,"chapelet, herse, béquille, triforium, miraculé",11,Lourdes.
-18,"brancardier, pèlerin, dais, béquille, express",10,Lourdes.
-19,"vomissement, fatiguée, guérie, troublé, vineux",3,Lourdes.
-20,"certificat, diagnostic, verbal, fourmillement, nutrition",7,Lourdes.
-21,"opium, ensoleillée, cavalcade, pronostic, glabre",6,Lourdes.
-22,"brancardier, valise, brancard, compartiment, bretelle",9,Lourdes.
-23,"tumeur, magnificat, piscine, miraculé, ostensoir",16,Lourdes.
-24,"ligament, paradoxal, transportable, léser, payât",2,Lourdes.
-25,"nécrose, flambeau, pèlerine, cicatrice, ciboire",7,Lourdes.
-26,"espérai, momie, rapetisser, comblant, nage",1,Lourdes.
-27,"constatation, cadenas, sourde, chariot, béquille",6,Lourdes.
-28,"arbrisseau, lampion, pèlerin, forain, parallèle",1,Lourdes.
-30,"piscine, guérir, phtisique, baignoire, bidon",3,Lourdes.
-31,"grotte, pénitence, chevalerie, flottement, chenal",2,Lourdes.
-32,"menue, gentille, patère, couché, surmenage",1,Lourdes.
-0,"toquade, mufe, coeur, shah, cocotte",22,Nana.
-1,"chronique, coeur, ferment, valse, pinceau",10,Nana.
-2,"oriflamme, chiffonnière, comblée, jockey, guérite",6,Nana.
-4,"bookmaker, altesse, figurant, cirée, aspirant",6,Nana.
-5,"pesage, jockey, coquetier, pouliche, balance",6,Nana.
-6,"échalote, idiot, orfèvre, bookmaker, cocu",5,Nana.
-7,"travaillé, couver, confiserie, appartien, moisissure",3,Nana.
-8,"fraise, chou, chambellan, artichaut, cordelier",6,Nana.
-9,"loueur, écrin, moricaud, zizi, sonnerie",13,Nana.
-11,"pouliche, champagne, coquetier, mufe, opérette",15,Nana.
-12,"créancier, coeur, plongeon, souper, poire",7,Nana.
-13,"cré, merde, chic, anglais, coiffeur",28,Nana.
-15,"souper, opérette, bousin, embauchage, jamai",5,Nana.
-16,"ours, manoeuvre, moeurs, pâtissier, toquade",11,Nana.
-17,"altesse, praline, psyché, vérole, tubéreux",5,Nana.
-18,"altesse, choeur, champagne, répétition, jockey",22,Nana.
-19,"coeur, zizi, machiniste, figurant, oeuvre",14,Nana.
-21,"purulence, cordelier, bottier, doublant, vitrier",4,Nana.
-22,"ouvreus, bordel, orchestre, bookmaker, bravo",13,Nana.
-24,"parieur, pouliche, cote, ondulant, plaisantée",2,Nana.
-25,"entrez, trompai, respirant, photographe, coeur",4,Nana.
-26,"casaient, rogomm, bras, contrôle, adoucissaient",2,Nana.
-27,"valse, duchesse, éther, remuée, tigre",5,Nana.
-28,"épice, turc, portugais, rôtissage, quadrille",2,Nana.
-29,"drageoir, clouaient, phénol, bibelot, couvercle",2,Nana.
-30,"dominical, thermomètre, orné, levrette, panné",5,Nana.
-31,"avertisseur, arrêtez, tannait, brûleur, rembourrer",2,Nana.
-0,"mistral, doi, nonn, fallait, irrévocable",17,Le docteur Pascal.
-1,"hérédité, manuscrit, brassière, pinède, surmenage",21,Le docteur Pascal.
-2,"bastide, macquart, aire, coloration, six",9,Le docteur Pascal.
-3,"manuscrit, brandon, flamba, enflammé, étale",2,Le docteur Pascal.
-4,"sclérose, revendeur, héroïquement, étau, équarrisseur",3,Le docteur Pascal.
-5,"soignerai, mourir, tranquillisait, nonne, fichtr",5,Le docteur Pascal.
-6,"hérédité, innéité, animalité, platane, invariable",6,Le docteur Pascal.
-7,"piqûre, thérapeutique, manuscrit, envahie, lézarde",8,Le docteur Pascal.
-8,"injection, manuscrit, brûlerai, aspirant, aorte",6,Le docteur Pascal.
-9,"psyché, enveloppante, efféminé, bourrelier, fuselé",5,Le docteur Pascal.
-11,"revendeur, timbré, contente, compter, laiteux",2,Le docteur Pascal.
-12,"guett, reçu, facilité, dénuement, insouciant",1,Le docteur Pascal.
-13,"sors, racaille, jusque, soigne, impétuosité",2,Le docteur Pascal.
-14,"généalogique, document, rameau, dissémination, anatomique",2,Le docteur Pascal.
-15,"friche, piqûre, dépression, alternative, ataxie",2,Le docteur Pascal.
-17,"généalogique, phtisique, impulsif, bénin, ramas",4,Le docteur Pascal.
-19,"jardinage, tomber, questionner, traitait, orléanisme",5,Le docteur Pascal.
-20,"hérédité, grasse, gramme, substance, distiller",5,Le docteur Pascal.
-21,"éperdument, défaillante, lucide, surmenage, songer",2,Le docteur Pascal.
-22,"sujette, treille, pavage, dédaigna, raisin",1,Le docteur Pascal.
-23,"fuselé, consol, médiateur, pastel, alchimie",4,Le docteur Pascal.
-24,"élancé, pilon, angine, psyché, virilité",8,Le docteur Pascal.
-25,"pinède, aire, exaspère, pervertissait, compris",3,Le docteur Pascal.
-26,"caboche, pastel, copie, ataxie, trémière",2,Le docteur Pascal.
-27,"macquart, combustion, décès, raclure, portât",4,Le docteur Pascal.
-28,"pastel, sujette, congestif, mythe, lilial",2,Le docteur Pascal.
-29,"vrille, crochet, pêne, moulure, manuscrit",1,Le docteur Pascal.
-30,"sphinx, longévité, lyre, veillant, alchimie",3,Le docteur Pascal.
-0,"crétin, copie, réalisme, pose, carotte",7,L oeuvre.
-1,"paravent, tourlaqu, pose, complémentaire, phosphorescente",18,L oeuvre.
-2,"draperie, infortun, tonalité, illustration, vernissage",2,L oeuvre.
-3,"tourlaqu, gêneur, chevalet, endimanchement, repeindre",3,L oeuvre.
-4,"trac, écorche, accabl, exalt, escalade",2,L oeuvre.
-5,"géométrie, herboristerie, mahoudeau, amateur, chienne",9,L oeuvre.
-6,"canot, île, historique, journalisme, péniche",6,L oeuvre.
-7,"homard, hareng, tremblerai, guingoi, appétissant",6,L oeuvre.
-8,"ânonnait, trouvai, suicidé, cahotait, crèverai",2,L oeuvre.
-9,"rhétorique, pose, dégringolant, affinité, idylle",3,L oeuvre.
-11,"vernissage, rater, faucheur, farceur, desserrer",10,L oeuvre.
-12,"bouillabaisse, rôtie, bouquin, complémentaire, clarinette",8,L oeuvre.
-13,"violoncelle, sculpteur, guimauve, médaille, raté",7,L oeuvre.
-14,"tourlaqu, dragueuse, immortalité, sculpteur, ébauche",13,L oeuvre.
-15,"gelinotte, ravioli, corbillard, ébauche, composition",12,L oeuvre.
-16,"chevalet, jarre, architecture, herboriste, ménager",10,L oeuvre.
-17,"cimaise, réchauffant, attardé, supplier, endoctrinait",3,L oeuvre.
-18,"cimaise, ébauche, déjeuné, écran, stupéfia",8,L oeuvre.
-19,"mimi, crûment, cordelière, armorié, palette",6,L oeuvre.
-22,"bacchante, bac, herboristerie, mahoudeau, sculpteur",3,L oeuvre.
-23,"formule, sirène, notation, énervant, voler",1,L oeuvre.
-24,"herborist, paysagiste, parrain, pondérer, consciencieux",1,L oeuvre.
-25,"détraquait, profane, mutiler, emballeur, pinceau",1,L oeuvre.
-26,"gabelou, hideur, compote, album, attrapage",1,L oeuvre.
-27,"feutre, bourru, lilas, fichtre, campa",5,L oeuvre.
-28,"cèpe, charrette, châssis, chandelier, cacophonie",3,L oeuvre.
-29,"goule, rapacité, chartreux, chèrement, aromate",1,L oeuvre.
-30,"dépouillement, mimi, liste, électeur, tripier",5,L oeuvre.
-31,"pinceau, cambuse, consolidé, emmêler, torturante",7,L oeuvre.
-0,"carriole, tibia, lieutenant, brassard, roussi",11,La debacle.
-1,"obu, ambulance, chloroforme, allemand, tireur",8,La debacle.
-2,"algérie, berge, rive, vallon, division",6,La debacle.
-3,"citadelle, antipatriotique, friche, régent, séchoir",2,La debacle.
-4,"pliant, baquet, espion, tireur, artilleur",6,La debacle.
-5,"maréchal, cohésion, malséant, irrésolution, division",4,La debacle.
-6,"septième, infanterie, cavalerie, réquisition, halte",5,La debacle.
-7,"voiturier, patriote, silvine, moi, consentit",6,La debacle.
-8,"infirmier, major, obu, artère, chassepot",13,La debacle.
-9,"ambulance, maréchal, major, carriole, séchoir",7,La debacle.
-10,"régiment, division, obu, batterie, septième",76,La debacle.
-11,"escouade, lieutenant, caporal, artilleur, tente",17,La debacle.
-12,"eylau, escouade, uhlan, tisserand, russe",7,La debacle.
-13,"artillerie, giberne, ballonnement, regrettiez, cabraient",2,La debacle.
-14,"maréchal, projectile, artillerie, commandement, chassepot",11,La debacle.
-15,"caporal, silvine, puritain, fabricant, salaud",4,La debacle.
-16,"dodo, tireur, imprécis, tueur, enveloppant",1,La debacle.
-17,"chargée, arabe, pourvoir, tisserand, coupant",2,La debacle.
-18,"pointeur, caisson, batterie, tir, conducteur",2,La debacle.
-19,"exècre, proximité, injurie, dédoublement, tenait",3,La debacle.
-21,"prosper, retien, arrachât, soigne, causon",2,La debacle.
-22,"raclée, chambrée, adjudant, septième, concentration",1,La debacle.
-23,"allégement, crac, treille, affaiblissement, faciliter",2,La debacle.
-24,"rive, troisième, estafette, quatrième, pharmacien",3,La debacle.
-25,"hattoy, brigade, hussard, belge, sentinelle",13,La debacle.
-27,"vexant, passivité, laissez, bégayée, tanner",2,La debacle.
-30,"mangé, cinquième, mourante, bouchée, maréchal",1,La debacle.
-31,"silvine, revolver, opaque, salop, engourdie",4,La debacle.
-0,"aristocratie, frénésie, effrayante, revenante, eussion",3,Rome.
-1,"figue, cardinal, concile, trône, dario",15,Rome.
-2,"tombeau, temple, mont, statue, dôme",32,Rome.
-3,"socialisme, catholicisme, démocratie, nation, papauté",28,Rome.
-4,"cardinal, jésuite, eminence, prélat, figue",36,Rome.
-5,"bercail, impardonnable, affable, schisme, monseigneur",1,Rome.
-6,"becfigue, obole, confesseur, denier, ciment",6,Rome.
-7,"antéchrist, condamnable, apostolique, catholicité, cardinal",8,Rome.
-8,"infectieux, figue, enfouir, pourrai, impératif",3,Rome.
-9,"audience, cardinal, eminence, buis, souille",4,Rome.
-10,"thermes, dorée, triangulaire, valise, découvrir",1,Rome.
-11,"confesseur, franciscain, caudataire, magnésie, rongeuse",2,Rome.
-12,"sorbet, avala, innovation, tendress, stuc",1,Rome.
-13,"perlier, divorce, contrecoup, dôme, cardinal",11,Rome.
-14,"fini, timbrant, crépie, inachevé, repaire",1,Rome.
-15,"prélat, romain, cardinal, congrégation, renard",16,Rome.
-17,"palmier, éclaboussaient, classique, loqueteux, ourlé",2,Rome.
-18,"figue, paillasse, raccommodée, emmêler, caisson",3,Rome.
-19,"relique, psalmodie, transtévère, indisposé, rococo",4,Rome.
-20,"jésuite, annulation, cardinal, candidat, divorce",4,Rome.
-22,"patriciat, fiançaille, caudataire, carrosse, chapelain",3,Rome.
-23,"fresque, suisse, christianisme, papauté, temple",17,Rome.
-24,"terroir, villa, cratère, bouderie, écuyer",4,Rome.
-25,"cardinal, barrette, papauté, fantomatique, conclave",5,Rome.
-26,"armure, félicitation, napolitain, proverbial, ingéniosité",1,Rome.
-27,"cardinal, figue, perruche, obsèque, eminence",9,Rome.
-28,"gothique, trône, console, crucifix, bussolanti",3,Rome.
-29,"villa, agio, foncier, émission, spéculateur",3,Rome.
-30,"villa, oranger, pin, buis, riante",2,Rome.
-31,"eminence, mule, calotte, cardinal, décelaient",2,Rome.
-32,"cercueil, triple, formelle, bière, funéraille",1,Rome.
-0,"dessein, engin, bombe, esthétique, val",14,Paris.
-1,"pavot, querelleux, négation, bicyclette, manuel",13,Paris.
-2,"bicyclette, fouette, pilier, chalet, fourré",9,Paris.
-3,"évangile, bombe, apôtre, catholicisme, socialiste",17,Paris.
-4,"interpellation, tribune, baron, délation, admission",20,Paris.
-5,"baron, urgence, gosse, impotent, calomnie",10,Paris.
-6,"baron, poinçon, maquette, éphèbe, chimie",13,Paris.
-7,"dirai, fumoir, inguérissable, béton, coi",7,Paris.
-8,"ravager, stage, moteur, révolu, motrice",1,Paris.
-9,"robinet, lycée, moteur, professeur, coque",8,Paris.
-10,"hallali, effondré, bru, contractée, bourdonnante",2,Paris.
-11,"admission, ministériel, individualiste, tiraillement, accable",2,Paris.
-12,"noisette, radis, printanière, disproportion, violentant",3,Paris.
-13,"primeur, anarchiste, anarchie, polisson, prunier",6,Paris.
-14,"cuve, guillotine, funéraille, dénuement, vendu",8,Paris.
-15,"communisme, tribune, section, normalien, bombe",12,Paris.
-16,"essayage, enivrant, retienn, couturier, ingénument",1,Paris.
-17,"culotte, bicyclette, bâcler, breuvage, satanisme",6,Paris.
-18,"mondésir, chimie, véranda, baron, prostitution",8,Paris.
-19,"outillage, loterie, généralité, omission, intellectualité",4,Paris.
-20,"dynamite, délibération, accusé, mondésir, anarchie",4,Paris.
-21,"simonien, interrogeât, religiosité, souricière, commençant",1,Paris.
-22,"aumônier, crémone, échancré, guillotine, résigné",5,Paris.
-23,"moteur, burin, graveur, auditoire, essentiel",7,Paris.
-24,"discuté, professer, bravement, cach, lambrissée",3,Paris.
-25,"incendiaire, prêtrise, énervé, fourré, dégel",8,Paris.
-27,"bicyclette, hémiplégie, hérétique, abject, blêmissaient",3,Paris.
-28,"interdiction, lunch, archevêché, impétuosité, impudique",1,Paris.
-29,"professorat, explosif, bombe, dynamite, sarcastique",2,Paris.
-30,"anarchiste, attentat, liste, engin, symboliste",6,Paris.
-31,"deviendrai, soignant, angoissé, différence, quittant",2,Paris.
-0,"pâquerette, mansarde, âcre, apaisement, infâme",17,1865 La confession de Claude.
-1,"fange, satiété, langage, affaibli, grabat",4,1865 La confession de Claude.
-2,"rosée, malsain, peuplier, églantine, lucarne",2,1865 La confession de Claude.
-7,"verge, virginité, pâquerette, musc, accablement",2,1865 La confession de Claude.
-8,"pâquerette, échevelée, indécis, effrayé, foudroyée",5,1865 La confession de Claude.
-9,"embarrassant, gîte, domicile, équipage, croisé",1,1865 La confession de Claude.
-12,"vociféraient, renversée, échevelée, danser, vicier",1,1865 La confession de Claude.
-13,"fard, estime, miroir, discordant, affaisser",2,1865 La confession de Claude.
-26,"entrav, rédemption, partager, resté, chevrotant",2,1865 La confession de Claude.
-28,"carnier, empreindre, cornu, lision, raisin",1,1865 La confession de Claude.
-31,"pulsation, inexplicable, opérateur, pâquerette, agile",1,1865 La confession de Claude.
-32,"mansarde, songe, infâme, bosquet, fange",27,1865 La confession de Claude.
-0,"république, tant, rougon, réchaufferai, tournoi",8,La fortune des Rougon.
-1,"charron, tant, volume, borgne, géométrie",9,La fortune des Rougon.
-2,"aire, insurgé, proclamation, esplanade, margelle",12,La fortune des Rougon.
-3,"manigance, aspiration, réaction, réunir, mêlé",4,La fortune des Rougon.
-4,"niais, diligence, compensation, comploter, raisonnée",4,La fortune des Rougon.
-5,"receveur, souvien, enjolivait, grippe, écraserai",5,La fortune des Rougon.
-6,"enclos, contrebandier, osier, fainéant, rougon",20,La fortune des Rougon.
-7,"hampe, insurgé, esplanade, ramification, fuyard",2,La fortune des Rougon.
-8,"ossement, tombal, démangeaison, garrotter, propret",5,La fortune des Rougon.
-9,"pelisse, orme, aire, cachet, encapuchonner",6,La fortune des Rougon.
-10,"insurgé, contingent, commandant, fonctionnaire, scieur",15,La fortune des Rougon.
-11,"bonnetier, commandant, mouchard, île, crêpe",6,La fortune des Rougon.
-12,"embellissement, proprette, respectable, lithographie, éden",1,La fortune des Rougon.
-13,"poulie, chaperon, ciseau, bretelle, cotonnade",3,La fortune des Rougon.
-14,"contingent, tocsin, liège, bourg, insurgé",3,La fortune des Rougon.
-15,"insurgé, commandant, conservateur, rougon, clergé",16,La fortune des Rougon.
-16,"illettré, gâte, structure, jarre, guignon",1,La fortune des Rougon.
-17,"commandant, réunir, deviendrai, fusillé, conseille",3,La fortune des Rougon.
-18,"pelisse, pie, aire, chaperon, jas",4,La fortune des Rougon.
-19,"enclos, carabine, insurrection, rougon, contrebandier",4,La fortune des Rougon.
-21,"sentinelle, créneau, tocsin, insurgé, cannibale",1,La fortune des Rougon.
-22,"épisode, détaillant, satisfit, resta, rechercher",2,La fortune des Rougon.
-23,"braconnier, diablesse, sobriété, idylle, souvenue",2,La fortune des Rougon.
-24,"librairie, forçat, gazette, enfoncement, tanneur",5,La fortune des Rougon.
-25,"tombal, pistolet, borgne, mourir, fluidité",6,La fortune des Rougon.
-26,"capuchon, crépu, torsade, arrivant, pelisse",1,La fortune des Rougon.
-27,"maudit, carabine, maudire, tachée, protesta",2,La fortune des Rougon.
-30,"conjuré, rat, métamorphose, naturaliste, tonnelier",4,La fortune des Rougon.
-0,"charcutier, guidon, store, cocarde, habillé",7,Le ventre de Paris.
-1,"groseille, guigne, prune, cerise, fraise",3,Le ventre de Paris.
-2,"ramier, limousine, poissonnerie, vitrail, gorger",5,Le ventre de Paris.
-3,"grog, pleurnicherie, mangeaille, grabuge, dinde",2,Le ventre de Paris.
-4,"dahlia, camion, punch, théière, marguerite",2,Le ventre de Paris.
-5,"barbue, poissonnière, sole, poisson, ouïe",5,Le ventre de Paris.
-6,"quenu, raie, rôtisserie, escargot, billot",7,Le ventre de Paris.
-8,"déportation, quenu, barbue, hareng, grillade",4,Le ventre de Paris.
-9,"quenu, fromage, mazagran, olivet, rouleau",9,Le ventre de Paris.
-10,"crabe, broc, débarbouillait, incommodé, grouillement",1,Le ventre de Paris.
-11,"pigeon, resserre, rôtisserie, melchior, alphabet",5,Le ventre de Paris.
-12,"boudin, quenu, charcutier, marmite, saumon",17,Le ventre de Paris.
-13,"quenu, mollet, charcutier, natte, boulangerie",5,Le ventre de Paris.
-14,"manne, crieur, criée, turbot, poissonnière",3,Le ventre de Paris.
-15,"grenadier, chope, croquis, bossu, poissonnerie",7,Le ventre de Paris.
-16,"éventaire, camélia, étuve, fuseau, jonc",7,Le ventre de Paris.
-17,"mirabelle, tranche, guimpe, cabas, hure",4,Le ventre de Paris.
-18,"chou, carotte, potager, navet, épinard",8,Le ventre de Paris.
-19,"pile, micmac, maraîcher, andouille, carotte",3,Le ventre de Paris.
-20,"carnaval, casaquin, commet, trempe, frégate",2,Le ventre de Paris.
-21,"galetas, haquet, arcade, justification, dindon",2,Le ventre de Paris.
-22,"carotte, resserre, navet, maraîcher, chou",10,Le ventre de Paris.
-24,"écossais, toque, urne, cerclée, amollissaient",2,Le ventre de Paris.
-25,"boudin, langouste, boyau, poisson, saindoux",5,Le ventre de Paris.
-26,"pigeon, corset, gronderait, quenu, couenn",3,Le ventre de Paris.
-27,"format, indéchiffrable, dénonciation, chapitre, parfumée",2,Le ventre de Paris.
-28,"godiveau, panier, affilié, tripier, osier",5,Le ventre de Paris.
-30,"caricature, déguerpir, poissonnière, obscénité, doucereux",1,Le ventre de Paris.
-1,"boudoir, cure, baignoire, sensualité, kiosque",9,Son Excellence Eugene Rougon.
-2,"excellence, philharmonique, gland, présidence, brigadier",5,Son Excellence Eugene Rougon.
-3,"amendement, orateur, tribune, paragraphe, parrain",2,Son Excellence Eugene Rougon.
-4,"démocratique, archevêque, département, amiral, légat",18,Son Excellence Eugene Rougon.
-5,"bonapartiste, palet, tourniquet, sir, guitare",23,Son Excellence Eugene Rougon.
-6,"proviseur, obèse, proscription, reconduirai, salie",4,Son Excellence Eugene Rougon.
-8,"cravache, chatouilleux, stalle, amazone, tape",6,Son Excellence Eugene Rougon.
-9,"foulure, cravache, supplémentaire, lâcheur, stalle",11,Son Excellence Eugene Rougon.
-10,"tribune, orateur, parlement, loterie, amazone",5,Son Excellence Eugene Rougon.
-11,"tourniquet, ode, chevalier, coquetier, timbale",8,Son Excellence Eugene Rougon.
-12,"américain, cristallerie, avoué, dissolu, altération",3,Son Excellence Eugene Rougon.
-13,"présentation, clorinde, légation, chevalier, navire",9,Son Excellence Eugene Rougon.
-14,"buvette, peinte, constitutionnel, bambou, mandement",1,Son Excellence Eugene Rougon.
-15,"sire, rapporteur, département, palet, orateur",24,Son Excellence Eugene Rougon.
-16,"domiciliaire, chevalier, portefeuille, raffinerie, chargée",5,Son Excellence Eugene Rougon.
-17,"excellence, filature, académicien, puce, compatible",8,Son Excellence Eugene Rougon.
-18,"pari, chevalier, guitare, conserve, brioche",12,Son Excellence Eugene Rougon.
-19,"clorinde, hystérique, store, pornographie, écrivain",3,Son Excellence Eugene Rougon.
-20,"péplum, amarante, verbal, pédale, pupitre",1,Son Excellence Eugene Rougon.
-21,"laquai, sucrier, clorinde, tabouret, déménagement",1,Son Excellence Eugene Rougon.
-22,"bock, collier, carafon, brasserie, grelot",3,Son Excellence Eugene Rougon.
-23,"délibération, rapporteur, congratulation, tribune, continuateur",1,Son Excellence Eugene Rougon.
-24,"entêtaient, dictée, fourrure, bouchée, soufflet",1,Son Excellence Eugene Rougon.
-25,"substitut, tarlatane, 78e, habillé, haché",1,Son Excellence Eugene Rougon.
-26,"chapelet, méfier, sénateur, parfumeus, adjudant",6,Son Excellence Eugene Rougon.
-27,"colportage, rancunier, élogieux, institution, feindre",6,Son Excellence Eugene Rougon.
-28,"manivelle, vive, polka, moniteur, chambellan",3,Son Excellence Eugene Rougon.
-29,"philharmonique, contremaître, embranchement, servilité, monceau",2,Son Excellence Eugene Rougon.
-30,"brigadier, aubergiste, meute, cerf, 78e",10,Son Excellence Eugene Rougon.
-0,"mouillette, shako, râteau, ermitage, ratissa",6,Une page d amour.
-1,"manutention, persil, bouillotte, ardoise, orme",30,Une page d amour.
-2,"cerceau, hachure, abîmaient, rive, veilleus",13,Une page d amour.
-4,"hachure, chagrine, frissonnante, embrasse, déluge",1,Une page d amour.
-5,"congédiant, tremblée, grelottante, braque, colique",3,Une page d amour.
-6,"racontât, beauceron, condisciple, reps, suspension",1,Une page d amour.
-7,"glaçaient, joufflu, colis, assoupir, plage",2,Une page d amour.
-8,"sangsue, larmoyant, balancier, éther, pharmacie",11,Une page d amour.
-9,"miaulement, capeline, deberle, japonais, poudrer",14,Une page d amour.
-11,"mouillette, pétard, mousqueterie, papillote, quadrille",2,Une page d amour.
-12,"caserne, casserole, vinaigre, thym, laurier",3,Une page d amour.
-13,"pianiste, prononciation, cantique, attendion, moutonnante",4,Une page d amour.
-16,"shako, baguette, épaulette, enjolivait, épouserai",9,Une page d amour.
-17,"réalisme, badine, hop, deberle, gêner",11,Une page d amour.
-18,"burnous, monocle, crème, symétrie, litanie",5,Une page d amour.
-19,"corbillard, char, touffe, japonais, marmottant",12,Une page d amour.
-21,"sauvez, clématite, orme, râteau, gravier",16,Une page d amour.
-22,"réverbère, flûtée, tremblotant, marmelade, tenez",2,Une page d amour.
-24,"épouser, caveau, acacia, falot, aimer",2,Une page d amour.
-26,"natte, camelote, épingle, brodée, flûtée",5,Une page d amour.
-27,"savai, quadrille, crème, baignée, éloignât",8,Une page d amour.
-28,"merlan, gigot, sole, anchois, gratin",1,Une page d amour.
-30,"demain, punch, képi, souffrir, mauviette",4,Une page d amour.
-31,"allongée, étaler, coque, pensif, potion",1,Une page d amour.
-0,"trouille, faneur, luzerne, borderie, raidie",17,La terre.
-1,"contrariant, seigle, avoine, labour, incarnat",5,La terre.
-2,"haricot, pois, finît, betterave, taquinât",3,La terre.
-3,"impôt, laboureur, hectolitre, égalité, disette",11,La terre.
-4,"hotte, cruche, gueulebée, gage, marraine",5,La terre.
-5,"fourchée, chaudron, fripouille, encontre, meurtri",6,La terre.
-6,"mancheron, fagot, charrue, soc, lopin",12,La terre.
-7,"flanqua, ripaille, pause, étable, fenil",1,La terre.
-8,"veau, pistole, étable, vétérinaire, borderie",22,La terre.
-9,"sauvez, carriole, veau, hareng, soi",9,La terre.
-10,"atout, jar, lot, porcher, chaume",3,La terre.
-11,"berger, avoine, pistole, fermier, champêtre",41,La terre.
-12,"fléau, meuglant, cosse, taureau, battoir",7,La terre.
-13,"pressoir, vendange, raisin, vigne, colique",5,La terre.
-14,"semoir, bergerie, carriole, semeur, clerc",16,La terre.
-15,"capeline, fumer, arpent, lentille, soûl",6,La terre.
-16,"répréhensible, purge, sinapisme, gueuserie, ci",4,La terre.
-17,"marieron, torchonnant, pleurante, vibrante, dégoûtation",2,La terre.
-18,"lièvre, marraine, borderie, champêtre, lot",16,La terre.
-19,"faneuse, berger, fermier, comptabilité, veillée",5,La terre.
-20,"are, trouille, vigne, parcelle, arpent",1,La terre.
-21,"télégraphie, gibelotte, attendît, frimat, élodie",2,La terre.
-22,"trombone, violon, pesa, auberge, omelette",2,La terre.
-23,"tambour, foutue, déshonor, routier, jar",2,La terre.
-24,"setier, hectare, semoir, herse, labour",3,La terre.
-25,"moissonneur, faucheur, écuelle, ramasseuse, cuillère",5,La terre.
-26,"grêlon, soupesait, mousqueterie, phosphore, mitrailler",1,La terre.
-27,"confiserie, culotté, chieur, incolore, brûlot",2,La terre.
-28,"déshonoraient, moutarde, merde, pigeonnier, éreintée",1,La terre.
-30,"trombone, conscrit, piston, chantre, cercueil",3,La terre.
-31,"borderie, sillonna, dépréciation, futaille, fermant",4,La terre.
+0,"péristyle, comptant, baissier, change, spéculateur",67,L argent.
+1,"spéculation, bilan, entreprise, production, collectivisme",131,L argent.
+2,"assemblée, liquidation, émission, achat, actionnaire",203,L argent.
+3,"vivace, complexe, salissant, épure, dépréciation",33,L argent.
+4,"traduction, cote, syndicat, calcaire, guichet",83,L argent.
+5,"étranglèrent, apporte, flétri, menaça, promet",6,L argent.
+6,"pillerault, filou, saccader, équinoxe, exposant",16,L argent.
+7,"aquarelle, dortoir, violée, éclairaient, bûche",20,L argent.
+8,"droiture, épure, corsaire, courtage, irrégularité",58,L argent.
+9,"anticipé, obligation, bilan, bienfaisance, actionnaire",88,L argent.
+10,"devine, fassion, brigandage, juiverie, prête",15,L argent.
+11,"infirmerie, créance, visiteuse, embranchement, rubis",32,L argent.
+12,"remisier, coulissier, cote, administrateur, ladre",49,L argent.
+13,"rédacteur, papeterie, boursier, désintéressement, cristalline",26,L argent.
+14,"convenu, contractée, accumulé, manger, raffermir",11,L argent.
+15,"méprisante, bouffie, exhalèrent, appauvrie, citronnier",16,L argent.
+16,"crémone, précocité, compris, zézayant, intégralité",23,L argent.
+17,"liquidateur, report, escroquerie, expert, fondé",22,L argent.
+18,"paillasse, étonnée, écartement, vantail, souffleter",9,L argent.
+19,"halein, expressif, refluait, profane, initié",17,L argent.
+20,"préau, calembour, administrateur, coulissier, confiseur",33,L argent.
+21,"camélia, université, rédacteur, russe, panacher",25,L argent.
+0,"simoniste, auditoire, paroissial, jury, neuve",24,Verite.
+1,"primaire, enseignement, laïque, nation, capucin",394,Verite.
+2,"papeterie, certificat, adjoint, municipal, primaire",135,Verite.
+3,"visitation, gronderie, impérieu, indélébile, dilection",87,Verite.
+4,"révocation, académie, marsoullier, beaumontai, coreligionnaire",91,Verite.
+5,"catéchisme, sai, fasse, pense, déférence",100,Verite.
+6,"socialiste, sacerdotal, anti, veill, déblaya",16,Verite.
+7,"perquisition, judas, abat, calfeutrer, échappât",36,Verite.
+8,"mystique, enseignement, éducatrice, frein, désunion",122,Verite.
+9,"démoniaque, chasser, socialiste, lision, affliger",37,Verite.
+10,"pénitence, soutien, geôle, intangible, déchire",29,Verite.
+11,"donateur, notabilité, promoteur, pimpant, opposant",18,Verite.
+12,"enseign, reliquaire, tarte, nymphe, square",27,Verite.
+13,"rir, distribution, ravie, violateur, nuageux",20,Verite.
+14,"chérubin, étranglaient, mensonger, fluet, indestructible",2,Verite.
+15,"gentille, catéchisme, lithographe, belliqueux, reposant",33,Verite.
+16,"fille, banquet, déjeunon, préméditer, patache",50,Verite.
+17,"paraphe, cachet, version, juré, jury",204,Verite.
+18,"marsoullier, fille, taire, fortuit, devenue",23,Verite.
+19,"imbécillité, exécrée, abêtie, frasque, souffrît",31,Verite.
+20,"règne, gaufrer, turbulent, dîné, méfait",10,Verite.
+21,"pommette, saillant, jovial, procureur, avancement",50,Verite.
+0,"abside, brodeur, orgue, chœur, chasuble",87,Le reve.
+1,"bourreau, colombe, mamelle, macule, persécuteur",13,Le reve.
+2,"ensuble, vélin, itinéraire, brodeuse, discernement",19,Le reve.
+3,"brodeur, prie, renoncement, orme, boutant",99,Le reve.
+4,"coquemar, invocation, récita, décontenancé, captif",5,Le reve.
+5,"angélique, marieron, défaillit, blesse, réfléchi",19,Le reve.
+6,"fief, cens, cest, tourmenteur, succomb",4,Le reve.
+7,"sacrement, perse, bahut, coffre, écheveau",24,Le reve.
+8,"chape, chasuble, désespéra, tutelle, mi",25,Le reve.
+9,"numéroter, remercie, extrait, émotionna, écrou",7,Le reve.
+10,"vitrail, revenir, supplie, espérai, courtine",27,Le reve.
+11,"nué, rinçage, broderie, aiguillée, cheville",16,Le reve.
+12,"estoit, thuriféraire, navette, dragon, encensoir",10,Le reve.
+13,"brodeur, vite, certificat, illisible, anniversaire",4,Le reve.
+14,"dyable, basin, rassure, estoit, usuel",6,Le reve.
+15,"brodeuse, anneau, mystique, archange, agneau",52,Le reve.
+16,"fleuriste, questionner, domui, huic, débarrassa",16,Le reve.
+17,"officieux, tutelle, tuteur, verbal, testamentaire",3,Le reve.
+18,"livret, nimbe, poignait, mortification, brodeus",16,Le reve.
+19,"revenez, réchaufferai, aiguillée, brocart, agile",5,Le reve.
+20,"verrier, mitre, broderie, coloré, piédestal",7,Le reve.
+21,"jusque, nombril, tors, laïc, pacte",2,Le reve.
+0,"galet, falaise, épi, plage, algue",33,La joie de vivre.
+1,"soude, potassium, composé, bromure, algue",16,La joie de vivre.
+2,"charpentier, devis, algue, subvention, préparateur",71,La joie de vivre.
+3,"abnégation, excitation, charnel, prévenance, déséquilibré",104,La joie de vivre.
+4,"diète, gratte, potion, gruau, flotte",8,La joie de vivre.
+5,"enterrerai, touche, tophus, morphine, rende",38,La joie de vivre.
+6,"épi, pêcheur, estacade, galet, cuche",6,La joie de vivre.
+7,"pupille, héliotrope, bougeoir, courbature, plage",84,La joie de vivre.
+8,"pupille, émancipation, musicien, préférer, véronique",67,La joie de vivre.
+9,"bougeoir, véroniqu, grugera, embarrass, reconstruirai",28,La joie de vivre.
+10,"défendez, thèse, juvénile, enrage, réparateur",3,La joie de vivre.
+11,"timbale, inventaire, trimestre, ayez, carpette",26,La joie de vivre.
+12,"chanteau, subvention, gober, consternée, ingénieur",13,La joie de vivre.
+13,"bromure, procuration, relevât, phénol, potassium",16,La joie de vivre.
+14,"étranglement, raidissement, boulette, angine, toux",40,La joie de vivre.
+15,"minouche, héliotrope, potager, barque, mitron",27,La joie de vivre.
+16,"plage, digital, ragoût, minouche, débarrasse",131,La joie de vivre.
+17,"curateur, subrogé, tutelle, tuteur, code",1,La joie de vivre.
+18,"contraction, tophus, symptôme, poumon, friction",90,La joie de vivre.
+19,"expulsion, dilatation, donnez, trompât, ulcération",19,La joie de vivre.
+20,"symphonie, orteil, arborescence, plaisantât, alcalin",9,La joie de vivre.
+21,"paravent, jugeât, fleuret, gambade, escrime",4,La joie de vivre.
+0,"bastidon, colline, araignée, chaux, barricade",21,1867 Les mysteres de Marseille.
+1,"négociant, conservateur, agioteur, libéral, tripot",41,1867 Les mysteres de Marseille.
+2,"créancier, associé, négociant, usurier, traite",85,1867 Les mysteres de Marseille.
+3,"fine, mésalliance, héritier, bastidon, évasion",40,1867 Les mysteres de Marseille.
+4,"armateur, portefaix, procuration, hypothèque, mascotte",144,1867 Les mysteres de Marseille.
+5,"consentirai, insurrection, aime, bastidon, rassurant",11,1867 Les mysteres de Marseille.
+6,"barricade, national, manifestation, baïonnette, délégué",106,1867 Les mysteres de Marseille.
+7,"accouchée, thym, serrurier, serrure, geôle",31,1867 Les mysteres de Marseille.
+8,"geôlier, fugitif, portefaix, cajolerie, enlèvement",80,1867 Les mysteres de Marseille.
+9,"usurier, portefaix, armateur, raillant, scélérat",65,1867 Les mysteres de Marseille.
+10,"pilori, acceptât, savez, tuer, manieur",21,1867 Les mysteres de Marseille.
+11,"usurier, renégat, misèr, percer, origine",9,1867 Les mysteres de Marseille.
+12,"portefaix, savonnerie, bastidon, perplexité, clovisse",29,1867 Les mysteres de Marseille.
+13,"laitière, enjoué, déposition, bedeau, rareté",11,1867 Les mysteres de Marseille.
+14,"bénin, cambrant, poteau, épidémie, éclaboussure",17,1867 Les mysteres de Marseille.
+15,"falaise, ayasse, emmèneron, gémissant, crinoline",16,1867 Les mysteres de Marseille.
+16,"bastidon, indien, capuchon, leste, mademoiselle",25,1867 Les mysteres de Marseille.
+17,"immeuble, hypothèque, emprunteur, faussaire, détournement",23,1867 Les mysteres de Marseille.
+18,"lorette, mèr, choléra, fine, humiliation",41,1867 Les mysteres de Marseille.
+19,"orphelinat, mademoiselle, usurier, rapt, aperçut",45,1867 Les mysteres de Marseille.
+20,"shako, périphrase, tigre, friponnerie, nuageux",10,1867 Les mysteres de Marseille.
+21,"multitude, portefaix, provocateur, port, démocrate",33,1867 Les mysteres de Marseille.
+0,"île, préau, gothique, encyclopédique, adouci",15,1866 Le voeu d une morte.
+1,"abstrait, contemplatif, digue, opposition, gaucherie",3,1866 Le voeu d une morte.
+2,"multiplication, encyclopédique, chiourme, manuscrit, procédure",9,1866 Le voeu d une morte.
+3,"pénétrait, abnégation, apaisement, moqueur, cordialité",74,1866 Le voeu d une morte.
+4,"criard, libéral, oubliai, subalterne, ête",10,1866 Le voeu d une morte.
+5,"accompagnât, désintéressé, sauf, lucidité, languissant",4,1866 Le voeu d une morte.
+6,"imperceptible, somptueux, barque, berge, île",2,1866 Le voeu d une morte.
+7,"méprit, attristèrent, aimant, faculté, mortuaire",12,1866 Le voeu d une morte.
+8,"orphelin, protecteur, lycée, paria, souffrit",36,1866 Le voeu d une morte.
+9,"gomme, frisure, coiffeur, poète, gage",3,1866 Le voeu d une morte.
+10,"bienheureux, bienfait, ôtât, imaginai, vœu",22,1866 Le voeu d une morte.
+11,"argot, lux, platitude, nostalgie, excentrique",8,1866 Le voeu d une morte.
+12,"sablé, dictionnaire, renommée, auteur, souffleter",13,1866 Le voeu d une morte.
+13,"pétulant, remontrance, imperceptible, moqueur, banal",2,1866 Le voeu d une morte.
+14,"nageur, embonpoint, apaisement, abnégation, contemplation",3,1866 Le voeu d une morte.
+15,"encyclopédique, parloir, grisette, équipée, tête",14,1866 Le voeu d une morte.
+16,"chiffonnée, mathématicien, protéger, déranger, bluet",17,1866 Le voeu d une morte.
+18,"outrageux, accompagnât, ennuyant, gaucherie, grincement",6,1866 Le voeu d une morte.
+19,"soupire, monomanie, remercie, isolant, écout",13,1866 Le voeu d une morte.
+20,"copier, servitude, humanitairerie, moraliste, érudit",7,1866 Le voeu d une morte.
+21,"statuette, rentrât, phrygien, intrus, gaucherie",8,1866 Le voeu d une morte.
+0,"hall, vitrine, ganterie, lainage, casier",146,Au Bonheur des dames.
+1,"gratuitement, métallique, négoc, sébile, blasphémer",16,Au Bonheur des dames.
+2,"nouveauté, caissier, appointement, prunair, concurrence",127,Au Bonheur des dames.
+3,"moutonnier, épousai, sensibilité, inspection, renvoi",43,Au Bonheur des dames.
+4,"baron, baisse, drapier, marron, bobinard",39,Au Bonheur des dames.
+5,"enfonce, canaillerie, languir, amuse, condisciple",11,Au Bonheur des dames.
+6,"reparut, barreur, couvreur, rassortiment, jaunisse",14,Au Bonheur des dames.
+7,"démolisseur, drapier, remua, frivolité, amuse",37,Au Bonheur des dames.
+8,"séduction, baron, ment, renvoi, distraire",63,Au Bonheur des dames.
+9,"assortiment, auxiliaire, bail, chantilly, diplôme",45,Au Bonheur des dames.
+10,"chanvre, nécessiteux, gazonné, grondeur, accompagnement",8,Au Bonheur des dames.
+11,"confection, lingerie, lainage, cravate, achat",165,Au Bonheur des dames.
+12,"guichet, bassine, sauce, cuisinier, second",74,Au Bonheur des dames.
+13,"confection, lingère, nouveauté, rotonde, haras",82,Au Bonheur des dames.
+14,"ampoule, poissarde, bronzé, moisie, cendré",5,Au Bonheur des dames.
+15,"sandwich, surah, pelucheux, arceau, crémeux",16,Au Bonheur des dames.
+16,"cocotte, lingère, troublée, confection, cahier",47,Au Bonheur des dames.
+17,"défalcation, débit, souche, déplié, spécimen",3,Au Bonheur des dames.
+18,"drapier, brancard, intelligible, bile, dégrafa",27,Au Bonheur des dames.
+19,"semonce, défendez, suffoquer, tressaillant, blêmit",22,Au Bonheur des dames.
+20,"cor, matelassé, caissier, ingénieux, poète",33,Au Bonheur des dames.
+21,"dîneur, corbillard, bile, transir, inactif",17,Au Bonheur des dames.
+0,"péniche, berge, flèche, perspective, coupole",136,L oeuvre.
+1,"bouquin, lyrisme, tourlaqu, thème, personnalité",49,L oeuvre.
+2,"amateur, géométrie, débilité, concours, attablé",54,L oeuvre.
+3,"abstinence, fringale, mimi, bise, sensuel",70,L oeuvre.
+4,"paysagiste, cambuse, échaudé, votât, sexagénaire",38,L oeuvre.
+5,"meure, chimère, enflure, nue, copie",34,L oeuvre.
+6,"châssis, bousculer, vagabondèrent, lavis, escarpée",10,L oeuvre.
+7,"paravent, chevalet, gelinotte, mimi, bise",48,L oeuvre.
+8,"insultant, emmêler, détachée, supplier, entrez",23,L oeuvre.
+9,"homard, bacchante, trac, mahoudeau, amateur",25,L oeuvre.
+10,"trouvai, jugeant, accabl, réchauffant, somnambulisme",11,L oeuvre.
+11,"bouillabaisse, rôtie, sucrerie, glouton, paravent",24,L oeuvre.
+12,"sculpteur, cimaise, guimauve, bâcler, admission",55,L oeuvre.
+13,"herboriste, gêneur, commençon, crûment, déjeuné",22,L oeuvre.
+14,"fichtre, pinceau, tronçon, paravent, trouvai",29,L oeuvre.
+15,"modelé, sureau, menthe, renflement, diffus",38,L oeuvre.
+16,"orthographe, tremblerai, laveur, ahurir, réveillé",31,L oeuvre.
+17,"jury, fâchât, alphabétique, présentable, couchon",6,L oeuvre.
+18,"étique, surprît, rattrapa, trapèze, tressaillit",27,L oeuvre.
+19,"éblouit, inconnue, monton, anatomie, contempla",6,L oeuvre.
+20,"ébauche, jury, palette, paysage, crétin",138,L oeuvre.
+21,"fagerolle, dégringoler, palette, clarinette, gramme",33,L oeuvre.
+0,"berge, artillerie, ouest, nord, sud",147,La debacle.
+1,"plébiscite, patrie, émeutier, ânerie, régent",46,La debacle.
+2,"farine, intendance, escouade, réquisition, dépendance",55,La debacle.
+3,"tâtant, corbeau, raisonnât, vétéran, soumise",34,La debacle.
+4,"caporal, maréchal, brouette, rustre, major",52,La debacle.
+5,"roussi, lacérer, ressuscitât, dissemblable, effacement",27,La debacle.
+6,"canon, batterie, obu, septième, division",531,La debacle.
+7,"septième, ambulance, dodo, major, bouger",63,La debacle.
+8,"témérité, malignité, orthographe, transportable, vexant",32,La debacle.
+9,"patriote, caporal, patrouille, salop, faut",39,La debacle.
+10,"consentit, drain, affaiblissement, clapotement, hurler",8,La debacle.
+11,"ambulance, étourderie, ceinturon, beurré, tournebroche",11,La debacle.
+12,"caporal, maréchal, cuisinier, poulet, tonnell",58,La debacle.
+13,"rixe, dorloter, turco, sucrier, ambulant",10,La debacle.
+14,"artère, infirmier, hémorragie, gangrène, lunette",48,La debacle.
+15,"sensitif, bourg, treille, saignante, distant",6,La debacle.
+16,"ambulance, silvine, teinturerie, rassurant, commandant",32,La debacle.
+17,"uhlan, brouette, vallonnement, interrogeât, roulât",4,La debacle.
+18,"bégayée, major, baquet, pansement, charnier",38,La debacle.
+19,"tutoiement, silvine, canonnaient, pansa, imbiber",21,La debacle.
+20,"agression, fricoteur, avisé, betterave, irrité",2,La debacle.
+21,"chassepot, brigade, escouade, bandoulière, major",48,La debacle.
+0,"boulon, établi, rivet, maille, octroi",144,L assommoir.
+1,"lorgnon, foutrai, monopole, divorce, roussin",3,L assommoir.
+2,"chapelier, zingueur, coupeau, blanchisseur, patronne",257,L assommoir.
+3,"blanchisseur, forge, raclée, vitriol, taquinerie",16,L assommoir.
+4,"atout, interne, principe, zingueur, blanchisseur",27,L assommoir.
+5,"anisette, gênai, retape, interne, bobo",15,L assommoir.
+6,"cosaque, quille, forgeaient, déménageur, émotionnant",9,L assommoir.
+7,"dodo, blanchisseur, bouillonné, zingueur, deux",70,L assommoir.
+8,"chapelier, gourgandine, rechute, embêtant, croque",41,L assommoir.
+9,"blanchissage, croupion, dentellière, crevaison, blanchisseur",46,L assommoir.
+10,"fourbi, gouape, flemme, engourdie, chalet",3,L assommoir.
+11,"blanchisseur, coupeau, blanquette, patronne, zingueur",184,L assommoir.
+12,"zingueur, chapelier, alambic, chahut, blanchisseur",73,L assommoir.
+13,"louchon, fleuriste, lardon, lascar, restrictif",22,L assommoir.
+14,"interne, chatouille, mufe, battoir, pan",58,L assommoir.
+15,"nichon, morveux, gourmand, chanson, plâtreux",14,L assommoir.
+16,"maquereau, zingueur, louchon, lavoir, blanchisseur",49,L assommoir.
+17,"chouette, collection, tape, paraphe, version",1,L assommoir.
+18,"battoir, piétina, biche, amidon, forgeron",46,L assommoir.
+19,"irion, invalide, martèlement, trogne, crotté",14,L assommoir.
+20,"aristo, extérieur, traqueur, avenant, balayure",14,L assommoir.
+21,"gibelotte, zingueur, trogne, saillant, derrière",26,L assommoir.
+0,"impérial, moirée, tribune, monumental, vive",77,Son Excellence Eugene Rougon.
+1,"rapporteur, parlement, répression, opposant, orateur",41,Son Excellence Eugene Rougon.
+2,"amendement, démocratique, bock, médaille, chevalier",47,Son Excellence Eugene Rougon.
+3,"respectât, flatta, servage, lutteur, diminué",21,Son Excellence Eugene Rougon.
+4,"excellence, chevalier, concession, démission, moniteur",201,Son Excellence Eugene Rougon.
+5,"pourboire, clique, sifflant, cancan, terreux",2,Son Excellence Eugene Rougon.
+6,"bonapartiste, cerf, brigadier, piqueur, meute",16,Son Excellence Eugene Rougon.
+7,"boudoir, cartonnier, paravent, clorinde, dévernie",36,Son Excellence Eugene Rougon.
+8,"méfier, parrain, intrigue, vieillesse, bavolet",38,Son Excellence Eugene Rougon.
+9,"cravache, présentation, portefeuille, deum, tourniquet",40,Son Excellence Eugene Rougon.
+10,"prérogative, sénat, démagogie, anarchique, sir",2,Son Excellence Eugene Rougon.
+11,"tourniquet, kiosque, domiciliaire, excentricité, portefeuille",34,Son Excellence Eugene Rougon.
+12,"proviseur, tribune, discours, orateur, chevalier",150,Son Excellence Eugene Rougon.
+13,"brigadier, sénateur, cristallerie, clorind, louage",44,Son Excellence Eugene Rougon.
+14,"cravache, orateur, taureau, carillon, cinglement",17,Son Excellence Eugene Rougon.
+15,"chasseresse, guindé, valaque, onguent, légation",11,Son Excellence Eugene Rougon.
+16,"italien, chevalier, pari, américain, amazone",41,Son Excellence Eugene Rougon.
+17,"aubergiste, feindre, sanction, appréciable, gourmé",11,Son Excellence Eugene Rougon.
+18,"guitare, cravache, réfugié, rondelle, méprisante",24,Son Excellence Eugene Rougon.
+19,"rancunier, riposte, fatiguait, excellence, bredouillement",19,Son Excellence Eugene Rougon.
+20,"conserve, cerise, modelé, hanneton, tarlatane",10,Son Excellence Eugene Rougon.
+21,"paragraphe, collet, orateur, tablette, phraséologie",28,Son Excellence Eugene Rougon.
+0,"parterre, œillet, buisson, rosier, futaie",217,La faute de l abbe Mouret.
+1,"théologique, imposition, cousinage, croûton, cassette",17,La faute de l abbe Mouret.
+2,"falbala, purificatoire, ennuyant, calice, chasuble",16,La faute de l abbe Mouret.
+3,"tonsure, virilité, calice, poussin, hostie",102,La faute de l abbe Mouret.
+4,"calotin, païen, chardon, vigne, sacristie",48,La faute de l abbe Mouret.
+5,"cerise, cerisier, mangeron, aimai, désire",84,La faute de l abbe Mouret.
+6,"lézard, sauterelle, dirigeant, convulsion, cercueil",1,La faute de l abbe Mouret.
+7,"ronce, fenouil, baume, fauvette, sacristie",42,La faute de l abbe Mouret.
+8,"joug, desservant, décourager, diaconat, ingénié",10,La faute de l abbe Mouret.
+9,"prédécesseur, gueux, aubergine, bêlement, il",26,La faute de l abbe Mouret.
+10,"sceau, impureté, empreinte, eunuque, venin",28,La faute de l abbe Mouret.
+11,"coutume, allumette, prunier, chandelier, tripoli",14,La faute de l abbe Mouret.
+12,"burette, index, vendange, appelât, ego",12,La faute de l abbe Mouret.
+13,"racontât, pêcher, chasuble, airain, noire",7,La faute de l abbe Mouret.
+14,"patène, larron, silex, cache, spiritu",43,La faute de l abbe Mouret.
+15,"coq, quenouille, châtain, lis, courbe",47,La faute de l abbe Mouret.
+16,"coquelicot, inconnue, taureau, fatiguât, papillote",24,La faute de l abbe Mouret.
+17,"antéchrist, catéchisme, accouche, calotin, accouplement",1,La faute de l abbe Mouret.
+18,"succomb, manuterge, burette, gosier, ver",42,La faute de l abbe Mouret.
+19,"mésange, albine, miséricorde, écout, étranglerai",16,La faute de l abbe Mouret.
+20,"chapon, puce, repeignit, pinceau, claire",2,La faute de l abbe Mouret.
+21,"prune, séminaire, déshabill, terram, rebuta",22,La faute de l abbe Mouret.
+0,"creuset, halle, laminoir, rail, fusion",136,Travail.
+1,"association, salariat, évolution, harmonie, électricité",447,Travail.
+2,"minerai, outillage, coopératif, salariat, fabrication",116,Travail.
+3,"indissoluble, brûlure, renoncement, harmonie, pervers",115,Travail.
+4,"puddleur, besace, fermage, bail, câble",58,Travail.
+5,"résignera, clé, josine, nanet, bonjour",55,Travail.
+6,"empoisonneur, associer, coopératif, détaillant, ruée",19,Travail.
+7,"suppléant, laboratoire, veillant, ranima, dégrafa",34,Travail.
+8,"cordonnerie, coté, combette, fille, ascendant",58,Travail.
+9,"tranchet, aciérie, automobile, coulage, exploiteur",53,Travail.
+10,"électricité, sœurette, atome, reprend, primordial",25,Travail.
+11,"boulangerie, pétrin, équipe, épicerie, crèche",25,Travail.
+12,"argileux, orgeat, socialisation, donne, busqué",39,Travail.
+13,"courre, exagèr, fille, accueillant, prévoyant",16,Travail.
+14,"harde, garce, empoisonneur, paume, bouledogue",19,Travail.
+15,"sœurette, insignifiance, gazouillis, escarpé, frisé",53,Travail.
+16,"reparut, écharde, radoucir, inapaisé, protesta",17,Travail.
+17,"dommage, similaire, bestialité, restitution, audience",15,Travail.
+18,"clé, pansement, décourager, héroïquement, traîna",20,Travail.
+19,"mental, rendrai, affaiblissement, garce, faculté",17,Travail.
+20,"forge, sulfuré, phosphaté, laminoir, répétât",14,Travail.
+21,"salarié, puddleur, cotte, ringard, coloration",26,Travail.
+0,"bosquet, âcre, fortification, senteur, talus",36,1865 La confession de Claude.
+1,"amphithéâtre, éreintée, brut, égout, âpreté",2,1865 La confession de Claude.
+2,"endolori, déménagement, habileté, salaire, broderie",2,1865 La confession de Claude.
+3,"grabat, empreindre, souillure, avilie, languissamment",14,1865 La confession de Claude.
+4,"langage, volubilité, inventeur, échelon, lucidité",2,1865 La confession de Claude.
+5,"outrageant, soi, fâche, épargner, loyal",29,1865 La confession de Claude.
+6,"carnier, partion, cornue, maturité, viril",1,1865 La confession de Claude.
+7,"indécis, lavandière, étoilé, tremblai, agrandi",10,1865 La confession de Claude.
+8,"inconséquence, acquisition, affaibli, prévoyance, impur",3,1865 La confession de Claude.
+9,"parfumerie, aromatique, faune, mendier, fard",7,1865 La confession de Claude.
+10,"songe, mansarde, rédemption, virginité, embrassement",166,1865 La confession de Claude.
+11,"déchirée, serge, chenil, harde, contrainte",5,1865 La confession de Claude.
+12,"renversée, vicier, évanoui, ennuyé, champagne",1,1865 La confession de Claude.
+13,"papillote, flétrie, déplair, voûter, fard",2,1865 La confession de Claude.
+14,"insensibilité, ridée, foudroyée, pantelant, sabbat",6,1865 La confession de Claude.
+15,"échevelé, mat, flétri, mansarde, languissant",31,1865 La confession de Claude.
+16,"pâquerette, prêtresse, effrayé, croquant, roidie",5,1865 La confession de Claude.
+18,"pâquerette, touss, toux, quiétude, cynique",6,1865 La confession de Claude.
+19,"pâquerette, échevelée, fascinant, gradation, raillant",5,1865 La confession de Claude.
+21,"épanchement, raisonneur, acuité, regardai, sensé",2,1865 La confession de Claude.
+0,"tombeau, dôme, temple, villa, basilique",277,Rome.
+1,"catholicisme, papauté, christianisme, nation, romain",415,Rome.
+2,"patrimoine, villa, financier, caudataire, nonce",35,Rome.
+3,"boccanera, virginité, sarcophage, indolent, union",84,Rome.
+4,"eminence, audience, congrégation, jésuite, figue",220,Rome.
+5,"eussion, scrupul, han, ultramontain, dario",13,Rome.
+6,"béatification, détachement, suisse, accessible, canonique",7,Rome.
+7,"sieste, clé, encyclique, ensommeillé, figue",55,Rome.
+8,"perlier, annulation, vicomte, villa, madone",65,Rome.
+9,"contessina, jubilé, offrande, figue, anévrisme",19,Rome.
+10,"eminence, fiançaille, superstitieux, souille, impératif",37,Rome.
+11,"figue, valise, noircie, transtévère, sobriété",10,Rome.
+12,"figue, ambassade, officiant, perruche, catacombe",42,Rome.
+13,"compatriote, napolitain, retroussait, épouserai, excellente",16,Rome.
+14,"figue, aimez, inaliénable, bronze, annulaire",25,Rome.
+15,"candide, symbole, déesse, insondable, jolie",76,Rome.
+16,"distraira, brisée, tâta, indisposé, entrant",19,Rome.
+17,"annulation, demanderesse, figue, congrégation, virginité",41,Rome.
+18,"figue, sût, psalmodie, magnésie, pourrissant",17,Rome.
+19,"antéchrist, eminence, condamnable, jésuite, pourrai",29,Rome.
+20,"oranger, ingénuité, bossué, villa, décoration",23,Rome.
+21,"figuier, romain, ecclésiastique, caudataire, pontifical",64,Rome.
+0,"chou, carotte, volaille, tombereau, navet",163,Le ventre de Paris.
+1,"pleurnicherie, humanitaire, exil, justicier, casemate",13,Le ventre de Paris.
+2,"quenu, charcuterie, charcutier, lard, boudin",85,Le ventre de Paris.
+3,"querella, revoyiez, chatouillante, sceptre, couenn",16,Le ventre de Paris.
+4,"quenu, gavard, pistolet, croquis, poissonnière",32,Le ventre de Paris.
+5,"orge, charcutier, joliment, dindon, hachoir",9,Le ventre de Paris.
+6,"forçat, écueil, guidon, barque, falot",11,Le ventre de Paris.
+7,"resserre, quenu, volaille, cahier, affilié",40,Le ventre de Paris.
+8,"quenu, charcuterie, poissonnière, éventaire, camélia",42,Le ventre de Paris.
+9,"raucourt, maniotte, pigeon, charcutier, teinture",41,Le ventre de Paris.
+10,"mourrai, feuillet, souris, poissonnière, principe",1,Le ventre de Paris.
+11,"poissonnière, mirabelle, charcutier, étuve, charcuterie",72,Le ventre de Paris.
+12,"punch, mazagran, rouleau, boudin, charcuterie",50,Le ventre de Paris.
+13,"charcutier, barbue, volaille, mollet, faisan",28,Le ventre de Paris.
+14,"tranche, piquer, hutte, turbot, guimpe",20,Le ventre de Paris.
+15,"alphabet, guigne, débraillé, groseille, effronté",27,Le ventre de Paris.
+16,"saucisson, carotte, écrevisse, charcuterie, maraîcher",32,Le ventre de Paris.
+17,"déportation, facteur, format, pirate, écourter",9,Le ventre de Paris.
+18,"pigeon, anguille, dépassât, recule, incommodé",18,Le ventre de Paris.
+19,"sole, battrai, dénonciation, poissonnière, suffoquer",7,Le ventre de Paris.
+20,"liquoreux, grenadier, andouille, carpe, charcuterie",29,Le ventre de Paris.
+21,"poissonnerie, dictature, clignement, boutiquier, charcuterie",30,Le ventre de Paris.
+0,"aire, poutre, pelisse, bohémien, vallée",110,La fortune des Rougon.
+1,"clergé, librairie, républicain, réaction, royaliste",30,La fortune des Rougon.
+2,"enclos, rentier, châtaigne, contrebandier, commandant",124,La fortune des Rougon.
+3,"tombal, borgne, ineffable, mante, pistolet",56,La fortune des Rougon.
+4,"bonnetier, mairie, mouchard, véhément, amande",51,La fortune des Rougon.
+5,"réchaufferai, philanthropie, terrifier, couron, batte",26,La fortune des Rougon.
+6,"contingent, national, commandant, bataillon, mairie",103,La fortune des Rougon.
+7,"chaperon, fripier, mûrier, margelle, tombal",34,La fortune des Rougon.
+8,"inconduite, supériorité, louveteau, commère, chenapan",56,La fortune des Rougon.
+9,"mairie, gueux, réunir, recule, saignerait",34,La fortune des Rougon.
+10,"comploter, obéir, probabilité, supplie, panique",2,La fortune des Rougon.
+11,"monomanie, ponctualité, phrygien, île, doublure",7,La fortune des Rougon.
+12,"amande, receveur, pelisse, commandant, braconnier",33,La fortune des Rougon.
+13,"cachottier, diantre, intriguer, moyeu, mangeus",4,La fortune des Rougon.
+14,"patois, borgne, orbite, esplanade, délicatess",22,La fortune des Rougon.
+15,"fouine, braconnier, physionomie, pelisse, cigale",36,La fortune des Rougon.
+16,"apportât, cellier, élu, suscription, portée",14,La fortune des Rougon.
+17,"digression, panégyrique, couvrit, mémorable, dérobée",7,La fortune des Rougon.
+18,"chaperon, carabine, catalepsie, galvanisaient, fluidité",24,La fortune des Rougon.
+19,"commandant, terrassier, façon, gueux, faite",3,La fortune des Rougon.
+20,"châtaigne, gueux, crain, géologue, malfamé",18,La fortune des Rougon.
+21,"invective, caractéristique, sournoiserie, épisode, exploit",35,La fortune des Rougon.
+0,"teinte, ronce, bleuâtre, peuplier, senteur",43,1868 Madeleine Ferat.
+1,"laboratoire, toxicologie, traitât, chimiste, manuscrit",6,1868 Madeleine Ferat.
+2,"pensionnat, paria, giflerai, limant, cosmétique",17,1868 Madeleine Ferat.
+3,"insu, fanatique, cuisant, union, fatalité",218,1868 Madeleine Ferat.
+4,"caillot, laboratoire, toxique, altération, terre",10,1868 Madeleine Ferat.
+5,"suicide, sai, chirurgien, impur, rêv",84,1868 Madeleine Ferat.
+6,"détremper, matelot, galet, ondée, évanoui",2,1868 Madeleine Ferat.
+7,"laboratoire, vérole, poussin, veilleuse, pigeonnier",51,1868 Madeleine Ferat.
+8,"bible, protestant, fanatique, tuteur, adultère",62,1868 Madeleine Ferat.
+9,"charron, incompréhensible, échelon, pincette, millionnaire",3,1868 Madeleine Ferat.
+10,"goûte, épanchement, repentir, fatalité, crispation",19,1868 Madeleine Ferat.
+11,"façon, fraise, mielleux, laitage, pensionnat",8,1868 Madeleine Ferat.
+12,"bible, psalmodia, contraria, chenet, louage",10,1868 Madeleine Ferat.
+13,"surnom, crevasser, particule, précepte, sur",8,1868 Madeleine Ferat.
+14,"tesson, fétide, nacrer, impur, cabalistique",19,1868 Madeleine Ferat.
+15,"pacha, physionomie, épiderme, barreau, sérail",39,1868 Madeleine Ferat.
+16,"bosquet, galette, altéré, hâton, cordial",30,1868 Madeleine Ferat.
+17,"testament, toxique, légataire, scellé, adoptif",2,1868 Madeleine Ferat.
+18,"protestant, fixité, hébétement, fanatique, répond",37,1868 Madeleine Ferat.
+19,"altération, hasarder, blessa, impraticable, partion",9,1868 Madeleine Ferat.
+20,"cornue, conservation, subit, boudoir, empoisonner",2,1868 Madeleine Ferat.
+21,"gourmet, raillerie, surdité, privé, égratignait",9,1868 Madeleine Ferat.
+0,"piste, pesage, lustre, orchestre, mât",93,Nana.
+1,"abandonné, ferment, algarade, moeurs, moraliste",6,Nana.
+2,"bookmaker, pesage, landau, couturier, toquade",67,Nana.
+3,"exclusif, posture, damnation, spasme, plâtreux",29,Nana.
+4,"coquetier, moulinet, altesse, journaliste, ouvreuse",42,Nana.
+5,"jure, bébé, toquade, mufe, trompai",35,Nana.
+6,"jockey, starter, parieur, pouliche, rogomm",15,Nana.
+7,"merde, lançage, habilleur, avertisseur, zizi",57,Nana.
+8,"fidélité, toquade, cocu, béguin, choeur",59,Nana.
+9,"chic, cocotte, cote, enveloppe, cocu",30,Nana.
+10,"appartien, oraison, ignorai, virginité, songe",2,Nana.
+11,"praline, sonnerie, chic, bézigue, créancier",99,Nana.
+12,"altesse, journaliste, champagne, figurant, réplique",182,Nana.
+13,"chic, souper, anglais, entendre, cocotte",81,Nana.
+14,"pouliche, chambellan, appauvri, purulence, pignouf",22,Nana.
+15,"renflement, valse, couplet, balancement, bravo",24,Nana.
+16,"peignoir, moricaud, vérole, lâcheur, éther",79,Nana.
+17,"accessoire, pressé, carillon, brac, bric",2,Nana.
+18,"psyché, écrin, zizi, miette, mufe",38,Nana.
+19,"vipère, déposât, blaguer, raseur, noeud",8,Nana.
+20,"orfèvre, mufe, orné, achetât, guindé",15,Nana.
+21,"choeur, altesse, cocu, montreur, champagne",24,Nana.
+0,"orme, manutention, étincelle, brume, bleuâtre",93,Une page d amour.
+2,"sauce, épaulette, collet, almée, crevèrent",12,Une page d amour.
+3,"bouillotte, empourprer, anéantissement, engourdissement, inoccupé",88,Une page d amour.
+4,"demain, merlan, pianiste, attendion, badine",18,Une page d amour.
+5,"mouillette, potion, imaginer, ratissa, anchois",22,Une page d amour.
+7,"guéridon, phtisie, cretonn, respiration, veilleus",64,Une page d amour.
+8,"deberle, râteau, scalpel, chloroanémique, raffineur",22,Une page d amour.
+9,"chatouilleur, cuillère, congédiant, badine, trotte",16,Une page d amour.
+10,"épouserai, soigne, filant, firmament, essoufflement",11,Une page d amour.
+11,"quadrille, peignoir, cachemire, shako, tulle",46,Une page d amour.
+12,"réalisme, camelote, persil, râteau, guéridon",26,Une page d amour.
+13,"burnous, répétition, monologue, mercredi, embrassiez",46,Une page d amour.
+14,"miaulement, bousculer, dépeuplé, crie, œillade",19,Une page d amour.
+15,"châtain, inflexion, ermitage, nimbe, raidissait",33,Une page d amour.
+16,"deberle, confiture, punch, képi, caveau",116,Une page d amour.
+17,"aïeul, aliéné, névrose, ménagement, phtisie",1,Une page d amour.
+18,"convulsion, potion, veston, sauvez, toux",69,Une page d amour.
+19,"épouser, sangsue, savai, recouche, paisiblement",28,Une page d amour.
+20,"jardinière, ébauche, jury, original, palette",1,Une page d amour.
+21,"shako, gigot, enjolivait, baguette, vésicatoire",6,Une page d amour.
+0,"guillotine, bicyclette, prunier, alentours, prostitution",106,Paris.
+1,"évangile, anarchie, catholicisme, anarchiste, démocratie",203,Paris.
+2,"moteur, liste, baron, rédacteur, lycée",59,Paris.
+3,"loyal, renoncement, prêtrise, sépulcre, lunch",101,Paris.
+4,"baron, admission, mondésir, anarchiste, normalien",130,Paris.
+5,"négation, val, esthétique, épousera, mourrai",58,Paris.
+6,"complot, souvenue, tourbe, hagarde, hippodrome",16,Paris.
+7,"bicyclette, manipulation, substruction, basilique, béton",30,Paris.
+8,"athéisme, oisiveté, droiture, aigri, union",51,Paris.
+9,"bicyclette, radis, imaginer, prévaricateur, internationalisme",39,Paris.
+10,"prêtr, battue, essence, apôtre, pleure",37,Paris.
+11,"essayage, raccommodag, attentatoire, défiez, magnanime",20,Paris.
+12,"baron, critique, polyeucte, transsaharien, carrossier",72,Paris.
+13,"espagnol, initiative, éclairci, paver, breuvage",35,Paris.
+14,"trottin, répugnant, galopant, hérétique, prostitution",15,Paris.
+15,"contrefaite, bandeau, physionomie, épai, achalandé",38,Paris.
+16,"chimie, approch, généralité, brioche, engelure",29,Paris.
+17,"interpellation, explosif, arrestation, dynamite, expert",70,Paris.
+18,"robinet, coi, tutoya, gagnât, chang",11,Paris.
+19,"foutue, pédanterie, aille, souffreteux, ferai",28,Paris.
+20,"graveur, ferai, burin, candeur, critique",29,Paris.
+21,"tribune, interpellation, finess, éloquence, archevêché",60,Paris.
+0,"évier, poignard, flanque, chœur, domesticité",23,Pot-bouille.
+1,"firent, échevin, circonscription, adversair, étoilée",10,Pot-bouille.
+2,"loyer, soierie, contrat, dot, bimbelotier",84,Pot-bouille.
+3,"cor, chasseur, romance, gâta, jésuitique",23,Pot-bouille.
+4,"conférence, expédient, bock, calicot, conseilla",44,Pot-bouille.
+5,"lama, chantilly, montre, atrophié, contemple",28,Pot-bouille.
+6,"dîneur, vanillé, frondeur, intolérance, démagogue",6,Pot-bouille.
+7,"cuvette, gâche, bonne, caleçon, douteux",79,Pot-bouille.
+8,"désunion, déshonnête, insuccès, adultère, réconciliation",79,Pot-bouille.
+9,"dot, imprimée, agrément, tact, tromper",86,Pot-bouille.
+10,"assurance, ignorai, virginité, songe, déchirement",2,Pot-bouille.
+11,"bonne, peignoir, vinaigre, pruneau, mauve",70,Pot-bouille.
+12,"ténor, piqueur, déboire, assurance, paroissien",63,Pot-bouille.
+13,"campardon, ténor, cocotte, caverneux, immoralité",154,Pot-bouille.
+14,"contraction, élasticité, francs, fesse, poissarde",17,Pot-bouille.
+15,"attouchement, perler, asthmatique, nonn, empâtait",13,Pot-bouille.
+16,"pruneau, ténor, facture, peignoir, entorse",77,Pot-bouille.
+17,"clown, judicieux, assurance, appréciation, comptabilité",4,Pot-bouille.
+18,"colique, répulsion, fourré, chameau, domptait",52,Pot-bouille.
+19,"salope, fourre, pleurnicherie, souffrirai, embarrass",26,Pot-bouille.
+20,"belliqueux, garanti, gastronomique, relevât, immangeable",13,Pot-bouille.
+21,"boutonnière, suppléant, effarait, dessoûlé, fâchât",13,Pot-bouille.
+0,"vitrine, vitrage, île, âcre, noyé",24,1867 Therese Raquin.
+1,"artistique, agrandissement, névrose, lucidité, distinction",1,1867 Therese Raquin.
+2,"crémerie, mercerie, journalier, toxicologie, vulgarisation",16,1867 Therese Raquin.
+3,"organisme, paralytique, embrassement, déchirant, assassinat",121,1867 Therese Raquin.
+4,"roulier, coudoyaient, cassant, vexer, pie",3,1867 Therese Raquin.
+5,"plaintif, souvien, assommât, panégyrique, frissonnèrent",31,1867 Therese Raquin.
+7,"sinistre, mercier, morsure, grès, insomnie",46,1867 Therese Raquin.
+8,"mercier, ennuyant, consentement, impotente, oisiveté",42,1867 Therese Raquin.
+9,"engraissa, tâchon, crémerie, fatuité, fatigant",6,1867 Therese Raquin.
+10,"monologue, écœurant, abruti, argile, affaissement",3,1867 Therese Raquin.
+11,"domino, mercier, mercerie, roide, gargotier",20,1867 Therese Raquin.
+12,"monosyllabe, canotier, banal, témérité, congédiât",19,1867 Therese Raquin.
+13,"domino, épicé, radotage, enchanta, complimenta",6,1867 Therese Raquin.
+14,"morsure, cicatrice, jaunâtre, convulsionnée, allumette",36,1867 Therese Raquin.
+15,"orbite, ang, bégayer, coiffé, guerrier",10,1867 Therese Raquin.
+16,"mercier, domino, impotente, pie, paralytique",23,1867 Therese Raquin.
+17,"verbal, putréfaction, véracité, roidi, inconsolable",2,1867 Therese Raquin.
+18,"canotier, barque, commissariat, impotente, canot",37,1867 Therese Raquin.
+19,"troubleront, félin, sieste, rondement, ondulation",3,1867 Therese Raquin.
+20,"pinceau, esquisse, maigrir, auteur, embarrassé",10,1867 Therese Raquin.
+21,"loustic, incendié, disparate, pendu, assassiné",7,1867 Therese Raquin.
+0,"semoir, semeur, chaume, faneur, trèfle",85,La terre.
+1,"impôt, laboureur, culture, céréale, routine",63,La terre.
+2,"arpent, borderie, lot, hectare, labour",221,La terre.
+3,"berger, étable, déroulement, iniquitatibu, poignait",39,La terre.
+4,"chieur, bréchet, couillon, clerc, subvention",55,La terre.
+5,"salop, répréhensible, fout, menaçante, gouine",35,La terre.
+6,"tambour, berger, gerbe, fléau, jar",57,La terre.
+7,"trappe, fenil, magot, veillée, déluge",80,La terre.
+8,"susceptibilité, testament, despotique, malhonnête, tuteur",58,La terre.
+9,"pistole, setier, gage, salop, comice",67,La terre.
+10,"avanie, inceste, bestial, paria, consentement",2,La terre.
+11,"borderie, égoutture, tilleul, fumer, carriole",51,La terre.
+12,"tourte, mercerie, fermier, braconnier, omelette",74,La terre.
+13,"pistole, contrariant, agriculture, culotté, gradué",24,La terre.
+14,"veau, bouse, croupe, culbuta, fesse",58,La terre.
+15,"cossu, dogue, déshabill, amen, hydropisie",18,La terre.
+16,"veau, étable, accouchement, trousse, finît",39,La terre.
+17,"réclamation, taquinât, pou, incolore, magot",11,La terre.
+18,"cidre, défaillant, cotte, étable, tambour",40,La terre.
+19,"bridé, inintelligence, serine, sauver, quenotte",9,La terre.
+20,"baudrier, catin, fichue, surnageait, décuple",13,La terre.
+21,"âne, lièvre, champêtre, fermier, cosaque",60,La terre.
+0,"aire, pinède, olivier, amandier, pastel",53,Le docteur Pascal.
+1,"hérédité, innéité, labeur, médication, guérisseur",81,Le docteur Pascal.
+2,"grasse, avarice, déchu, bâtard, substance",50,Le docteur Pascal.
+3,"platane, anéantissement, nonne, piqûre, guet",124,Le docteur Pascal.
+4,"sclérose, provençal, bénin, exaspère, taciturne",29,Le docteur Pascal.
+5,"pense, soignerai, répond, mélange, inestimable",74,Le docteur Pascal.
+6,"coulure, panache, boisé, crête, pin",2,Le docteur Pascal.
+7,"mistral, pilon, manuscrit, généalogique, fragment",60,Le docteur Pascal.
+8,"revendeur, déférent, vieillesse, régime, candide",43,Le docteur Pascal.
+9,"reçu, procuration, sors, tranquillisait, souleiade",19,Le docteur Pascal.
+10,"évolution, piqûre, prescription, renoncement, aire",18,Le docteur Pascal.
+11,"vrille, garçonnière, bracelet, sujette, protégeaient",18,Le docteur Pascal.
+12,"piqûre, fureteur, ataxie, plantation, fâcherie",9,Le docteur Pascal.
+13,"irrigation, licou, bourrelier, affaiblissement, hystérique",11,Le docteur Pascal.
+14,"macquart, dégénérescence, relâchement, sénilité, rosée",23,Le docteur Pascal.
+15,"pastel, sunamite, élancé, lilial, trisaïeul",51,Le docteur Pascal.
+16,"pupitre, ataxie, généalogique, caboche, pastel",34,Le docteur Pascal.
+17,"sclérose, hérédité, paperasse, larvé, dissection",15,Le docteur Pascal.
+18,"macquart, gramme, dose, injection, seringue",34,Le docteur Pascal.
+19,"soignerai, mourir, veiller, élixir, brutalisait",22,Le docteur Pascal.
+20,"pastel, copie, prévoyant, minutie, gravure",8,Le docteur Pascal.
+21,"macquart, six, poisser, dérangeât, fourrure",8,Le docteur Pascal.
+0,"sel, marécageux, hectare, infanticide, pierreux",81,Fecondite.
+1,"fécondité, subsistance, domaine, hectare, semence",195,Fecondite.
+2,"moulin, enclave, lande, meunier, dot",132,Fecondite.
+3,"constance, stérile, fraude, stérilité, fécond",131,Fecondite.
+4,"charron, apprenti, constance, enclave, marin",62,Fecondite.
+5,"palpitant, allaitement, aventureux, pense, pulmonaire",47,Fecondite.
+6,"bicycliste, boa, affolant, criminelle, mortalité",13,Fecondite.
+7,"cabriole, refroidir, cassure, elle, araignée",58,Fecondite.
+8,"pessimisme, constance, rusé, stérilité, natalité",112,Fecondite.
+9,"biberon, nourrisson, nourrisseuse, moulin, chantage",76,Fecondite.
+10,"confident, suffoquée, supplie, mayonnaise, par",35,Fecondite.
+11,"écrevisse, meneur, break, réfectoire, bicyclette",72,Fecondite.
+12,"fiancé, jumeau, étain, filon, batteuse",59,Fecondite.
+13,"constance, allaitement, vaniteux, location, infirmier",63,Fecondite.
+14,"évocation, hémorragie, puant, soudaineté, apercevoir",31,Fecondite.
+15,"fécondité, mousquetaire, éleveuse, fécond, renouveau",88,Fecondite.
+16,"meneur, poupon, natalité, accouchement, accoucher",96,Fecondite.
+17,"lacune, hameau, diagnostic, simuler, kyste",29,Fecondite.
+18,"courroie, chaînette, éther, constata, apercevoir",46,Fecondite.
+19,"petiot, kyste, glande, acquiescement, sécrétion",71,Fecondite.
+20,"clinique, reliure, relique, pitchpin, commensal",25,Fecondite.
+21,"commensal, busqué, turc, frisant, pâlot",16,Fecondite.
+0,"serre, taillis, massif, nymphe, bassin",139,La curee.
+1,"transformation, spéculation, outrance, entrepositaire, engraissa",11,La curee.
+2,"indemnité, expropriation, immeuble, bail, spéculation",103,La curee.
+3,"inceste, serre, joufflu, valse, baignoire",37,La curee.
+4,"complimenter, duc, contrat, compère, causeur",31,La curee.
+5,"aie, ondulation, épousai, impertinence, créole",21,La curee.
+6,"rémouleur, supposer, capiton, bai, amiable",3,La curee.
+7,"volière, frison, serre, maint, rhododendron",23,La curee.
+8,"protêt, collégien, tourtereau, vicieux, charnel",42,La curee.
+9,"cession, encrier, expropriation, prêteur, milliard",40,La curee.
+10,"assommant, prévention, cynisme, ravissant, boudeur",3,La curee.
+11,"entresol, bâillant, magicienne, congédia, nymphe",43,La curee.
+12,"estrade, nymphe, champagne, entrepreneur, sénateur",50,La curee.
+13,"nymphe, bracelet, dressoir, carême, poème",35,La curee.
+14,"topaze, coutelas, duc, agenouillé, turquoise",12,La curee.
+15,"loupe, natte, langueur, tertre, maillot",40,La curee.
+16,"fumoir, magicienne, duc, collation, bossu",36,La curee.
+17,"embûche, registre, compère, coquinerie, mesquin",4,La curee.
+18,"serre, capuchon, taquinerie, détraqua, irisé",16,La curee.
+19,"collégien, méditatif, nougat, tête, attablée",10,La curee.
+20,"butte, incestueux, parussent, cartable, fureté",25,La curee.
+21,"eunuque, éléphant, burnous, belvédère, butte",12,La curee.
+0,"tunnel, vitesse, cylindre, tranchée, tringle",78,La bete humaine.
+1,"piste, graissage, outrait, perspicacité, têtue",12,La bete humaine.
+2,"mangeon, réglage, legs, frise, magistrature",40,La bete humaine.
+3,"guéri, pervenche, passif, vitesse, flore",117,La bete humaine.
+4,"télégramme, interrogatoire, prévenu, affirmatif, reconnaîtriez",40,La bete humaine.
+5,"aime, fasse, moi, suicide, torpeur",53,La bete humaine.
+6,"conducteur, tranchée, fourgon, tunnel, attelage",44,La bete humaine.
+7,"carrier, cantine, coucou, flore, frise",95,La bete humaine.
+8,"manufacturier, cavale, contrecoup, espionnage, tâtant",43,La bete humaine.
+9,"testament, repincer, exagère, flanquerai, parler",17,La bete humaine.
+10,"dote, étreignirent, connaissiez, égorgement, mourir",7,La bete humaine.
+11,"âtre, flore, anglais, enfiévra, transbordement",25,La bete humaine.
+12,"aiguilleur, conducteur, carrier, régulateur, tunnel",42,La bete humaine.
+13,"assesseur, horticulteur, sût, hebdomadaire, guette",15,La bete humaine.
+14,"poitrail, tunnel, concupiscence, hennissement, fanal",63,La bete humaine.
+15,"potelé, bielle, drue, fragile, square",9,La bete humaine.
+16,"flore, tunnel, marraine, excitant, fardier",45,La bete humaine.
+17,"carrier, interrogatoire, signalement, piste, accusé",66,La bete humaine.
+18,"flore, fardier, tressaillit, diamanté, assourdie",35,La bete humaine.
+19,"donnez, angoissé, alternative, indissoluble, cherche",10,La bete humaine.
+20,"graissage, dînette, rayure, chauffage, cavale",2,La bete humaine.
+21,"cherche, magistrature, prévenu, type, effarement",19,La bete humaine.
+0,"berline, cage, houille, cuvelage, câble",224,Germinal.
+1,"boisage, internationale, programme, révolution, salaire",92,Germinal.
+2,"centime, prévoyance, marchandage, régisseur, herscheur",149,Germinal.
+3,"terri, rivelaine, empreinte, anéanti, puceau",38,Germinal.
+4,"cabaretier, aérage, délégué, mouchard, machineur",35,Germinal.
+5,"moi, rhum, morue, biscuit, tuerie",29,Germinal.
+6,"porion, gréviste, câble, cloutier, brûlé",100,Germinal.
+7,"veste, porion, coucou, bosse, briquet",65,Germinal.
+8,"gobaient, sentît, tannait, bourde, dévêtir",23,Germinal.
+9,"amende, chômage, logeur, raccommodage, pourri",41,Germinal.
+10,"donnai, ruineux, pâlit, étouffé, salaire",2,Germinal.
+11,"pierronne, poireau, calèche, oseille, cafetière",59,Germinal.
+12,"machineur, estaminet, délégué, porion, charbonnier",62,Germinal.
+13,"ducasse, distrait, firent, alarmée, affabilité",16,Germinal.
+14,"brûlé, emmène, inondation, gargouillement, haveur",73,Germinal.
+15,"gourde, tatouée, béguin, empêchât, reniflement",8,Germinal.
+16,"brioche, lapine, pissenlit, trinqua, causette",36,Germinal.
+17,"baril, gréviste, consigne, tracassaient, coalition",18,Germinal.
+18,"anémique, caraco, genièvre, dégingandé, mamelle",45,Germinal.
+19,"seron, réchauffer, aidât, criblage, infortune",4,Germinal.
+20,"endoctrinait, collision, jeton, correspondance, propagande",10,Germinal.
+21,"herscheur, grisou, ingénieur, porion, culbuteur",41,Germinal.
+0,"pèlerin, dais, bannière, nef, chariot",186,Lourdes.
+1,"pèlerin, égalité, dogme, paroissial, chariot",129,Lourdes.
+2,"entrepreneur, paroisse, tumeur, greffier, concurrence",30,Lourdes.
+3,"conversion, inextinguible, chariot, élu, agenouillée",107,Lourdes.
+4,"révérend, certificat, excursion, coiffeur, tuberculeux",89,Lourdes.
+5,"souffrir, microscopique, philosophique, jure, émerveillement",5,Lourdes.
+6,"brancardier, locomotive, pèlerin, débarquement, messagerie",20,Lourdes.
+7,"clé, chenal, sécheront, écran, cancer",51,Lourdes.
+8,"rétablissement, hospice, localiser, payât, léser",34,Lourdes.
+9,"rognon, sauce, saumon, directrice, danser",24,Lourdes.
+10,"conjure, piscine, surnaturel, ciboire, guérir",72,Lourdes.
+11,"fourgon, hospitalier, bouillon, brancardier, pèlerin",48,Lourdes.
+12,"pèlerin, hermoise, excursion, embarquement, miraculé",51,Lourdes.
+13,"ecclésiastique, guérir, révérend, excursion, directrice",27,Lourdes.
+14,"cancer, hospitalier, tumeur, phtisique, baignoire",26,Lourdes.
+15,"bidon, ave, vêtaient, supercherie, consolée",64,Lourdes.
+16,"valable, pharmacie, directrice, coupure, ensoleillée",58,Lourdes.
+17,"certificat, diagnostic, verbal, écrivain, constatation",27,Lourdes.
+18,"guérir, phtisique, ulcère, scrofule, capucin",86,Lourdes.
+19,"fourmillement, vicaire, coupole, arbrisseau, menât",35,Lourdes.
+20,"foudroyé, agacement, faussement, prétentieux, imagerie",4,Lourdes.
+21,"révérend, chaire, pèr, assomption, paralysie",30,Lourdes.
+0,"buis, fruitier, poirier, bûcher, fascine",25,La conquete de Plassans.
+1,"patronnesse, fatigua, unanime, géranium, laitue",7,La conquete de Plassans.
+2,"candidature, candidat, chapelier, lacet, moutarde",43,La conquete de Plassans.
+3,"craignai, humaine, pleurante, aplatissaient, extra",12,La conquete de Plassans.
+4,"vicaire, diocèse, dédommagement, conservateur, tonnelle",166,La conquete de Plassans.
+5,"millerolle, mouille, coupage, surprenai, dira",19,La conquete de Plassans.
+6,"pompe, rappel, pompier, vaurien, cocasse",9,La conquete de Plassans.
+7,"bréviaire, cabanon, grog, tonnelle, serrure",72,La conquete de Plassans.
+8,"querelleux, comité, criaillerie, simagrée, souffler",42,La conquete de Plassans.
+9,"bague, lucide, interrompit, taquin, torchon",73,La conquete de Plassans.
+10,"soupire, irai, meur, ignorai, éther",11,La conquete de Plassans.
+11,"poire, patronnesse, casserole, gigot, dragée",60,La conquete de Plassans.
+12,"cascade, anecdote, bassin, tanneur, vicaire",60,La conquete de Plassans.
+13,"limace, comité, oratoire, patronnesse, rhume",48,La conquete de Plassans.
+14,"égratignait, tulette, couchât, verge, mourante",10,La conquete de Plassans.
+15,"plissement, purgatoire, vieille, bâtardise, naine",12,La conquete de Plassans.
+16,"confessionnal, aliéné, oratoire, poire, verve",60,La conquete de Plassans.
+17,"liquoriste, crécelle, oeuvre, confidentiel, cabanon",3,La conquete de Plassans.
+18,"grelotte, duelliste, réveillant, marbré, écorchure",19,La conquete de Plassans.
+19,"rasoir, surplis, consolât, légitimiste, évêqu",33,La conquete de Plassans.
+20,"sarment, effarait, artistement, diocèse, hasardé",10,La conquete de Plassans.
+21,"bréviaire, raquette, pâtissier, désirât, pouffait",21,La conquete de Plassans.
