@@ -1,6 +1,6 @@
 {
   "n_neighbors": 10,
   "n_components": 5,
-  "min_cluster_size": 120,
-  "min_samples": 1
+  "min_cluster_size": 80,
+  "min_samples": 15
 }
