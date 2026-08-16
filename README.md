@@ -1,20 +1,17 @@
 # Zola DTM
 
-Analyse thématique dynamique d'un corpus de romans d'Émile Zola avec BERTopic.
+Ce projet prépare un corpus de romans d’Émile Zola en vue d’étudier l’évolution de leurs thèmes avec BERTopic.
 
-## Présentation
+Le travail est encore en cours : la préparation des données est terminée et la recherche d’hyperparamètres est en cours. Aucune configuration BERTopic n’a encore été retenue et l’analyse thématique finale n’a pas encore été réalisée.
 
-Ce projet construit un pipeline complet de modélisation thématique :
+## État du projet
 
-1. chargement des romans au format texte ;
-2. segmentation du corpus en paquets ;
-3. exploration statistique ;
-4. préparation et lemmatisation des textes ;
-5. recherche des meilleurs hyperparamètres BERTopic ;
-6. entraînement et exploration du modèle final ;
-7. analyse de la distribution des topics dans le temps et par roman.
-
-Le corpus de travail actuel comprend **31 romans**, découpés en **5 327 paquets**. Le modèle final retenu produit **33 topics**.
+- préparation et segmentation du corpus : terminées ;
+- exploration statistique des segments : réalisée ;
+- lemmatisation et structuration des données : terminées ;
+- calcul des embeddings : réalisé et mis en cache ;
+- recherche et comparaison des hyperparamètres : en cours ;
+- choix du modèle final et analyse des topics : à venir.
 
 ## Structure du projet
 
@@ -31,16 +28,22 @@ zola-dtm/
 │   ├── 1_raw/
 │   │   └── corpus_zola/
 │   ├── 2_processed/
+│   │   ├── 01_paquets_128.csv
+│   │   └── 02_corpus_zola_lematise_128.csv
 │   ├── 3_optimisation/
 │   ├── 4_resultats/
 │   └── donnees_annex/
+│       └── data_cache/
+│           └── embeddings_sentence_camembert.npy
 ├── requirements.txt
 └── README.md
 ```
 
+Le notebook `02_exploration_modele.ipynb` et le dossier `data/4_resultats/` concernent la suite du projet. Ils ne sont pas documentés ici, puisque la configuration finale et l’analyse ne sont pas encore arrêtées.
+
 ## Installation
 
-Le projet a été développé avec Python 3.12.
+Le projet utilise Python 3.12.
 
 ```bash
 python3.12 -m venv .venv
@@ -49,203 +52,210 @@ python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
-Sous Windows, l'environnement virtuel peut être activé avec :
+Sous Windows :
 
 ```powershell
+py -3.12 -m venv .venv
 .\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
 ```
 
-Les notebooks peuvent ensuite être ouverts dans VS Code ou dans une interface Jupyter. Si JupyterLab n'est pas déjà installé :
+Les notebooks peuvent ensuite être ouverts dans VS Code ou Jupyter. Si JupyterLab n’est pas déjà installé :
 
 ```bash
 python -m pip install jupyterlab
 jupyter lab
 ```
 
-Sélectionner le noyau Python associé à `.venv`.
+Il faut sélectionner le noyau Python associé à l’environnement `.venv`.
 
-## Ordre d'exécution
+## Ordre d’exécution
 
-Les notebooks doivent être exécutés dans l'ordre suivant :
+Les notebooks sont prévus pour être exécutés dans cet ordre :
 
-| Ordre | Notebook | Rôle principal |
+| Ordre | Notebook | Rôle |
 |---:|---|---|
-| 1 | [`01_segmentation.ipynb`](01_notebooks_préparation/01_segmentation.ipynb) | Charger les fichiers texte et les segmenter en paquets de 40 lignes non vides |
-| 2 | [`02_stat_exploratoire.ipynb`](01_notebooks_préparation/02_stat_exploratoire.ipynb) | Examiner la distribution du nombre de mots par paquet |
-| 3 | [`03_preparation_donnees.ipynb`](01_notebooks_préparation/03_preparation_donnees.ipynb) | Structurer les métadonnées, nettoyer et lemmatiser les textes |
-| 4 | [`01_recherche_hyperparametres.ipynb`](02_notebook_analyse/01_recherche_hyperparametres.ipynb) | Comparer les configurations BERTopic et sélectionner les paramètres |
-| 5 | [`02_exploration_modele.ipynb`](02_notebook_analyse/02_exploration_modele.ipynb) | Entraîner le modèle final et analyser les topics |
+| 1 | [`01_segmentation.ipynb`](01_notebooks_préparation/01_segmentation.ipynb) | Charger les romans et les découper en segments compatibles avec CamemBERT |
+| 2 | [`02_stat_exploratoire.ipynb`](01_notebooks_préparation/02_stat_exploratoire.ipynb) | Examiner la longueur des segments obtenus |
+| 3 | [`03_preparation_donnees.ipynb`](01_notebooks_préparation/03_preparation_donnees.ipynb) | Structurer les métadonnées et lemmatiser les textes |
+| 4 | [`01_recherche_hyperparametres.ipynb`](02_notebook_analyse/01_recherche_hyperparametres.ipynb) | Comparer plusieurs configurations BERTopic et mesurer leur stabilité |
 
-Les chemins relatifs utilisés dans les notebooks supposent que le répertoire de travail du noyau correspond au dossier contenant le notebook. Avant l'exécution, vérifier ce point avec `Path.cwd()` et, si nécessaire, configurer le répertoire de travail dans Jupyter ou VS Code.
+Les chemins relatifs présents dans le code supposent que le répertoire de travail correspond au dossier du notebook exécuté. Par exemple, `01_recherche_hyperparametres.ipynb` doit être lancé avec `02_notebook_analyse/` comme répertoire de travail.
 
-## Préparation du corpus
+## 1. Segmentation du corpus
 
-### 1. Segmentation
+Le notebook `01_segmentation.ipynb` charge les fichiers `.txt` placés dans `data/1_raw/corpus_zola/`. Le corpus actuel contient **31 romans**.
 
-`01_segmentation.ipynb` lit les fichiers `.txt` placés dans `data/1_raw/corpus_zola/`. Les lignes vides sont supprimées, puis chaque roman est regroupé en paquets de 40 lignes non vides.
-
-Le résultat est enregistré dans :
-
-```text
-data/2_processed/01_paquets_phrases.csv
-```
-
-### 2. Exploration statistique
-
-`02_stat_exploratoire.ipynb` décrit la longueur des paquets. Dans le corpus actuel :
-
-- 5 327 paquets sont analysés ;
-- la moyenne est de 785 mots par paquet ;
-- la médiane est de 753 mots ;
-- les paquets très courts ou très longs sont rares et sont conservés.
-
-Ce notebook est descriptif et ne produit pas de nouveau fichier.
-
-### 3. Structuration et lemmatisation
-
-`03_preparation_donnees.ipynb` :
-
-- extrait l'année et le titre du roman à partir du nom de fichier ;
-- ordonne les romans chronologiquement ;
-- attribue un identifiant à chaque paquet ;
-- calcule le nombre de mots ;
-- lemmatise les textes avec `fr_core_news_lg` ;
-- retire les stop words, la ponctuation, les nombres et les entités nommées ;
-- conserve les noms et les adjectifs de plus de deux caractères.
-
-Il produit successivement :
-
-```text
-data/2_processed/02_corpus_zola.csv
-data/2_processed/03_corpus_lematise.csv
-```
-
-## Embeddings sémantiques
-
-Les deux notebooks d'analyse utilisent le modèle Sentence-Transformers :
+La segmentation s’appuie sur le tokenizer du modèle :
 
 ```text
 dangvantuan/sentence-camembert-base
 ```
 
-Les embeddings sont calculés sur la colonne `texte`, tandis que BERTopic construit ses représentations lexicales à partir de la colonne lemmatisée `phrases_lemm`.
+Le modèle accepte au maximum 128 tokens. Le code réserve la place nécessaire aux tokens spéciaux, vise des segments d’environ 110 tokens de contenu et vérifie qu’aucun segment ne dépasse la limite du modèle. Les lignes vides sont ignorées. Lorsqu’une ligne est trop longue pour tenir seule dans un segment, elle est exceptionnellement découpée mot par mot.
 
-Le cache partagé est enregistré dans :
+Le fichier produit est :
 
 ```text
-data/donnees_annex/embeddings_sentence_camembert.npy
+data/2_processed/01_paquets_128.csv
 ```
 
-Lorsqu'il existe, les deux notebooks chargent directement ce fichier. Dans le cas contraire, le premier notebook exécuté génère les embeddings puis les sauvegarde. Le cache actuel contient une matrice de dimension **5 327 × 768**.
+Il contient les colonnes suivantes :
 
-Si le corpus, l'ordre de ses lignes ou le modèle d'embeddings change, supprimer ce fichier avant de relancer l'analyse afin d'éviter d'utiliser des représentations devenues obsolètes.
+| Colonne | Contenu |
+|---|---|
+| `nom_fichier` | Nom du fichier source |
+| `id_paquet` | Position du segment dans le roman, à partir de 0 |
+| `phrases_paquet` | Texte brut du segment |
+| `nb_tokens_camembert` | Nombre de tokens, tokens spéciaux compris |
 
-Une connexion internet peut être nécessaire lors de la première exécution pour télécharger le modèle Sentence-Transformers s'il n'est pas déjà présent dans le cache local.
+L’exécution actuelle produit **61 435 segments**. Leur longueur moyenne est d’environ **105 tokens CamemBERT**, avec un maximum vérifié de **128 tokens**.
 
-## Optimisation de BERTopic
+## 2. Exploration statistique
 
-`01_recherche_hyperparametres.ipynb` teste 256 configurations issues de la grille suivante :
+Le notebook `02_stat_exploratoire.ipynb` recharge `01_paquets_128.csv` et calcule le nombre de mots de chaque segment avec un découpage sur les espaces.
+
+Il affiche :
+
+- les statistiques descriptives de la longueur des segments ;
+- le nombre de segments contenant moins de 127 mots ;
+- le nombre de segments contenant plus de 200 mots ;
+- le nombre de segments contenant plus de 250 mots.
+
+Cette étape est uniquement descriptive et ne crée pas de nouveau fichier.
+
+## 3. Préparation et lemmatisation
+
+Le notebook `03_preparation_donnees.ipynb` prépare les données avant la modélisation :
+
+- renommage des colonnes issues de la segmentation ;
+- extraction de l’année à partir du nom de fichier ;
+- classement chronologique des romans ;
+- création du nom du roman à partir du nom de fichier ;
+- tri des segments par roman et renumérotation à partir de 1.
+
+La lemmatisation utilise le modèle spaCy `fr_core_news_lg`. Le parser et la reconnaissance d’entités nommées ne sont pas chargés, car ils ne sont pas utilisés à cette étape.
+
+Le texte lemmatisé conserve uniquement :
+
+- les noms (`NOUN`) ;
+- les adjectifs (`ADJ`) ;
+- les verbes (`VERB`).
+
+La ponctuation, les espaces, les nombres et les lemmes de moins de deux caractères sont écartés. Le code n’applique pas de filtre séparé aux stop words et ne supprime pas spécifiquement les entités nommées.
+
+Trois segments ne contiennent plus aucun lemme après ce traitement et sont exclus. Le corpus préparé contient donc **61 432 segments**.
+
+Le résultat est enregistré dans :
+
+```text
+data/2_processed/02_corpus_zola_lematise_128.csv
+```
+
+| Colonne | Contenu |
+|---|---|
+| `roman` | Nom du roman dérivé du fichier source |
+| `annee` | Année extraite du nom de fichier |
+| `ordre_romans` | Rang chronologique du roman |
+| `paquet_id` | Position du segment dans le roman, à partir de 1 |
+| `texte` | Texte brut du segment |
+| `nb_tokens_camembert` | Nombre de tokens CamemBERT |
+| `phrases_lemm` | Suite de lemmes utilisée par BERTopic |
+
+## 4. Embeddings sémantiques
+
+Le notebook de recherche d’hyperparamètres utilise également `dangvantuan/sentence-camembert-base` pour calculer les embeddings.
+
+Les embeddings sont calculés à partir de la colonne de texte brut `texte`. La colonne lemmatisée `phrases_lemm` sert ensuite à construire la représentation lexicale des topics dans BERTopic.
+
+Le cache est enregistré dans :
+
+```text
+data/donnees_annex/data_cache/embeddings_sentence_camembert.npy
+```
+
+S’il existe déjà, il est chargé directement. Sinon, les embeddings sont calculés par lots de 64 documents puis sauvegardés. Le cache actuel a une dimension de **61 432 × 768**.
+
+Le notebook vérifie que le nombre d’embeddings correspond au nombre de lignes du corpus. Si le corpus, son ordre ou le modèle d’embeddings change, le fichier de cache doit être régénéré.
+
+Une connexion internet peut être nécessaire lors de la première exécution pour télécharger le modèle Sentence-Transformers.
+
+## 5. Recherche d’hyperparamètres BERTopic
+
+Le notebook `01_recherche_hyperparametres.ipynb` compare actuellement **72 configurations**, obtenues avec la grille suivante :
 
 | Composant | Paramètre | Valeurs testées |
 |---|---|---|
-| UMAP | `n_neighbors` | 10, 25, 50, 60 |
+| UMAP | `n_neighbors` | 40, 50, 60 |
 | UMAP | `n_components` | 5, 10, 15, 20 |
-| HDBSCAN | `min_cluster_size` | 20, 40, 80, 120 |
-| HDBSCAN | `min_samples` | 1, 5, 10, 15 |
+| HDBSCAN | `min_cluster_size` | 184, 246, 307 |
+| HDBSCAN | `min_samples` | 1, 2 |
 
-Les configurations sont évaluées avec plusieurs critères :
+Les paramètres fixes principaux sont :
 
-- cohérence thématique C_v ;
-- score de silhouette dans l'espace UMAP ;
-- DBCV ;
-- diversité lexicale ;
-- couverture des documents ;
-- proportion du topic dominant ;
-- stabilité entre plusieurs graines aléatoires, mesurée avec l'Adjusted Rand Index.
+- UMAP : `min_dist=0.0`, distance cosinus, graine aléatoire `42` ;
+- HDBSCAN : distance euclidienne et sélection des clusters avec la méthode `eom` ;
+- `CountVectorizer` : unigrammes, `min_df=2` et `max_df=0.8` ;
+- c-TF-IDF : réduction des mots fréquents et pondération BM25 ;
+- BERTopic : pas de réduction forcée du nombre de topics et pas de calcul des probabilités.
 
-Les dix meilleures configurations sont réentraînées avec les graines `1`, `11`, `35`, `42`, `73` et `89`.
+### Métriques calculées
 
-### Configuration retenue
+Chaque configuration est évaluée avant toute réaffectation des outliers. Le notebook calcule :
 
-```json
-{
-  "n_neighbors": 10,
-  "n_components": 20,
-  "min_cluster_size": 20,
-  "min_samples": 5
-}
-```
+- le nombre de topics ;
+- le taux d’outliers et la couverture des documents ;
+- le score de silhouette dans l’espace UMAP, sur un échantillon maximal de 4 000 documents ;
+- le DBCV ;
+- la cohérence thématique C_v ;
+- la diversité lexicale des dix premiers mots de chaque topic ;
+- les tailles minimale, médiane et maximale des topics ;
+- la part occupée par le topic dominant ;
+- la durée d’entraînement.
 
-Le modèle à 33 topics est sélectionné volontairement pour sa granularité interprétative. Il correspond à la deuxième configuration du classement final : la première produit seulement 8 topics, ce qui a été jugé trop général pour l'analyse du corpus.
-
-Les paramètres retenus sont enregistrés dans :
+Les résultats sont sauvegardés après chaque configuration dans :
 
 ```text
-data/donnees_annex/meilleurs_parametres_bertopic.json
+data/3_optimisation/resultats_grille_bertopic.csv
 ```
 
-La recherche complète est coûteuse : elle entraîne 256 modèles pour la grille, puis 60 modèles supplémentaires pour l'analyse de stabilité. Les résultats de la grille sont sauvegardés après chaque configuration.
+Cette sauvegarde intermédiaire permet de conserver la progression d’une recherche coûteuse.
 
-## Exploration du modèle final
+### Classement multicritère
 
-`02_exploration_modele.ipynb` :
+Avant le classement, le notebook écarte les configurations qui :
 
-- recharge les paramètres et les embeddings ;
-- entraîne le modèle BERTopic final ;
-- compare plusieurs seuils de réaffectation des outliers ;
-- retient un seuil final de `0.30` ;
-- affine la représentation lexicale avec une liste de stop words propre au corpus ;
-- calcule la cohérence et la diversité finales ;
-- construit une hiérarchie des topics ;
-- étudie leur évolution temporelle ;
-- calcule leur fréquence et leur proportion dans chaque roman.
+- produisent moins de 10 topics ;
+- classent plus de 75 % des documents comme outliers ;
+- attribuent plus de 40 % des documents assignés au topic dominant.
 
-### Résultats de l'exécution actuelle
+Les configurations restantes reçoivent un score construit à partir des rangs percentiles :
 
-| Indicateur | Valeur |
+| Critère | Poids |
 |---|---:|
-| Documents analysés | 5 327 |
-| Romans | 31 |
-| Topics finaux | 33 |
-| Taux brut d'outliers | 55,6 % |
-| Taux d'outliers après réaffectation | 0,0 % |
-| Cohérence C_v finale | 0,471 |
-| Diversité lexicale finale | 0,915 |
+| Cohérence C_v | 30 % |
+| Silhouette | 20 % |
+| DBCV | 15 % |
+| Diversité lexicale | 15 % |
+| Couverture | 10 % |
+| Équilibre des topics | 10 % |
 
-Ces valeurs correspondent à l'exécution actuellement enregistrée. Elles peuvent évoluer si le corpus, les dépendances, les paramètres ou les règles de prétraitement sont modifiés.
+### Stabilité
 
-## Fichiers produits
+Le notebook prévoit ensuite de réentraîner jusqu’aux dix meilleures configurations avec les graines `11`, `30`, `42`, `57` et `73`.
 
-### Données préparées
+La stabilité est mesurée avec l’Adjusted Rand Index, d’une part sur tous les documents et d’autre part sur les documents assignés dans les deux exécutions comparées. Le notebook suit également la part de documents assignés en commun, le nombre moyen de topics et le taux moyen d’outliers.
 
-| Fichier | Contenu |
-|---|---|
-| `data/2_processed/01_paquets_phrases.csv` | Paquets issus de la segmentation des romans |
-| `data/2_processed/02_corpus_zola.csv` | Corpus structuré avec les métadonnées et le texte brut |
-| `data/2_processed/03_corpus_lematise.csv` | Corpus enrichi avec la colonne `phrases_lemm` |
+Les fichiers de classement et de stabilité sont destinés à être enregistrés dans :
 
-### Optimisation
+```text
+data/3_optimisation/classement_modeles_bertopic.csv
+data/3_optimisation/stabilite_modeles_bertopic.csv
+```
 
-| Fichier | Contenu |
-|---|---|
-| `data/3_optimisation/resultats_grille_bertopic.csv` | Résultats bruts des 256 configurations |
-| `data/3_optimisation/classement_modeles_bertopic.csv` | Configurations filtrées et classées par score multicritère |
-| `data/3_optimisation/stabilite_modeles_bertopic.csv` | Stabilité des dix meilleures configurations |
+## Suite du projet
 
-### Résultats finaux
+La recherche d’hyperparamètres doit encore être terminée et interprétée avant de choisir une configuration. Le nombre final de topics, la gestion des outliers et les analyses par roman ou dans le temps ne sont donc pas encore fixés.
 
-| Fichier | Contenu |
-|---|---|
-| `data/4_resultats/documents_avec_topics.csv` | Topic attribué à chaque paquet du corpus |
-| `data/4_resultats/informations_topics.csv` | Taille, nom, représentation et documents représentatifs de chaque topic |
-| `data/4_resultats/topics_par_roman_comptages.csv` | Nombre de paquets par topic et par roman |
-| `data/4_resultats/topics_par_roman_proportions.csv` | Proportion des topics dans chaque roman |
-| `data/4_resultats/bertopic_topics_per_class.csv` | Représentation BERTopic des topics pour chaque roman |
-
-## Reproductibilité
-
-- La graine principale utilisée par UMAP est `42`.
-- Les embeddings sont mis en cache pour éviter leur recalcul.
-- Le nombre de lignes du cache est vérifié avant la modélisation.
-- Les fichiers de résultats sont enregistrés en UTF-8.
-- Toute modification du corpus ou du modèle Sentence-Transformers nécessite la régénération du cache d'embeddings.
+Ces éléments seront documentés après la sélection et l’entraînement du modèle final.
