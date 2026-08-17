@@ -1,8 +1,8 @@
 {
-  "n_neighbors": 60,
+  "n_neighbors": 50,
   "n_components": 20,
-  "min_cluster_size": 120,
+  "min_cluster_size": 246,
   "min_samples": 1,
   "random_state": 42,
-  "expected_n_topics": 12
+  "expected_n_topics": 17
 }
